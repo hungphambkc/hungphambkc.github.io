@@ -1,0 +1,616 @@
+@charset "utf-8";
+/* CSS Document */
+/*for live time*/
+[data-hours^="0"] .digit:nth-child(1) :nth-child(4):before, [data-hours^="0"] .digit:nth-child(1) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-hours$="0"] .digit:nth-child(2) :nth-child(4):before, [data-hours$="0"] .digit:nth-child(2) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes^="0"] .digit:nth-child(3) :nth-child(4):before, [data-minutes^="0"] .digit:nth-child(3) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes$="0"] .digit:nth-child(4) :nth-child(4):before, [data-minutes$="0"] .digit:nth-child(4) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds^="0"] .digit:nth-child(5) :nth-child(4):before, [data-seconds^="0"] .digit:nth-child(5) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds$="0"] .digit:nth-child(6) :nth-child(4):before, [data-seconds$="0"] .digit:nth-child(6) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-hours^="1"] .digit:nth-child(1) :nth-child(1):before, [data-hours^="1"] .digit:nth-child(1) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours^="1"] .digit:nth-child(1) :nth-child(2):before, [data-hours^="1"] .digit:nth-child(1) :nth-child(2):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours^="1"] .digit:nth-child(1) :nth-child(4):before, [data-hours^="1"] .digit:nth-child(1) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours^="1"] .digit:nth-child(1) :nth-child(5):before, [data-hours^="1"] .digit:nth-child(1) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours^="1"] .digit:nth-child(1) :nth-child(6):before, [data-hours^="1"] .digit:nth-child(1) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-hours$="1"] .digit:nth-child(2) :nth-child(1):before, [data-hours$="1"] .digit:nth-child(2) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours$="1"] .digit:nth-child(2) :nth-child(2):before, [data-hours$="1"] .digit:nth-child(2) :nth-child(2):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours$="1"] .digit:nth-child(2) :nth-child(4):before, [data-hours$="1"] .digit:nth-child(2) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours$="1"] .digit:nth-child(2) :nth-child(5):before, [data-hours$="1"] .digit:nth-child(2) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours$="1"] .digit:nth-child(2) :nth-child(6):before,
+ [data-hours$="1"] .digit:nth-child(2) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes^="1"] .digit:nth-child(3) :nth-child(1):before, [data-minutes^="1"] .digit:nth-child(3) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes^="1"] .digit:nth-child(3) :nth-child(2):before, [data-minutes^="1"] .digit:nth-child(3) :nth-child(2):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes^="1"] .digit:nth-child(3) :nth-child(4):before, [data-minutes^="1"] .digit:nth-child(3) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes^="1"] .digit:nth-child(3) :nth-child(5):before, [data-minutes^="1"] .digit:nth-child(3) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes^="1"] .digit:nth-child(3) :nth-child(6):before, [data-minutes^="1"] .digit:nth-child(3) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes$="1"] .digit:nth-child(4) :nth-child(1):before, [data-minutes$="1"] .digit:nth-child(4) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes$="1"] .digit:nth-child(4) :nth-child(2):before, [data-minutes$="1"] .digit:nth-child(4) :nth-child(2):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes$="1"] .digit:nth-child(4) :nth-child(4):before, [data-minutes$="1"] .digit:nth-child(4) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes$="1"] .digit:nth-child(4) :nth-child(5):before, [data-minutes$="1"] .digit:nth-child(4) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes$="1"] .digit:nth-child(4) :nth-child(6):before, [data-minutes$="1"] .digit:nth-child(4) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds^="1"] .digit:nth-child(5) :nth-child(1):before, [data-seconds^="1"] .digit:nth-child(5) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds^="1"] .digit:nth-child(5) :nth-child(2):before, [data-seconds^="1"] .digit:nth-child(5) :nth-child(2):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds^="1"] .digit:nth-child(5) :nth-child(4):before, [data-seconds^="1"] .digit:nth-child(5) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds^="1"] .digit:nth-child(5) :nth-child(5):before, [data-seconds^="1"] .digit:nth-child(5) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds^="1"] .digit:nth-child(5) :nth-child(6):before, [data-seconds^="1"] .digit:nth-child(5) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds$="1"] .digit:nth-child(6) :nth-child(1):before, [data-seconds$="1"] .digit:nth-child(6) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds$="1"] .digit:nth-child(6) :nth-child(2):before, [data-seconds$="1"] .digit:nth-child(6) :nth-child(2):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds$="1"] .digit:nth-child(6) :nth-child(4):before, [data-seconds$="1"] .digit:nth-child(6) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds$="1"] .digit:nth-child(6) :nth-child(5):before, [data-seconds$="1"] .digit:nth-child(6) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds$="1"] .digit:nth-child(6) :nth-child(6):before, [data-seconds$="1"] .digit:nth-child(6) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-hours^="2"] .digit:nth-child(1) :nth-child(1):before, [data-hours^="2"] .digit:nth-child(1) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours^="2"] .digit:nth-child(1) :nth-child(7):before, [data-hours^="2"] .digit:nth-child(1) :nth-child(7):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-hours$="2"] .digit:nth-child(2) :nth-child(1):before, [data-hours$="2"] .digit:nth-child(2) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours$="2"] .digit:nth-child(2) :nth-child(7):before, [data-hours$="2"] .digit:nth-child(2) :nth-child(7):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes^="2"] .digit:nth-child(3) :nth-child(1):before, [data-minutes^="2"] .digit:nth-child(3) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes^="2"] .digit:nth-child(3) :nth-child(7):before, [data-minutes^="2"] .digit:nth-child(3) :nth-child(7):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes$="2"] .digit:nth-child(4) :nth-child(1):before, [data-minutes$="2"] .digit:nth-child(4) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes$="2"] .digit:nth-child(4) :nth-child(7):before, [data-minutes$="2"] .digit:nth-child(4) :nth-child(7):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds^="2"] .digit:nth-child(5) :nth-child(1):before, [data-seconds^="2"] .digit:nth-child(5) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds^="2"] .digit:nth-child(5) :nth-child(7):before, [data-seconds^="2"] .digit:nth-child(5) :nth-child(7):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds$="2"] .digit:nth-child(6) :nth-child(1):before, [data-seconds$="2"] .digit:nth-child(6) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds$="2"] .digit:nth-child(6) :nth-child(7):before, [data-seconds$="2"] .digit:nth-child(6) :nth-child(7):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-hours$="3"] .digit:nth-child(2) :nth-child(1):before, [data-hours$="3"] .digit:nth-child(2) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours$="3"] .digit:nth-child(2) :nth-child(5):before, [data-hours$="3"] .digit:nth-child(2) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes^="3"] .digit:nth-child(3) :nth-child(1):before, [data-minutes^="3"] .digit:nth-child(3) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes^="3"] .digit:nth-child(3) :nth-child(5):before, [data-minutes^="3"] .digit:nth-child(3) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes$="3"] .digit:nth-child(4) :nth-child(1):before, [data-minutes$="3"] .digit:nth-child(4) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes$="3"] .digit:nth-child(4) :nth-child(5):before, [data-minutes$="3"] .digit:nth-child(4) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds^="3"] .digit:nth-child(5) :nth-child(1):before, [data-seconds^="3"] .digit:nth-child(5) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds^="3"] .digit:nth-child(5) :nth-child(5):before, [data-seconds^="3"] .digit:nth-child(5) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds$="3"] .digit:nth-child(6) :nth-child(1):before, [data-seconds$="3"] .digit:nth-child(6) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds$="3"] .digit:nth-child(6) :nth-child(5):before, [data-seconds$="3"] .digit:nth-child(6) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-hours$="4"] .digit:nth-child(2) :nth-child(2):before, [data-hours$="4"] .digit:nth-child(2) :nth-child(2):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours$="4"] .digit:nth-child(2) :nth-child(5):before, [data-hours$="4"] .digit:nth-child(2) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours$="4"] .digit:nth-child(2) :nth-child(6):before, [data-hours$="4"] .digit:nth-child(2) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes^="4"] .digit:nth-child(3) :nth-child(2):before, [data-minutes^="4"] .digit:nth-child(3) :nth-child(2):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes^="4"] .digit:nth-child(3) :nth-child(5):before, [data-minutes^="4"] .digit:nth-child(3) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes^="4"] .digit:nth-child(3) :nth-child(6):before, [data-minutes^="4"] .digit:nth-child(3) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes$="4"] .digit:nth-child(4) :nth-child(2):before, [data-minutes$="4"] .digit:nth-child(4) :nth-child(2):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes$="4"] .digit:nth-child(4) :nth-child(5):before, [data-minutes$="4"] .digit:nth-child(4) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes$="4"] .digit:nth-child(4) :nth-child(6):before, [data-minutes$="4"] .digit:nth-child(4) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds^="4"] .digit:nth-child(5) :nth-child(2):before, [data-seconds^="4"] .digit:nth-child(5) :nth-child(2):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds^="4"] .digit:nth-child(5) :nth-child(5):before, [data-seconds^="4"] .digit:nth-child(5) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds^="4"] .digit:nth-child(5) :nth-child(6):before, [data-seconds^="4"] .digit:nth-child(5) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds$="4"] .digit:nth-child(6) :nth-child(2):before, [data-seconds$="4"] .digit:nth-child(6) :nth-child(2):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds$="4"] .digit:nth-child(6) :nth-child(5):before, [data-seconds$="4"] .digit:nth-child(6) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds$="4"] .digit:nth-child(6) :nth-child(6):before, [data-seconds$="4"] .digit:nth-child(6) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-hours$="5"] .digit:nth-child(2) :nth-child(3):before, [data-hours$="5"] .digit:nth-child(2) :nth-child(3):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours$="5"] .digit:nth-child(2) :nth-child(5):before, [data-hours$="5"] .digit:nth-child(2) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes^="5"] .digit:nth-child(3) :nth-child(3):before, [data-minutes^="5"] .digit:nth-child(3) :nth-child(3):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes^="5"] .digit:nth-child(3) :nth-child(5):before, [data-minutes^="5"] .digit:nth-child(3) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes$="5"] .digit:nth-child(4) :nth-child(3):before, [data-minutes$="5"] .digit:nth-child(4) :nth-child(3):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes$="5"] .digit:nth-child(4) :nth-child(5):before, [data-minutes$="5"] .digit:nth-child(4) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds^="5"] .digit:nth-child(5) :nth-child(3):before, [data-seconds^="5"] .digit:nth-child(5) :nth-child(3):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds^="5"] .digit:nth-child(5) :nth-child(5):before, [data-seconds^="5"] .digit:nth-child(5) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds$="5"] .digit:nth-child(6) :nth-child(3):before, [data-seconds$="5"] .digit:nth-child(6) :nth-child(3):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds$="5"] .digit:nth-child(6) :nth-child(5):before, [data-seconds$="5"] .digit:nth-child(6) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-hours$="6"] .digit:nth-child(2) :nth-child(3):before, [data-hours$="6"] .digit:nth-child(2) :nth-child(3):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes^="6"] .digit:nth-child(3) :nth-child(3):before, [data-minutes^="6"] .digit:nth-child(3) :nth-child(3):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes$="6"] .digit:nth-child(4) :nth-child(3):before, [data-minutes$="6"] .digit:nth-child(4) :nth-child(3):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds^="6"] .digit:nth-child(5) :nth-child(3):before, [data-seconds^="6"] .digit:nth-child(5) :nth-child(3):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds$="6"] .digit:nth-child(6) :nth-child(3):before, [data-seconds$="6"] .digit:nth-child(6) :nth-child(3):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-hours$="7"] .digit:nth-child(2) :nth-child(1):before, [data-hours$="7"] .digit:nth-child(2) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours$="7"] .digit:nth-child(2) :nth-child(4):before, [data-hours$="7"] .digit:nth-child(2) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours$="7"] .digit:nth-child(2) :nth-child(5):before, [data-hours$="7"] .digit:nth-child(2) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-hours$="7"] .digit:nth-child(2) :nth-child(6):before, [data-hours$="7"] .digit:nth-child(2) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes^="7"] .digit:nth-child(3) :nth-child(1):before, [data-minutes^="7"] .digit:nth-child(3) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes^="7"] .digit:nth-child(3) :nth-child(4):before, [data-minutes^="7"] .digit:nth-child(3) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes^="7"] .digit:nth-child(3) :nth-child(5):before, [data-minutes^="7"] .digit:nth-child(3) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes^="7"] .digit:nth-child(3) :nth-child(6):before, [data-minutes^="7"] .digit:nth-child(3) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes$="7"] .digit:nth-child(4) :nth-child(1):before, [data-minutes$="7"] .digit:nth-child(4) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes$="7"] .digit:nth-child(4) :nth-child(4):before, [data-minutes$="7"] .digit:nth-child(4) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes$="7"] .digit:nth-child(4) :nth-child(5):before, [data-minutes$="7"] .digit:nth-child(4) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-minutes$="7"] .digit:nth-child(4) :nth-child(6):before, [data-minutes$="7"] .digit:nth-child(4) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds^="7"] .digit:nth-child(5) :nth-child(1):before, [data-seconds^="7"] .digit:nth-child(5) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds^="7"] .digit:nth-child(5) :nth-child(4):before, [data-seconds^="7"] .digit:nth-child(5) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds^="7"] .digit:nth-child(5) :nth-child(5):before, [data-seconds^="7"] .digit:nth-child(5) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds^="7"] .digit:nth-child(5) :nth-child(6):before, [data-seconds^="7"] .digit:nth-child(5) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds$="7"] .digit:nth-child(6) :nth-child(1):before, [data-seconds$="7"] .digit:nth-child(6) :nth-child(1):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds$="7"] .digit:nth-child(6) :nth-child(4):before, [data-seconds$="7"] .digit:nth-child(6) :nth-child(4):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds$="7"] .digit:nth-child(6) :nth-child(5):before, [data-seconds$="7"] .digit:nth-child(6) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+[data-seconds$="7"] .digit:nth-child(6) :nth-child(6):before, [data-seconds$="7"] .digit:nth-child(6) :nth-child(6):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-hours$="9"] .digit:nth-child(2) :nth-child(5):before, [data-hours$="9"] .digit:nth-child(2) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes^="9"] .digit:nth-child(3) :nth-child(5):before, [data-minutes^="9"] .digit:nth-child(3) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-minutes$="9"] .digit:nth-child(4) :nth-child(5):before, [data-minutes$="9"] .digit:nth-child(4) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds^="9"] .digit:nth-child(5) :nth-child(5):before, [data-seconds^="9"] .digit:nth-child(5) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
+
+[data-seconds$="9"] .digit:nth-child(6) :nth-child(5):before, [data-seconds$="9"] .digit:nth-child(6) :nth-child(5):after {
+  opacity: 0.3;
+  -webkit-transform: translateZ(-2vmax);
+          transform: translateZ(-2vmax);
+}
