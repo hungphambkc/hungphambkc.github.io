@@ -1924,6 +1924,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||hedgehoghugsyou.com
 ||hentai.xxx
 ||hentaivl.net
+||hentaivn.info
+||hentaivn.moe
+||hentaivn.net
 ||hentaivnvip.com
 ||hentaivv.com
 ||hentaixxx.com
