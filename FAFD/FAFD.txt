@@ -1960,6 +1960,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||horsered.com^
 ||hphim.tv/*.gif
 ||hphim.tv/*.xml
+||htvncdn.net
 ||hugfromoctopus.com
 ||huto.club
 ||hypomnimata.com
@@ -2215,6 +2216,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||letou86.com
 ||letouvnbet.com
 ||letouvnlink.com
+||leucan3thegm6um.com
 ||lgviet.com/forum/bannerscript.js
 ||licensesoft.vn/app/*
 ||licensesoft.vn/games/*
@@ -2370,7 +2372,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||nymzz3.tw
 ||o2yms3.tw
 ||oclaserver.com^$third-party
-||oclasrv.com^
+||oclasrv.com
+||octopuspop.com
 ||ogtcwsqeejrfom.xyz
 ||olalive-storage.s3.ap-southeast-1.amazonaws.com/assets/banner-images/*
 ||onclasrv.com^$third-party
@@ -2689,6 +2692,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||skimresources.net^
 ||skylink.vn^
 ||skypeassets.com^$third-party,domain=~skype.com
+||smac-ad.com
 ||smail188.com^$third-party
 ||smallfunnybears.com
 ||smarbattery.com
