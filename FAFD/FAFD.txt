@@ -1,5 +1,5 @@
 ! Title: FAFD
-! Version: 04.23.033
+! Version: 05.01.034
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke & Kaspersky
 ! Author: Hung Pham
@@ -2201,6 +2201,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||kuclub.info
 ||kudv.net
 ||kuvip3576.com
+||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 ||lammasbananas.com
 ||lamtinh.pro
 ||lavanetwork.net^
