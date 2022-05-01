@@ -2716,6 +2716,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sovetnik.yandex.net^$third-party
 ||soytehoabinh.gov.vn/2021/*.html
 ||spankbang.com
+||spewyelks.com
 ||spillvacation.com^$third-party
 ||sponsor.imacdn.com/*/*.mp4
 ||sport788.com
@@ -3213,7 +3214,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||yulunanews.name
 ||zantbowsing.cam^$third-party
 ||zap.buzz
-||zedo.com^
+||zedo.com
 ||zen-desktop-morda.mediascope.mc.yandex.ru
 ||zen-desktop-site.mediascope.mc.yandex.ru
 ||zen-mobile-morda.mediascope.mc.yandex.ru
