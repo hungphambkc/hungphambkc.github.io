@@ -1,5 +1,7 @@
 # FAFD Ads, Gamling, Adult, Scam Block for uBlock Origin in Vietnam.
- #### Step 1: Install Extension uBlock Origin
+
+#### Step 1: Install Extension uBlock Origin
+
    <html> 
     <p align="center"> 
       <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/">Chrome </a> |
@@ -11,8 +13,10 @@
 #### Step 2: Copy link raw Github and paste to uBlock Origin Extension.
   <html> 
     <p align="center"> 
-       <a href="https://raw.githubusercontent.com/hungphambkc/hungphambkc.github.io/main/FAFD/FAFD.txt"> FAFD </a> | <a href="https://huyhung.name.vn/ads-filter/FAFD.txt">Link 2 </a> | <a href="https://hungphambkc.github.io/FAFD/FAFD.txt">Link 3
+    <a href="https://raw.githubusercontent.com/hungphambkc/hungphambkc.github.io/main/FAFD/FAFD.txt"> FAFD </a>| 
+    <a href="https://huyhung.name.vn/ads-filter/FAFD.txt">Link 2 </a>| 
+    <a href="https://hungphambkc.github.io/FAFD/FAFD.txt">Link 3
     </p>
   </html>
 
-#### Step 3: Done! 
+#### Step 3: Done!
