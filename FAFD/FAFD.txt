@@ -2253,6 +2253,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||luckytravelshop.info^
 ||luminate.com^
 ||luulibaluli.com
+||luzulabeguile.com
 ||m.servedby-buysellads.com
 ||m.youtube.com/*/ad.js$script
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
@@ -2577,6 +2578,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||reedthatm.biz
 ||refugedcuber.com
 ||rendykunto.com
+||resalag.com
 ||rev2pub.com^
 ||reviveservers.com^
 ||revsci.net^
