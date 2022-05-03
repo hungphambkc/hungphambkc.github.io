@@ -442,6 +442,8 @@ pcworld.com.vn##.pc-adv-local-2
 pes.vn##.body_wrapper > CENTER
 petrotimes.vn##[id^="rotating_elements_"]
 phim.tiengnga.net##.sectionMain.funbox
+phim.vkoolzz.net###ad_right_watch
+phim.vkoolzz.net###boxes
 phim1080z.com,fim1080.com##.banner-0.banner-preload.ff-banner
 phim1080z.com,fim1080.com##.banner-640x100.ff-banner
 phim1080z.com,fim1080.com##.catfish.banner-0.balloon-left.banner-balloon.ff-banner
@@ -616,9 +618,11 @@ tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##div[class*="ad
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##script[nonce] + script[nonce] + div[class]
 userstyles.org###social
 uslugi.yandex.ru##.WebBanner
+vatlydaicuong.com##.entry-content > .adsbygoogle
+vatlydaicuong.com##.mRtnPCNI > .adsbygoogle
+vatlydaicuong.com##.s3V8g23k > .adsbygoogle
+vatlydaicuong.com##.\37 ROu5shP > .adsbygoogle
 viettorrent.vn##.container-fluid CENTER
-vkool.net###ad_right_watch
-vkool.net###boxes
 vnexpress.net##.banner-top-home.banner-ads.section-ads-top.section
 vnexpress.net##[class^="banner_"]
 vnreview.vn##._1lhj7qShQwdxq12nNl9ixF.vnr_header_right
