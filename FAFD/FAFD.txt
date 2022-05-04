@@ -453,6 +453,7 @@ phimmedia.tv##.adv-300-right
 phimmedia.tv##BODY > .nopadding[style="text-align:center"]
 phimmoichill.net##.catfish-ck.gnarty-offads
 phimmoichill.net##.hidemobile
+phimmoichill.net##.hidedesktop
 phimnhanh.com##.qc-inner
 phuongtrinhhoahoc.com##.standard-page > .row
 platinumcineplex.vn##[id^="fancybox"]
