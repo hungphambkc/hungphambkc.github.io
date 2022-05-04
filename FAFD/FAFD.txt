@@ -444,6 +444,7 @@ petrotimes.vn##[id^="rotating_elements_"]
 phim.tiengnga.net##.sectionMain.funbox
 phim.vkoolzz.net###ad_right_watch
 phim.vkoolzz.net###boxes
+phim.vkoolzz.net##[href="javascript:hide_float()"]
 phim1080z.com,fim1080.com##.banner-0.banner-preload.ff-banner
 phim1080z.com,fim1080.com##.banner-640x100.ff-banner
 phim1080z.com,fim1080.com##.catfish.banner-0.balloon-left.banner-balloon.ff-banner
@@ -1562,6 +1563,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||casalemedia.com
 ||casio67.club
 ||cdn.*/static/js/amvn.js
+||cdn.vteamv.com/durex.mp4
 ||cdnads.90phut.tv
 ||cdnt.netcoresmartech.com
 ||cedexis-radar.net
@@ -2184,6 +2186,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||kubet77.win
 ||kubet79.me
 ||kubet8.com
+||kubet8.us
 ||kubet86.com
 ||kubet868.net
 ||kubet88.asia
