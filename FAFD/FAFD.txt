@@ -1,5 +1,5 @@
 ! Title: FAFD
-! Version: 05.04.035
+! Version: 05.07.036
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke & Kaspersky
 ! Author: Hung Pham
@@ -974,6 +974,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||360hot.vn^$third-party
 ||360kpop.com/*.swf
 ||360yield.com^$third-party
+||3939a.club
 ||3btcquiz.com
 ||3dcontentcentral.com/images/*x*.jpg|
 ||3xhdfull.com
@@ -1422,6 +1423,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||anisfx.com
 ||anthill.vn
 ||anymind360.com
+||aod-image-material.cdn.bcebos.com
 ||aphim.org/asset_blade/js/jquery.popup.js
 ||aphim.tv/api/js/vast.js
 ||aphycolourses.info
@@ -1449,6 +1451,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||awltovhc.com^$third-party
 ||aydieso.90.link^$third-party
 ||b.123c.vn/zad/videoad?*
+||baiducom.bj.bcebos.com
 ||banibajury.website
 ||banner.4win1.com^$third-party
 ||bannhadatdanang.com^$third-party
@@ -1538,8 +1541,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bongso88.com
 ||botgamevips.com
 ||bowerywill.com^$third-party
+||boxchat.me
 ||boyaidare.club^$third-party
 ||bp.blogspot.com/-*.gif$domain=ketqua.net
+||bqgimgs1.cdn.bcebos.com
 ||bqnqrr33.com
 ||bqnqrr43.com
 ||bqnqrr53.com
@@ -1576,6 +1581,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||chartbeat.com
 ||chengduyouzhile.com
 ||chich.vip
+||chich.live
+||chich0118.live
 ||chinababe.net
 ||chioneflake.com
 ||chitika.net
@@ -1599,6 +1606,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||clouderrorreporting.googleapis.com
 ||cloudfront.net^$domain=4share.vn|chiasenhac.vn|hdo.tv|hatde.tv|megaurl.in|onhax.me|ouo.io|zippyshare.com
 ||cmd368.net^$popup,third-party
+||cms-image.cdn.bcebos.com
 ||cnzz.com
 ||coccoc.com/quang-cao
 ||coccoc.com/quang-cao-banner
@@ -1626,6 +1634,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||cosplay-jav.com
 ||coupon5s.com
 ||cpm*.com^$third-party
+||cpu-admin.baidu.com
+||cpu.baidu.com
+||cpu-baidu-com-block.cdn.bcebos.com
 ||cracksurl.com
 ||crashlyticsreports-pa.googleapis.com
 ||criteo.$third-party
@@ -1665,6 +1676,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||danviet.vn/upload/*.gif
 ||dc.mpapis.xyz/vast/*
 ||dcm.xxx
+||dd713.bj.bcebos.com
 ||debet.info
 ||deehalig.net
 ||defaultdsp.admicro.vn^$third-party
@@ -1712,6 +1724,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||downmienphi.com/*/banner-*
 ||dozubatan.com
 ||dpstatic.com
+||dsp-idea.cdn.bcebos.com
 ||dt00.net^$third-party
 ||duckswillsmoochyou.com
 ||dulichdatviet.info^$third-party
@@ -1723,6 +1736,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||eboundservices.com^$third-party
 ||ebz.io
 ||eclick.$third-party
+||edu-ad-test-cdn.cdn.bcebos.com
 ||ee66.com
 ||ee77.com
 ||ee88.com
@@ -1773,6 +1787,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fb88sg.com
 ||fb88sports.com^$third-party
 ||fb88vn.com
+||fc-.cdn.bcebos.com
+||fc-feed.cdn.bcebos.com
 ||fcb8.vip
 ||fcine.net/uploads/*_eABD_*$script
 ||fcounter.info
@@ -2001,6 +2017,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||inrhyhorntor.com
 ||insta-cash.net
 ||intellitxt.com
+||internal-amis-res.cdn.bcebos.com
 ||interyield.*.com^$third-party
 ||interstitial-07.com
 ||interstitial-08.com
@@ -2293,6 +2310,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||mc.yandex.ua
 ||mds.yandex.net/get-bstor/
 ||meatilywoman.cam
+||med-fe.cdn.bcebos.com
 ||media.jxf88.com/*/media_banner/*
 ||media.vivaclix.com
 ||media1.admicro.vn^$domain=gamek.vn|genk.vn|kenh14.vn|soha.vn|vtv.vn
@@ -2304,6 +2322,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||metric.gstatic.com
 ||mftracking.com
 ||mgid.com
+||mgzs.cdn.bcebos.com
 ||mho.vn^$popup,third-party
 ||miaozhen.com^$third-party
 ||mibet.com^$popup,third-party,script
@@ -2311,9 +2330,11 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||microadinc.com
 ||midgetincidentally.com
 ||mightylottrembling.com
+||miniapp-ad.cdn.bcebos.com
 ||mint.frzz.net
 ||mixpanel.com
 ||mmo4me.com/image.php?*
+||mobads-pre-config.cdn.bcebos.com
 ||mobiad.yestech.vn^$third-party
 ||mobiblog.net
 ||mobilecrashreporting.googleapis.com
@@ -2379,6 +2400,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||novanet.vn^$third-party
 ||novanetservice.com
 ||npttech.com
+||ns-strategy.cdn.bcebos.com
 ||ntsiwodere.top
 ||nuuk9g.tw
 ||nymzz3.tw
@@ -2518,6 +2540,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||playmoviesdfe-pa.googleapis.com
 ||playsex3x.xyz
 ||plugrush.com
+||pmp-ad.cdn.bcebos.com
+||pn-cover.cdn.bcebos.com
 ||po.st/static/*$third-party
 ||podosupsurge.com
 ||polyad.net
@@ -2566,6 +2590,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||qc.yan.vn
 ||qcv5.blogtruyen.vn
 ||qlmqzznfcb.com
+||qq835.me
 ||qsmfqeubxlgma.top
 ||quachdaica.net/*/qdc*
 ||quantcast.mgr.consensu.org
@@ -2584,6 +2609,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||red88.us
 ||reedthatm.biz
 ||refugedcuber.com
+||render-server.cdn.bcebos.com
 ||rendykunto.com
 ||resalag.com
 ||rev2pub.com^
@@ -2598,7 +2624,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||rimhpxsxow.xyz
 ||risextube.com
 ||riverbanksand.com
-||rmbn.net^
+||rmblive.cdn.bcebos.com
+||rmbn.net
 ||rndskittytor.com
 ||ronghovn.com
 ||rosemand.pro^$third-party
@@ -2616,10 +2643,11 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||safebrowsing.googleapis-cn.com
 ||safehousefsi.com
 ||sb4you1.com
-||sbbanner.com^
+||sbbanner.com
 ||sbetviet.com
 ||sbotop.com
-||scorecardresearch.com^
+||scorecardresearch.com
+||search-operate.cdn.bcebos.com
 ||search.4shared.com^$popup
 ||securepubads.g.doubleclick.net
 ||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
@@ -2629,7 +2657,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sen992.com
 ||septfd2em64eber.com
 ||serdaive.com
-||servedbyopenx.com^
+||servedbyopenx.com
 ||service.tuoitre.vn/TTOBanner/*
 ||serving-sys.com^
 ||serving.bluexy.net/vod/*.mp4
@@ -2666,6 +2694,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sexquaylen.net
 ||sextinh.net
 ||sextop.net
+||sextop1.net
 ||sextop1.biz
 ||sextop123.com
 ||sextop18.net
@@ -2685,6 +2714,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sharelive.net
 ||sharethis.com
 ||shbet0.com
+||shijuezhongguo.cdn.bcebos.com
 ||shink.in/img/downloadad.png
 ||shink.in/js/p*.js
 ||shopeep.vip
@@ -2743,12 +2773,13 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||st.game.thanhnien.com.vn^$third-party
 ||stagepopkek.com
 ||statchecker.yandex.ru^$third-party
-||statcounter.com^
+||statcounter.com
 ||static-mon.yandex.net/static/main.js$domain=~auto.ru
 ||static.ads-twitter.com
 ||static.doubleclick.net
 ||staticflickr.com^$third-party,domain=razorphim.com
 ||staticpress.vcmedia.vn/*.swf
+||staticsns.cdn.bcebos.com
 ||stats.wordpress.com^$third-party
 ||statsy.net^$third-party
 ||stavkiprognozy.ru
@@ -2831,6 +2862,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||tlu.edu.vn/games/*
 ||tlu.edu.vn/ios/*
 ||tmallv1.com
+||tob-cms.bj.bcebos.com
 ||tobaitsie.com
 ||tocmoi.net^$third-party
 ||toglooman.com
@@ -3074,6 +3106,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vuicungdafa.com
 ||vuighe.net/assest/banner/*
 ||vungtrom.tv
+||vv84.bj.bcebos.com
 ||vvetqp.tw
 ||vwin.com
 ||vws.vegacdn.vn/QCBinhluan/*
@@ -3089,7 +3122,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||websex.to
 ||websextop.com
 ||websitedhoome.com^$popup,third-party
-||webtrends.com^
+||webtrends.com
+||wenku-cms.bj.bcebos.com
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 ||whazugho.com
 ||widgets.outbrain.com/OutbrainRater.js
@@ -3108,6 +3142,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||wutienitme247.info
 ||www-go88.vin
 ||wwwpromoter.com
+||wxtp.cdn.bcebos.com
+||wzjs.cdn.bcebos.com
+||wzjs2.cdn.bcebos.com
 ||x-n-x-x.pro
 ||x1798.com
 ||x8t1bz.tw
@@ -3207,13 +3244,13 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||yastatic.net/*/rsya-tag-users/
 ||yastatic.net/daas/
 ||yastatic.net/market-affiliate/$domain=zen.yandex.by|zen.yandex.kz|zen.yandex.ru|zen.yandex.ua|zen.yandex.uz
-||yceml.net^
+||yceml.net
 ||ylh1688.com
-||yllix.com^
+||yllix.com
 ||yo69.pro
 ||yoads.net
 ||yoads.network
-||yomedia.vn^
+||yomedia.vn
 ||yonxatuor.com
 ||your-notice.com
 ||youtube.com/annotations_invideo?*
@@ -3224,6 +3261,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||youtube.com/get_video_*el=adunit*
 ||youtube.com/get_video_info?*=adunit&$important
 ||youtube.com/get_video_info?$~third-party,badfilter
+||ys2000.cdn.bcebos.com
 ||yulunanews.name
 ||zantbowsing.cam^$third-party
 ||zap.buzz
