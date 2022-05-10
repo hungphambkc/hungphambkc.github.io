@@ -1,5 +1,5 @@
 ! Title: FAFD
-! Version: 05.07.036
+! Version: 05.11.037
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke & Kaspersky
 ! Author: Hung Pham
@@ -644,6 +644,7 @@ voz.vn##.v-element > .v-responsive > .vm-placement
 voz.vn##body[data-template="forum_view"] .p-body-sidebar
 voz.vn##body[data-template="thread_view"] .p-body-sidebar
 vuamaytinh.com.vn##.chp_ads_blocker_detector-showQCr9naxWM1TlkaspPaw4OPExXzFvY3.fadeInDown.chp_ads_block_modalQCr9naxWM1TlkaspPaw4OPExXzFvY3
+watching.vn##.justify-content-center.align-items-center.d-flex.asd-overlay
 xervoo.net##.black_overlay
 xervoo.net###_bd
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.forecast-details > .card:-abp-has(> [class*="adv"])
