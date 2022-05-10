@@ -715,6 +715,7 @@ youtube.com##.masthead-ad-control,.ad-div,.pyv-afc-ads-container
 youtube.com##.mealbar-promo-renderer
 youtube.com##.share-panel
 youtube.com##.share-panel-services-container > div#share-services-container
+youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
 youtube.com##.video-playing.ytd-video-masthead-ad-v3-renderer.style-scope
 youtube.com##.yt-consent
 youtube.com##.yt-consent-banner
