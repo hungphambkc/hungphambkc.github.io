@@ -245,6 +245,7 @@ chovinh.com##.samBannerUnit
 chovinh.com##.samCodeUnit
 chovinh.com###messageList > .message:first-child > .messageInfo + div
 clbgamesvn.com###contentMain center
+client.googiehost.com##.main-content.pull-md-right.col-md-9 > div.row
 coccoc.com,phimgii.tv,phimhdvns.net,vietnamplus.vn,kienthuc.net.vn,saostar.vn,laptrinhx.com,huphimtv.com,bongda24h.vn,vieclam123.net,animevietsub.tv,cungthi.online,appvn.com,xoso.me,xsmn.me,ghienphimz.org,linkerpt.com,tinnhac.com,antt.vn##.ads
 coccoc.com##.adsv
 coccoc.com##.middlebar
@@ -2059,6 +2060,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||javhayz.pro
 ||javhd.cool
 ||javhd.onl
+||javhd.social
 ||javhd.today
 ||javhdd.net
 ||javhdhay.vip
