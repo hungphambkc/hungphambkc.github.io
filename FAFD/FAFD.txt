@@ -651,6 +651,12 @@ vuamaytinh.com.vn##.chp_ads_blocker_detector-showQCr9naxWM1TlkaspPaw4OPExXzFvY3.
 watching.vn##.justify-content-center.align-items-center.d-flex.asd-overlay
 xervoo.net##.black_overlay
 xervoo.net###_bd
+xoilac.xyz##.show.modal-mmo.fade.modal
+xoilac.xyz##.show.fade.modal-backdrop
+xoilac.xyz##.ft-box.for-desktop.mmo-fixbot.mmo
+xoilac.xyz##.for-desktop.mmo-top.mmo
+xoilac.xyz##.for-desktop.mo-single
+xoilac.xyz##.size-660x200.mmo-inner
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.forecast-details > .card:-abp-has(> [class*="adv"])
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.mg-page-layout-item:-abp-has(> .hydro > div > .turbo-advert_load-error)
 yandex.by,yandex.kz,yandex.ru,yandex.ua,yandex.uz#?#.mg-page-layout-item:-abp-has(> div > .turbo-advert_load-error)
@@ -2000,7 +2006,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||hugfromoctopus.com
 ||huto.club
 ||hypomnimata.com
+||i.blogtruyen.com/file/$image
 ||i.imgur.com/*.gif$domain=90p.live|phut90.online|phut91.online|binhluanvidamme.online|bongdatv.net|bongngozz.com|macintosh.vn|phimgi.tv|phimmedia.tv|phimnhe.net|topbongda.com
+||i.k8info.com/images/promo/$third-party
+||i.vebo.news/images/*.gif$image
 ||i2.cdn8.net/*.gif$domain=gametv.vn
 ||i8bet.net
 ||i8bet.org
