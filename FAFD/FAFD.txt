@@ -1,5 +1,5 @@
 ! Title: FAFD
-! Version: 05.11.037
+! Version: 05.19.038
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke & Kaspersky
 ! Author: Hung Pham
@@ -292,6 +292,7 @@ fbtag.net##.Flagrow-Ads-fake-poststream-item
 fimfast.com##BODY > .ff-banner
 findip-address.com##.banner
 findip-address.com##.header
+findip-address.com##.topbanner
 foody.vn##.foody-banner
 forum.ragezone.com##[class*="RZ_BOX"]
 forum.ragezone.com##[id*="navbar_notice"]
@@ -314,6 +315,7 @@ getlink.tienichmaytinh.net##.banner-728x90.banner
 getlink.tienichmaytinh.net##.banner-inner
 getlink.tienichmaytinh.net##div.banner-captcha.banner
 ghacks.net##.block
+ghacks.net##.ghacks-ad
 google.*##.ads-ad
 google.*##.ch[onclick="ga(this,event)"]
 google.*##.commercial-unit-desktop-rhs > .iKidV > .Ee92ae + .P2mpm + .hp3sk
@@ -781,6 +783,10 @@ zippyshare.com###qrCode ~ a[href$="1131386.html"]
 @@/tb/tsrp/*$stylesheet,domain=s.taobao.com
 @@/user_ads/*
 @@/wp-content/plugins/bwp-minify/min/*
+@@||*.edu.vn//*/*/*/*/*/*.html
+@@||*.edu.vn//*/*/*/*/*/*.css
+@@||*.edu.vn//*/*/*/*/*/*.js
+@@||*.2mdn.net/ads/*/*.js
 @@||125.212.202.62/Statics/jwplayer/jwplayer.flash.swf
 @@||195.82.146.52/logo/*
 @@||4shared.com/css/popup_$stylesheet
