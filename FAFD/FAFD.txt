@@ -1680,10 +1680,12 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||d4t3qr9j8psi0.cloudfront.net
 ||d4z1onkegyrs5.cloudfront.net
 ||d5coalition.com^$third-party
-||da-ads.com^
+||da-ads.com
 ||dabet.me
 ||dafabet.com
 ||dailymotion.com^$third-party,domain=blogtruyen.vn
+||dam18.com
+||dam18.pro
 ||dam69.me
 ||dammetruyen.com/images/970x100.gif
 ||damvodoi.com
@@ -1993,7 +1995,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||hihisex.biz
 ||hihisex.tv
 ||hilltopads.net^$third-party
-||histats.com^
+||histats.com
 ||histock.info^$third-party
 ||hoicongchungvienbinhduong.com.vn/Android/*
 ||hoicongchungvienbinhduong.com.vn/down/*
@@ -2172,6 +2174,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ketoanthucte.vn/games/*
 ||kfwzxu.tw
 ||kgdvs9ov3l2aasw4nuts.com
+||khosex.me
 ||kichdam.vip
 ||kichduc.biz
 ||kiemthesaigon.club^$popup,third-party
@@ -3103,6 +3106,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vlxxsex.me
 ||vlxxsex.vip
 ||vlxxtube.net
+||vlxyz.net
 ||vmuid.com
 ||vn-gmtdmp.mookie1.com
 ||vn-zoom.org/Banner-
@@ -3146,6 +3150,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||webtrends.com
 ||wenku-cms.bj.bcebos.com
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
+||whatosgoingon.biz
 ||whazugho.com
 ||widgets.outbrain.com/OutbrainRater.js
 ||widow5blackfr.com
