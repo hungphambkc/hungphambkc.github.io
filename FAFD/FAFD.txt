@@ -1,8 +1,9 @@
 ! Title: FAFD
-! Version: 05.19.038
+! Version: 05.23.039
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke & Kaspersky
 ! Author: Hung Pham
+! Copyright: Shylenien
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -552,6 +553,7 @@ tienichmaytinh.net##div.widget_custom_html.widget.widget_text
 tienichmaytinh.net##div.widget_media_image.widget
 tienichmaytinh.net##div#chp_ads_block_pro_body.chp_ads_block_pro_body
 tienichmaytinh.net##div#chp_ads_block_pro_body.chp_ads_block_pro_body > div.chp_ads_block_detector_theme.theme1 > div.chp_ads_block_pro_body
+tienichmaytinh.net##.chp_ads_blocker_detector-showuG20iSjqOUHL0kPtAQAvM9X3M1WpE3.fadeInDown.chp_ads_block_modaluG20iSjqOUHL0kPtAQAvM9X3M1WpE3
 timbus.vn##[src="http://quantri.timbus.vn/Media/Uploads/*.jpg"]
 timbus.vn###lft-adv-ctn
 tinhte.vn##.adWidget
@@ -630,6 +632,7 @@ vatlydaicuong.com##.entry-content > .adsbygoogle
 vatlydaicuong.com##.mRtnPCNI > .adsbygoogle
 vatlydaicuong.com##.s3V8g23k > .adsbygoogle
 vatlydaicuong.com##.\37 ROu5shP > .adsbygoogle
+vietnamnet.vn##.mt-10.vmcadszone
 viettorrent.vn##.container-fluid CENTER
 vnexpress.net##.banner-top-home.banner-ads.section-ads-top.section
 vnexpress.net##[class^="banner_"]
@@ -647,7 +650,7 @@ voz.party##.Flagrow-Ads-fake-poststream-item
 voz.vn##.v-element > .v-responsive > .vm-placement
 voz.vn##body[data-template="forum_view"] .p-body-sidebar
 voz.vn##body[data-template="thread_view"] .p-body-sidebar
-vuamaytinh.com.vn##.chp_ads_blocker_detector-showQCr9naxWM1TlkaspPaw4OPExXzFvY3.fadeInDown.chp_ads_block_modalQCr9naxWM1TlkaspPaw4OPExXzFvY3
+vuamaytinh.com.vn##.chp_ads_blocker_detector-showCTKciDO03OzJ9KyhDWdgLdnkYA27YL.fadeInDown.chp_ads_block_modalCTKciDO03OzJ9KyhDWdgLdnkYA27YL
 watching.vn##.justify-content-center.align-items-center.d-flex.asd-overlay
 xervoo.net##.black_overlay
 xervoo.net###_bd
@@ -971,6 +974,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||1wlvcb.top
 ||20icipp.com
 ||210.211.108.201:81/jsads/*
+||240.zaloapp.ads.zdn.vn
 ||24game.vn^$popup
 ||24h.com.vn/upload/*background
 ||24h.com.vn/upload/*banner
@@ -996,6 +1000,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||3xhdfull.com
 ||3xphim.vip
 ||46.246.120.230/pop-imp.js
+||480.zaloapp.ads.zdn.vn
 ||4dsply.com
 ||4hfchest5kdnfnut.com
 ||5123b.com
@@ -1033,6 +1038,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||88betvn.com
 ||88betwin.net
 ||88gobet.com
+||8kbet.vn
 ||88onlinegame.com
 ||89petals.co.uk
 ||8live.com^$popup,third-party
@@ -2077,6 +2083,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||javhayz.net
 ||javhayz.pro
 ||javhd.cool
+||javhd.dev
 ||javhd.onl
 ||javhd.social
 ||javhd.today
@@ -2377,7 +2384,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||mu9.com
 ||mu9.win
 ||mx88.me
-||mxpnl.com^
+||mxpnl.com
 ||my188bet.com
 ||mynewsdesk.com/bettingtop10vietnam/*
 ||mywork.com.vn^$third-party
@@ -2776,6 +2783,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sohot.vn^$third-party
 ||soicau.org
 ||somo.vn^$popup,third-party
+||songlong8886.com
 ||sonyfan.vn/*.swf
 ||sosigninggrudge.com
 ||sovetnik.market.yandex.ru^$third-party
