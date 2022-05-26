@@ -1,9 +1,57 @@
 ! Title: FAFD
-! Version: 05.23.039
+! Version: 05.26.040
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke & Kaspersky
 ! Author: Hung Pham
 ! Copyright: Shylenien
+! ========================== Spotify Beta ===========================
+||adeventtracker.spotify.com
+||ads-akp.spotify.com
+||ads-fa.spotify.com
+||analytics.spotify.com
+||audio2.spotify.com
+||audio-ak.spotify.com
+||audio-ak-spotify-com.akamaized.net
+||audio-ak.spotify.com.edgesuite.net
+||audio-ak.spotify.com.eip.akadns.net
+||audio-akp.spotify.com
+||audio-akp-spotify-com.akamaized.net
+||audio-akp.spotify.com.edgesuite.net
+||audio-ake.spotify.com.edgesuite.net
+||audio-cf.spotify.com
+||audio-ec.spotify.com
+||audio-gc.scdn.co
+||audio-gc.spotify.com
+||audio-sp-lon.spotify.com
+||audio-sp-sto.spotify.com
+||beta.spotify.map.fastly.net
+||crashdump.spotify.com
+||crashdump.ciqe-gslb.spotify.com
+||gew1.ap.spotify.com
+||heads-ak.spotify.com
+||heads-akp.spotify.com
+||heads-cf.spotify.com
+||heads-ec.spotify.com
+||heads-fa.scdn.co
+||heads-fa.spotify.com
+||heads-fab.spotify.com
+||heads-fac.spotify.com
+||links.spotify.com
+||log.spotify.com
+||log2.spotify.com
+||mp3ad.scdn.co
+||pci.spotify.com
+||pixel.spotify.com
+||prod.spotify.map.fastlylb.net
+||prod.spotify-heads.map.fastlylb.net
+||spclient.wg.spotify.com/ads
+||sto3.spotify.com
+||sto3-accesspoint-a88.sto3.spotify.net
+||upgrade.scdn.co
+||upgrade.spotify.com
+||video-fa.cdn.spotify.com
+||video-fa.scdn.co
+||weblb-wg.gslb.spotify.com
 ! ========================== General Element Hiding ===========================
 ##._popIn_infinite_ad
 ##._popIn_infinite_video
@@ -1423,10 +1471,12 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ae988bet.com
 ||aegnfbgdtukajr.xyz
 ||aevn1.net
-||aff.opus-static.com^
+||aff.opus-static.com
 ||affitop.com
+||agle21xe2anfddirite.com
 ||airlinebot.io
 ||akanetwork.com
+||alas4kanmfa6a4mubte.com
 ||alexa.com^$third-party
 ||allx.xxx
 ||amazon-adsystem.com
@@ -1571,9 +1621,13 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bqnqrr43.com
 ||bqnqrr53.com
 ||brand.ad^$third-party
+||browser-http-intake.logs.datadoghq.com
+||browser-http-intake.logs.datadoghq.eu
+||browser-intake-datadoghq.eu
 ||bs-meta.yandex.$script,xmlhttprequest
 ||bs.yandex.$script
 ||btloader.com
+||budvawshes.ru
 ||buysellads.com
 ||buzzadnetwork.com^$third-party
 ||bwfncx.tw
@@ -1607,6 +1661,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||chich0118.live
 ||chinababe.net
 ||chioneflake.com
+||chipmanksmochus.com
 ||chitika.net
 ||choangvip.com
 ||choangvip.io
@@ -1662,9 +1717,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||cracksurl.com
 ||crashlyticsreports-pa.googleapis.com
 ||criteo.$third-party
-||crwdcntrl.net^
+||crwdcntrl.net
+||cuddlethehyena.com
 ||cuongsex.com
-||cxense.com^
+||cxense.com
 ||cydia.vn^$third-party
 ||d12u7tum9sda5e.cloudfront.net
 ||d13nu0oomnx5ti.cloudfront.net
@@ -1843,6 +1899,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||freychang.fun
 ||fshare.vn/js/adsplay.
 ||fshare.vn/lib/video/fshare.mp4
+||fuckmovies.biz
 ||fulldl.net
 ||fun120.com^$popup,third-party
 ||fun162.com
@@ -2008,6 +2065,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||hoowooze.net^$third-party
 ||hornyasian.work
 ||horsered.com
+||hotporntube.co
 ||hphim.tv/*.gif
 ||hphim.tv/*.xml
 ||htvncdn.net
@@ -2263,7 +2321,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 ||lammasbananas.com
 ||lamtinh.pro
-||lavanetwork.net^
+||lavanetwork.net
 ||lavas.exchange
 ||lazada.$third-party
 ||letou.com
@@ -2281,6 +2339,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||lickingimprovementpropulsion.com
 ||lightkeeperspublishing.com
 ||like.vn^$popup,third-party
+||lilureem.com
 ||link88betvn.com
 ||linkhay.com/actions/linkView/linkClick.php?*$popup,third-party
 ||linkneverdie.com
@@ -2290,6 +2349,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||live8800.com
 ||live888.tv
 ||liveadexchanger.com^$third-party
+||livecasino.io
 ||livetranss.com
 ||livezombymil.com
 ||lo8ve6ygour3pea4cee.com
@@ -2360,6 +2420,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||microadinc.com
 ||midgetincidentally.com
 ||mightylottrembling.com
+||milffuck.fun
 ||miniapp-ad.cdn.bcebos.com
 ||mint.frzz.net
 ||mixpanel.com
@@ -2518,6 +2579,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phimsex-vietnam.pro
 ||phimsex.cam
 ||phimsex.es
+||phimsex.onl
 ||phimsex.plus
 ||phimsex.zone
 ||phimsex2022.com
@@ -2642,9 +2704,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||render-server.cdn.bcebos.com
 ||rendykunto.com
 ||resalag.com
-||rev2pub.com^
+||rev2pub.com
 ||reviveservers.com
-||revsci.net^
+||revsci.net
 ||rigelink.com^$third-party
 ||rikfun.club
 ||rikvip.link
@@ -2657,12 +2719,13 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||rmblive.cdn.bcebos.com
 ||rmbn.net
 ||rndskittytor.com
+||romepoptahul.com
 ||ronghovn.com
 ||rosemand.pro^$third-party
 ||rtbclick.net^$third-party
 ||rtbpop.com^
 ||rtmark.net
-||rubiconproject.com^
+||rubiconproject.com
 ||run-syndicate.com
 ||runative-syndicate.com
 ||runecrispin.com
@@ -2721,6 +2784,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sexnhat.club
 ||sexnhat.pro
 ||sexnhatban.xyz
+||sexphim.vip
+||sexphimvip.net
 ||sexquaylen.net
 ||sextinh.net
 ||sextop.net
@@ -2770,6 +2835,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||smallfunnybears.com
 ||smarbattery.com
 ||smartchoice89.com
+||smileoffennec.com
 ||snappedimpressive.com
 ||snugglethesheep.com
 ||sociomantic.com
@@ -3187,6 +3253,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xahoithongtin.com.vn/*.swf|
 ||xahoithongtin.com.vn/images/*.gif|
 ||xahoithongtin.com.vn/upload/*
+||xbxxporn.com
 ||xem3x.pro
 ||xembongda24h.com/images/banners/*
 ||xembongda24h.com/templates/xbd/js/qc-vbd.js
@@ -3224,6 +3291,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xnxx.su
 ||xnxx.tv
 ||xnxx4k.net
+||xnxxes.live
+||xnxxpro.net
+||xnxxvip.cc
 ||xnxxvn.me
 ||xnxxvn.xxx
 ||xnxxz.net
@@ -3295,6 +3365,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||youtube.com/get_video_*el=adunit*
 ||youtube.com/get_video_info?*=adunit&$important
 ||youtube.com/get_video_info?$~third-party,badfilter
+||yqmxfz.com
 ||ys2000.cdn.bcebos.com
 ||yulunanews.name
 ||zantbowsing.cam^$third-party
@@ -3310,3 +3381,4 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||zjk24.com^$third-party
 ||zoroinu.io
 ||zquotfuofx.com
+||zyf03k.xyz
