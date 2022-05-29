@@ -346,6 +346,8 @@ eva.vn##[id^="ADS_"]
 expertcircuits.blogspot.com###fanback
 facebook.com##html#facebook._9dls.__fb-dark-mode > body._6s5d._71pn._-kb.segoe > div.AdBox.Ad.advert.post-ads
 facebook.com##html#facebook._9dls.__fb-dark-mode > body._6s5d._71pn._-kb.segoe > div.advertising_widget
+facebook.com##html#facebook._9dls.__fb-light-mode > body._6s5d._71pn.system-fonts--body.segoe > div.download_link_sponsored
+facebook.com##html#facebook._9dls.__fb-light-mode > body._6s5d._71pn.system-fonts--body.segoe > div.sponsorPost
 facebook.com##html#facebook._9dls.__fb-light-mode > body._6s5d._71pn.system-fonts--body.segoe > div.widgetSponsors
 fbtag.net##.Flagrow-Ads-fake-poststream-item
 fimfast.com##BODY > .ff-banner
