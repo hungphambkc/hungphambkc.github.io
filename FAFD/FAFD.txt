@@ -244,6 +244,8 @@ afisha.yandex.by,afisha.yandex.kz,afisha.yandex.ru,afisha.yandex.ua,afisha.yande
 anh-dv.com##.col-xs-8.sidebar-col
 anh-dv.com##.felyoipd-hide-on-phone.felyoipd-type-code.felyoipd-container
 anh-dv.com##.widget_felyoipd.widget.primary-sidebar-widget.w-nt.h-ni
+anh-dv.com###felyoipd-5892-1051729790
+anh-dv.com###felyoipd-5889-598129009
 anime47.com##.advertisement
 anime47.com###qc_clgt_vuong
 anonyviet.com##.ai-viewport-2.ai-viewport-1.code-block-15.code-block
@@ -327,6 +329,11 @@ danviet.vn##.banner-LR
 deviantart.com##.partial-ad
 diadiem.com##.div_box_adv
 diadiem.com###divPopAdsPOI
+dichthuatphuongdong.com##.text-center.p-5.modal-body
+dichthuatphuongdong.com##.modal-content
+dichthuatphuongdong.com##.modal-dialog
+dichthuatphuongdong.com##.show.fade.modal
+dichthuatphuongdong.com##.show.fade.modal-backdrop
 disk.yandex.by,disk.yandex.com,disk.yandex.kz,disk.yandex.ru,disk.yandex.ua,disk.yandex.uz#@#.content_ads
 disk.yandex.by,disk.yandex.kz,disk.yandex.ru,disk.yandex.ua,disk.yandex.uz##.awaps__banner
 docs.yandex.by,docs.yandex.kz,docs.yandex.ru,docs.yandex.ua,docs.yandex.uz##.Docs-View__Loading
@@ -337,6 +344,9 @@ download.tienichmaytinh.net##.container > .adsbygoogle
 download.tienichmaytinh.net##.shadow.card > .adsbygoogle
 eva.vn##[id^="ADS_"]
 expertcircuits.blogspot.com###fanback
+facebook.com##html#facebook._9dls.__fb-dark-mode > body._6s5d._71pn._-kb.segoe > div.AdBox.Ad.advert.post-ads
+facebook.com##html#facebook._9dls.__fb-dark-mode > body._6s5d._71pn._-kb.segoe > div.advertising_widget
+facebook.com##html#facebook._9dls.__fb-light-mode > body._6s5d._71pn.system-fonts--body.segoe > div.widgetSponsors
 fbtag.net##.Flagrow-Ads-fake-poststream-item
 fimfast.com##BODY > .ff-banner
 findip-address.com##.banner
