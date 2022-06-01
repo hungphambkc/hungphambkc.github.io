@@ -1,5 +1,5 @@
 ! Title: FAFD
-! Version: 05.29.041
+! Version: 06.01.042
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke & Kaspersky
 ! Author: Hung Pham
@@ -1485,6 +1485,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||aevn1.net
 ||aff.opus-static.com
 ||affitop.com
+||agenduret.com
 ||agle21xe2anfddirite.com
 ||airlinebot.io
 ||akanetwork.com
@@ -1861,7 +1862,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||facebook-login.tbit.vn
 ||facebook.com/video/instream_video/view/story/*&ad_break_duration_ms=*
 ||fadingamendable.com
-||fastclick.net^
+||fastclick.net
 ||fastly-analytics.com
 ||fastred.biz
 ||fb88-group.com
@@ -1912,6 +1913,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||freychang.fun
 ||fshare.vn/js/adsplay.
 ||fshare.vn/lib/video/fshare.mp4
+||ftte.xyz
 ||fuckmovies.biz
 ||fulldl.net
 ||fullphim.pro
@@ -2087,6 +2089,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||hphim.tv/*.xml
 ||htvncdn.net
 ||hugfromoctopus.com
+||huhyrcco.com
 ||huto.club
 ||hypomnimata.com
 ||i.blogtruyen.com/file/$image
@@ -2126,6 +2129,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||invitemedia.com
 ||ironthro5man.com
 ||itineraryupper.com
+||itweepinbelltor.com
 ||iwin10.vip
 ||iwipjuogprkj.xyz
 ||iyfnz.com
@@ -2597,9 +2601,11 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||nuuk9g.tw
 ||nymzz3.tw
 ||o2yms3.tw
+||oaphoace.net
 ||oclaserver.com^$third-party
 ||oclasrv.com
 ||octopuspop.com
+||offerimage.com
 ||ogtcwsqeejrfom.xyz
 ||olalive-storage.s3.ap-southeast-1.amazonaws.com/assets/banner-images/*
 ||onclasrv.com^$third-party
@@ -2620,6 +2626,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||openx.org
 ||opjstlfyrwoptimizationguide-pa.googleapis.com
 ||optimizely.com
+||optyruntchan.com
 ||orquideassp.com
 ||orvilleandrea.pro/am-push-cps.js
 ||otlmdnazmac.com
@@ -2704,6 +2711,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phimsexjav.club
 ||phimsexkhongche.club
 ||phimsexkoche.vip
+||phimsexloanluan.biz
 ||phimsexmy.biz
 ||phimsexmy.vip
 ||phimsexnhat.org
@@ -2774,8 +2782,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||projectwonderful.com
 ||promomobilsuzukijakarta.com
 ||propeller-tracking.com
-||propellerads.com^
+||propellerads.com
 ||propu.sh
+||prprocess.com
 ||prscripts.com^$third-party
 ||prwidgets.com^$third-party
 ||pseepsie.com
@@ -2818,6 +2827,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||red88.us
 ||reedthatm.biz
 ||refugedcuber.com
+||regnation.ru
 ||render-server.cdn.bcebos.com
 ||rendykunto.com
 ||resalag.com
@@ -2840,7 +2850,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ronghovn.com
 ||rosemand.pro^$third-party
 ||rtbclick.net^$third-party
-||rtbpop.com^
+||rtbpop.com
 ||rtmark.net
 ||rubiconproject.com
 ||run-syndicate.com
@@ -2856,6 +2866,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sbbanner.com
 ||sbetviet.com
 ||sbotop.com
+||scekwvmihrhetlg.com
 ||scorecardresearch.com
 ||search-operate.cdn.bcebos.com
 ||search.4shared.com^$popup
@@ -2907,7 +2918,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sexnhat.club
 ||sexnhat.pro
 ||sexnhatban.xyz
+||sexnung.pro
 ||sexphim.vip
+||sexphimmoi.com
 ||sexphimvip.net
 ||sexquaylen.net
 ||sextinh.net
@@ -3039,6 +3052,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||taimanclub.com
 ||taiphimsex.top
 ||tairikvip.org
+||taiv8.cc
 ||taixiu.bet
 ||taixiu.cc
 ||talktv.vcdn.vn/*/js/analytics.js?*
