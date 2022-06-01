@@ -1476,6 +1476,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||advserver.cgv.vn
 ||adx.*vn^$third-party
 ||adx.wapmcn.com^$third-party
+||adxadserv.com
 ||adxpansion.com
 ||adzerk.net
 ||ae788.net
@@ -2164,6 +2165,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||javhayz.pro
 ||javhd.cool
 ||javhd.dev
+||javhd.news
 ||javhd.onl
 ||javhd.social
 ||javhd.today
@@ -2423,6 +2425,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||kuclub.info
 ||kudv.net
 ||kuvip3576.com
+||kw3y5otoeuniv7e9rsi.com
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
 ||lammasbananas.com
 ||lamtinh.pro
@@ -2699,6 +2702,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phimsex.onl
 ||phimsex.plus
 ||phimsex.zone
+||phimsex123.com
 ||phimsex2022.com
 ||phimsex69.link
 ||phimsex789.com
@@ -2938,6 +2942,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sexvietnam.cc
 ||sexvietvl.net
 ||sexvip.pro
+||sexvipvl.net
 ||sexvn.tube
 ||sexvn.video
 ||sexvnx.pro
@@ -3079,7 +3084,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||thiendia.com/popup$script
 ||thieunhivietnam.vn/and/*
 ||thingrealtape.com
-||thongke.24h.com.vn^
+||thinnerconcha.com
+||thongke.24h.com.vn
 ||thongtincongty.com/fancybox/*
 ||thongtincongty.com/qctruot.js
 ||thongtinnhacai.net
@@ -3459,6 +3465,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xonefm.com/media/*.swf
 ||xoso9988.com
 ||xtendadvert.com^$third-party
+||xv-horezeedipaif.com
 ||xv-videos1.com
 ||xvideo69.plus
 ||xvideos-cdn.com
