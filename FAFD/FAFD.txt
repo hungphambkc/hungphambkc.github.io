@@ -1641,6 +1641,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bs-meta.yandex.$script,xmlhttprequest
 ||bs.yandex.$script
 ||btloader.com
+||bu3le2lp4t45e6i.com
 ||budvawshes.ru
 ||buysellads.com
 ||buzzadnetwork.com^$third-party
@@ -1655,6 +1656,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||caodangytetg.edu.vn/games/*
 ||caoviet.net
 ||carbonads.com
+||cardiwersg.com
 ||casalemedia.com
 ||casio67.club
 ||cdn.*/static/js/amvn.js
@@ -2150,6 +2152,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||jav2k.net
 ||jav69.io
 ||jav98.net
+||jav99.biz
 ||javbabe.net
 ||javcl.com
 ||javcotrang.com
@@ -2159,6 +2162,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||javfilm.us
 ||javgay.tv
 ||javgg.net
+||javgiga.com
 ||javhay.org
 ||javhay.sex
 ||javhayz.net
@@ -2485,6 +2489,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||m88cvf.com
 ||m88sut.com
 ||macintosh.vn/forum/image/*.jpg?rand=*
+||madriyelowd.com
 ||mafrarc3e9h.com
 ||mage98rquewz.com
 ||man.vn
@@ -2574,6 +2579,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||new881.com
 ||newrelic.com
 ||newreven.com
+||nghiensex.net
 ||ngoisao.net/widget/ns/widget.css
 ||nguonvui.com/content/getPromo?*
 ||nguonvui.com/vast/*
@@ -2614,7 +2620,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ogtcwsqeejrfom.xyz
 ||olalive-storage.s3.ap-southeast-1.amazonaws.com/assets/banner-images/*
 ||onclasrv.com^$third-party
-||onclickads.net^
+||onclickads.net
 ||onclickbright.com^$third-party
 ||onclkds.com^$third-party
 ||onctus.com^$third-party
@@ -2632,6 +2638,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||opjstlfyrwoptimizationguide-pa.googleapis.com
 ||optimizely.com
 ||optyruntchan.com
+||oranegfodnd.com
 ||orquideassp.com
 ||orvilleandrea.pro/am-push-cps.js
 ||otlmdnazmac.com
@@ -2701,6 +2708,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phimsex.ink
 ||phimsex.onl
 ||phimsex.plus
+||phimsex.top
 ||phimsex.zone
 ||phimsex123.com
 ||phimsex2022.com
@@ -2721,6 +2729,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phimsexmy.biz
 ||phimsexmy.vip
 ||phimsexnhat.org
+||phimsexnhatban.me
 ||phimsexonline.me
 ||phimsexporn.tv
 ||phimsexteen.org
@@ -2819,9 +2828,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||quachdaica.net/*/qdc*
 ||quantcast.mgr.consensu.org
 ||quantri.timbus.vn/Media/Uploads/*.jpg
-||quantserve.com^
+||quantserve.com
 ||quensillo.com^$domain=mediafire.com
 ||quiznhe.com/*/gooima.js
+||quokkacheeks.com
 ||r6i1zp.tw
 ||rarbg.to/xarldhvgowkynu.js
 ||rarbg.to^$script,~third-party
@@ -2916,6 +2926,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sexkhongche.tv
 ||sexkoche.me
 ||sexlon.net
+||sexlon.pro
 ||sexmoi88.com
 ||sexmoii.me
 ||sexmoiz.com
@@ -2964,6 +2975,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||shoppeg.com
 ||shopt1.com
 ||shorteh.com/apu.php$third-party
+||shukriya90.com
 ||sieumua.com^$third-party
 ||sieuno88.vin
 ||siftshortagepopped.com
@@ -3031,7 +3043,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||storm-x.io
 ||stream321.xyz
 ||strm.yandex.ru/get/$media,domain=yastatic.net
-||stumble-upon.com^
+||stumble-upon.com
 ||stumbleupon.com^$third-party
 ||subjav.cc
 ||subjav.live
@@ -3079,6 +3091,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||themlon.pro
 ||themsex.pro
 ||theporndude.com
+||thepornlinks.com
 ||thethao88.bet
 ||thethao88bet.com
 ||thiendia.com/popup$script
@@ -3089,7 +3102,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||thongtincongty.com/fancybox/*
 ||thongtincongty.com/qctruot.js
 ||thongtinnhacai.net
-||thoughtleadr.com^
+||thoughtleadr.com
 ||thterras.com^$third-party
 ||thuckhuya.net/*.gif
 ||thuckhuya.tv/wp-content/uploads/*.gif
@@ -3108,6 +3121,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||tlu.edu.vn/games/*
 ||tlu.edu.vn/ios/*
 ||tmallv1.com
+||tnaflix.com
 ||tob-cms.bj.bcebos.com
 ||tobaitsie.com
 ||tocmoi.net^$third-party
@@ -3129,8 +3143,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||torvind.com^$third-party
 ||track.vivaclix.com
 ||tradeadexchange.com^$third-party
-||trafficfactory.biz^
-||trafficjunky.net^
+||trafficfactory.biz
+||trafficjunky.net
 ||traicamshop.com
 ||trangphimsex.club
 ||trangsex.me
@@ -3166,6 +3180,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||tv.csmtalk.vcdn.vn/talktv_v2/resource/module/streaming/play/js/limit.js?*
 ||tvhays.org/guide/*
 ||tvhays.org/playergk/*/vast.js
+||twinrdsrv.com
 ||tylekeo247.com
 ||tynt.com
 ||u.fules.jp
@@ -3302,7 +3317,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vieclamdalat.vn^$third-party
 ||viet3x.tv
 ||viet69.app
-||vietad.vn^
+||vietad.vn
 ||vietcomcard.com
 ||vietcomdank.com
 ||vietconbank.com
@@ -3407,6 +3422,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||wzjs2.cdn.bcebos.com
 ||x-n-x-x.pro
 ||x1798.com
+||x69.tv
 ||x8t1bz.tw
 ||xads.codon.vn
 ||xads.top
@@ -3414,6 +3430,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xahoithongtin.com.vn/images/*.gif|
 ||xahoithongtin.com.vn/upload/*
 ||xbxxporn.com
+||xem-jav.net
 ||xem-xxx.com
 ||xem3x.pro
 ||xembongda24h.com/images/banners/*
@@ -3474,6 +3491,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xvideos2.com
 ||xvideos88.net
 ||xvideos98.xxx
+||xvideos99.xxx
 ||xvideosvn.cc
 ||xvideosvn.org
 ||xvideovn.pro
@@ -3495,6 +3513,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 ||yabs.yandex.*/show/$third-party
 ||yadi.sk^*direct?
+||yadongkorea.org
+||yadongplay.com
 ||yadro.ru
 ||yamvideo.com/pop1/*
 ||yandex-games.ru/ok/banners/
@@ -3521,6 +3541,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||yoads.network
 ||yomedia.vn
 ||yonxatuor.com
+||yougotacheck.com
 ||your-notice.com
 ||youtube.com/annotations_invideo?*
 ||youtube.com/api/stats/
