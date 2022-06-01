@@ -1172,7 +1172,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||adonly.com
 ||adoptum.net
 ||adp.vnecdn.net
-||adpdx.com^
+||adpdx.com
 ||adpia.vn^$third-party
 ||adplxmd.com^$third-party
 ||adpop*.com^$third-party
@@ -1195,7 +1195,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ads1.careerbuilder.vn
 ||ads4digital.com^$third-party
 ||adscare.myad.vn
-||adsco.re^$third-party
+||adsco.re
 ||adservice.google.ac
 ||adservice.google.ad
 ||adservice.google.ae
@@ -1661,6 +1661,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||casio67.club
 ||cdn.*/static/js/amvn.js
 ||cdn.vteamv.com/durex.mp4
+||cdn4ads.com
 ||cdnads.90phut.tv
 ||cdnt.netcoresmartech.com
 ||cedexis-radar.net
@@ -1747,6 +1748,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||d1nmxiiewlx627.cloudfront.net
 ||d1xkyo9j4r7vnn.cloudfront.net
 ||d3e54v103j8qbb.cloudfront.net
+||d3g5ovfngjw9bw.cloudfront.net
 ||d3mx8nrn6uaeao.cloudfront.net
 ||d3mzokty951c5w.cloudfront.net
 ||d3n3a4vl82t80h.cloudfront.net
@@ -1755,6 +1757,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||d3nfnjb4xpxs3e.cloudfront.net
 ||d3nlhg2r60muhw.cloudfront.net
 ||d3nq5jrakcyw1w.cloudfront.net
+||d3v3bqdndm4erx.cloudfront.net
 ||d4ebx5h0p80bx.cloudfront.net
 ||d4el4parm0zb3.cloudfront.net
 ||d4t3qr9j8psi0.cloudfront.net
@@ -1811,6 +1814,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||dk867.com
 ||dk902.com
 ||dktrade.com
+||do.aeoliancorojo.com
 ||docbao.vn/images/bagiang.swf
 ||doctromtinnhan.com
 ||doithongtin2022.xyz
@@ -1834,6 +1838,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||e2ertt.com
 ||eboundservices.com^$third-party
 ||ebz.io
+||ecgmdxoucsnrmq.com
 ||eclick.$third-party
 ||edu-ad-test-cdn.cdn.bcebos.com
 ||ee66.com
@@ -2867,6 +2872,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||rikvip.us
 ||rikvipclub.us
 ||rimhpxsxow.xyz
+||rimpirbtmxg.com
 ||risextube.com
 ||riverbanksand.com
 ||rmblive.cdn.bcebos.com
