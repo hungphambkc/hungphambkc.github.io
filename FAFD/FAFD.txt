@@ -1733,6 +1733,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||cpu.baidu.com
 ||cracksurl.com
 ||crashlyticsreports-pa.googleapis.com
+||creative.xlviirdr.com
 ||criteo.$third-party
 ||crwdcntrl.net
 ||cuddlethehyena.com
@@ -1797,6 +1798,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||displayvertising.com
 ||disrespectpreceding.com
 ||dithay.net
+||ditme.biz
 ||ditmm.net
 ||ditnhanh.pro
 ||ditnhe.xyz
@@ -1889,6 +1891,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fcb8.vip
 ||fcine.net/uploads/*_eABD_*$script
 ||fcounter.info
+||fd5orie8e.com
 ||fdelphaswcealifornica.com
 ||feedjit.com
 ||ff.imacdn.com/*/*.mp4
@@ -1986,6 +1989,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||gm.mmstat.com
 ||gmodules.com/gadgets/proxy?*$domain=101vn.com|kenh1.info|keonhacai.net|tivi4k.net
 ||go.blogtruyen.vn^$popup
+||go.xlviirdr.com
 ||go4s.biz
 ||go88-vn.net
 ||go88.codes
@@ -2038,6 +2042,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||hayhaytv.com/js/atracking.js
 ||hayhaytv.vn/static/*.gif|
 ||hdcredit88.com
+||hetapus.com
 ||hdo.tv/file/*.jpg
 ||hdo.tv/template/frontend/*float*
 ||hdo.tv/template/frontend/images/Topplayer.png
@@ -2154,6 +2159,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||jav98.net
 ||jav99.biz
 ||javbabe.net
+||javchill.com
 ||javcl.com
 ||javcotrang.com
 ||javdem.me
@@ -2203,6 +2209,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||javphim.org
 ||javphim.site
 ||javphim.to
+||javphim.vip
 ||javplay.stream
 ||javpornpics.com
 ||javpornsite.com
@@ -2225,6 +2232,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||javtopxx.com
 ||javtrailers.com
 ||javtreem.com
+||javtvnow.xyz
 ||javvietsub.cc
 ||javvn.net
 ||javvn.pro
@@ -2791,6 +2799,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||pornvideos8k.com
 ||postimg.cc/*.gif$domain=8bongda.com
 ||pr-quangcao.edu.vn
+||predictivadnetwork.com
 ||predictivadvertising.com^$third-party
 ||prgznhukaoggg.com
 ||pringed.space
@@ -2847,6 +2856,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||render-server.cdn.bcebos.com
 ||rendykunto.com
 ||resalag.com
+||responsibleassociation.com
 ||rev2pub.com
 ||reviveservers.com
 ||revsci.net
@@ -3042,6 +3052,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||storage.googleapis.com/728x90/rutracker*.gif|
 ||storm-x.io
 ||stream321.xyz
+||streamjav.top
 ||strm.yandex.ru/get/$media,domain=yastatic.net
 ||stumble-upon.com
 ||stumbleupon.com^$third-party
@@ -3054,6 +3065,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sunnycategoryopening.com
 ||sunsekrious.com
 ||sunvin.vin
+||supjav.com
+||supremejav.com
 ||swag.live
 ||switchads.com
 ||sxnlmndjyvbccdk.com
@@ -3170,6 +3183,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||truyensex.tv
 ||truyentranhtuan.com/wp-content/banners/*
 ||truyentv.net
+||tsyndicate.com
 ||ttgmjfgldgv9ed10.com
 ||tttd.vn$popup,third-party
 ||tube3x.pro
@@ -3310,6 +3324,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||verycheap.cheap-ads.net^
 ||vf181818.com
 ||vgdn.net/apoop/play_background_*
+||video.xlviirdr.com
 ||video8s.com^$subdocument,third-party
 ||videomega.tv/vjs/*vast*
 ||videonow.ru^$third-party
