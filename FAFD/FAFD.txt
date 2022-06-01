@@ -2119,6 +2119,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||infolinks.com
 ||inklinkor.com
 ||innity.$third-party
+||inpage-push.com
 ||inrhyhorntor.com
 ||insta-cash.net
 ||intellitxt.com
@@ -2514,6 +2515,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||mellowads.com
 ||meo257na3rch.com
 ||metric.gstatic.com
+||metsaubs.net
 ||mftracking.com
 ||mgid.com
 ||mgzs.cdn.bcebos.com
@@ -3087,13 +3089,14 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||thuckhuya.tv/wp-content/uploads/*.gif
 ||ti553.com^$third-party
 ||tiasang.com.vn/app/*
-||tidaltv.com^
+||tidaltv.com
 ||tikihk.com
 ||tinchapvcb-vn.com
 ||tinhuygialai.org.vn/2021*
 ||tintuc24h.info/*/gooima.js
 ||tipcatscarola.com
 ||titan11.cn
+||tiwhaiph.net
 ||tlu.edu.vn/app/*
 ||tlu.edu.vn/down/*
 ||tlu.edu.vn/games/*
