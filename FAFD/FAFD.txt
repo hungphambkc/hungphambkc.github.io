@@ -1564,7 +1564,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bebi.com^$third-party
 ||bedrapiona.com
 ||beeg1.net
-||begun.ru^
+||begun.ru
 ||beholdascared.com
 ||benevolencegardener.com
 ||benevolencepair.com
@@ -1646,7 +1646,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||buysellads.com
 ||buzzadnetwork.com^$third-party
 ||bwfncx.tw
-||c88bet2.com
+||c88bet2.co
+||cabbagehomme.casa
 ||cachchoi.net
 ||cachefly.net/js/ad-exchange.js
 ||cado188.com
@@ -1858,6 +1859,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ertosatie.com
 ||esportsviet.vn/images/*.gif|
 ||estats.netflix.com
+||etymonsibycter.com
 ||eubetvn.com
 ||euro04.co.uk
 ||evidon.com
@@ -2478,7 +2480,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||livetranss.com
 ||livezombymil.com
 ||lo8ve6ygour3pea4cee.com
-||loading-delivery1.com^
+||loading-delivery1.com
+||lobhbppyfrronof.com
 ||lode123.com
 ||lode88.net^$popup,third-party
 ||logging.admicro.vn^script,image
@@ -2804,6 +2807,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||pornvideos8k.com
 ||postimg.cc/*.gif$domain=8bongda.com
 ||pr-quangcao.edu.vn
+||prbtqjujwzwepv.com
 ||predictivadnetwork.com
 ||predictivadvertising.com^$third-party
 ||prgznhukaoggg.com
@@ -3435,6 +3439,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||wp.com/dc.motphim.net/ia/*$image
 ||wp.com/dc.mpapis.xyz/ia/*$image
 ||wp.com/image.bongngocdn.com/http/*$image
+||wteicogfeyhjk.com
 ||wutienitme247.info
 ||www-go88.vin
 ||wwwpromoter.com
