@@ -1,5 +1,5 @@
 ! Title: FAFD
-! Version: 06.01.042
+! Version: 06.03.043
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke & Kaspersky
 ! Author: Hung Pham
@@ -1488,6 +1488,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||affitop.com
 ||agenduret.com
 ||agle21xe2anfddirite.com
+||airfucks.com 
 ||airlinebot.io
 ||akanetwork.com
 ||alas4kanmfa6a4mubte.com
@@ -1509,6 +1510,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||anisfx.com
 ||anthill.vn
 ||anymind360.com
+||anyporn.com
 ||aod-image-material.cdn.bcebos.com
 ||aphim.org/asset_blade/js/jquery.popup.js
 ||aphim.tv/api/js/vast.js
@@ -1523,6 +1525,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ascolicalcio.net
 ||asian-sex.pro
 ||asianbetting.net
+||assasiasex.com
 ||assets.voz.vn/ga/*
 ||asto-exo.com^$third-party
 ||atdmt.com
@@ -1587,6 +1590,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bidadx.com^$third-party
 ||bidgear.com^$third-party
 ||bidvertiser.com
+||biguz.net
 ||biluu.tv/ajax/ads
 ||biluu.tv/wow/vast-*.xml
 ||binzdapoet.shop
@@ -1635,6 +1639,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bqnqrr43.com
 ||bqnqrr53.com
 ||brand.ad^$third-party
+||bravoporn.com
+||bravotube.net
 ||browser-http-intake.logs.datadoghq.com
 ||browser-http-intake.logs.datadoghq.eu
 ||browser-intake-datadoghq.eu
@@ -1643,6 +1649,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||btloader.com
 ||bu3le2lp4t45e6i.com
 ||budvawshes.ru
+||buoito.vip
 ||buysellads.com
 ||buzzadnetwork.com^$third-party
 ||bwfncx.tw
@@ -1725,6 +1732,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||content-analyticsinsights-pa.googleapis.com
 ||content.ad
 ||contextweb.com
+||coolsexnew.com
 ||coopm.art
 ||coremetrics.com
 ||cosplay-jav.com
@@ -1791,9 +1799,11 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||denbeigemark.com
 ||denetsuk.com^$third-party
 ||deqik.com
+||desallo.com
 ||device-provisioning.googleapis.com
 ||dewiestsards.com
 ||dfnb-ads.com^$third-party
+||dhrhzii89gpwo.cloudfront.net
 ||diendanlequydon.com^$third-party
 ||dinamomatbaa.com
 ||directadvert.ru^$third-party
@@ -1874,6 +1884,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||facebook-login.tbit.vn
 ||facebook.com/video/instream_video/view/story/*&ad_break_duration_ms=*
 ||fadingamendable.com
+||fap2bed.com
+||fapvidhd.com
 ||fastclick.net
 ||fastly-analytics.com
 ||fastred.biz
@@ -1906,6 +1918,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ff.imacdn.com/img/*.jpg
 ||ff.imacdn.com/img/vwin-*.jpg
 ||fi8899.com
+||fimsex.org
 ||financepro.live^$third-party
 ||fine.bet
 ||firebasedynamiclinks-ipv4.googleapis.com
@@ -1916,6 +1929,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||firebaselogging.googleapis.com
 ||firstimpression.io
 ||five88.me
+||flesh4me.com
 ||fmpub.net
 ||fn1s.info^$third-party
 ||focus-racing.com
@@ -1927,6 +1941,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fshare.vn/js/adsplay.
 ||fshare.vn/lib/video/fshare.mp4
 ||ftte.xyz
+||fucker4u.com
 ||fuckmovies.biz
 ||fulldl.net
 ||fullphim.pro
@@ -2031,6 +2046,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||googleusercontent.com^$image,domain=diendanvetinh.forumvi.com|bongdalive.tv|bongdaso.tv|bongdainfo.tv|demkhuya.tv|thuckhuya.net
 ||googlevideo.com/videoplayback?*&ctier=L&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
 ||gplinks.in
+||grannypatty.tv
 ||greenupload.com/images/*.gif$domain=thiendia.com
 ||gregfeingoldmusic.com
 ||gsspcln.jp
@@ -2053,6 +2069,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||hdo.tv/file/*.jpg
 ||hdo.tv/template/frontend/*float*
 ||hdo.tv/template/frontend/images/Topplayer.png
+||hdsex.org
 ||hdsieunhanh.com/static/*.gif
 ||hdviet.com/v1/js/hdv_tracking.js
 ||hdviet.com/v2/js/event/hdv.v2.event.min.js?*
@@ -2086,6 +2103,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||heratheacle.com
 ||hetbuon.com
 ||heyphim.com/img/*.gif|
+||hi-wife.com
 ||hieutbkhn.com
 ||highmaidfhr.com
 ||hihe.vn^$third-party
@@ -2099,6 +2117,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||hoowooze.net^$third-party
 ||hornyasian.work
 ||horsered.com
+||hotmovs.com
 ||hotporntube.co
 ||hphim.tv/*.gif
 ||hphim.tv/*.xml
@@ -2154,6 +2173,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||jabge.com
 ||jads.co
 ||janetruelove.com
+||japanpisstv.com
 ||jarvispopsu.com
 ||jav-porn-tube.com
 ||jav.guru
@@ -2251,6 +2271,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||je4k0e.tw
 ||jerredsite.pro^$third-party
 ||jewgn8une.com
+||jizzbunker.com
+||jizzoid.com
 ||jmtomcgqnsczl.com
 ||jomtingi.net
 ||jouteetu.net
@@ -2446,6 +2468,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||kuvip3576.com
 ||kw3y5otoeuniv7e9rsi.com
 ||kz2oq0xm6ie7gn5dkswlpv6mfgci8yoe3xlqp12gjotp5fdjxs5ckztb8rzn.codes
+||labbangs.com
 ||lammasbananas.com
 ||lamtinh.pro
 ||lavanetwork.net
@@ -2486,6 +2509,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||lode88.net^$popup,third-party
 ||logging.admicro.vn^script,image
 ||logging.googleapis.com
+||longai.xyz
+||lontv.cc
 ||lophocsex.xyz
 ||lordayroig.com
 ||lorybnfh.com
@@ -2577,6 +2602,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||mx88.me
 ||mxpnl.com
 ||my188bet.com
+||mylovedasians.tv
+||mylovedmatures.tv
 ||mynewsdesk.com/bettingtop10vietnam/*
 ||mywork.com.vn^$third-party
 ||n.xemtvhd.com^$subdocument
@@ -2625,6 +2652,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||npttech.com
 ||ns-strategy.cdn.bcebos.com
 ||ntsiwodere.top
+||nud8.com
 ||nuuk9g.tw
 ||nymzz3.tw
 ||o2yms3.tw
@@ -2803,6 +2831,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||porn99.net^$third-party
 ||pornhub.com
 ||pornolaba.mobi
+||pornoship.com
 ||pornpic.org
 ||pornvideos8k.com
 ||postimg.cc/*.gif$domain=8bongda.com
@@ -2816,6 +2845,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||promomobilsuzukijakarta.com
 ||propeller-tracking.com
 ||propellerads.com
+||proporn.com
 ||propu.sh
 ||prprocess.com
 ||prscripts.com^$third-party
@@ -2841,6 +2871,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||qc.yan.vn
 ||qcv5.blogtruyen.vn
 ||qlmqzznfcb.com
+||qq809.live
 ||qq835.me
 ||qsmfqeubxlgma.top
 ||quachdaica.net/*/qdc*
@@ -3085,7 +3116,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ta3nfsordd.com
 ||taboola.com^$third-party
 ||taghaugh.com
+||tai567live.vip
+||tai789.net
 ||taifile.vn^$popup,third-party
+||taig8.top
 ||taigamevina.com^$popup,third-party
 ||taigo88.us
 ||taiiwin.club
@@ -3103,6 +3137,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||tanx.com^$third-party
 ||taobao.com^$subdocument,domain=soduso.com
 ||tazogames.com
+||teenax.com
 ||tenlua.vn/img/*_banner*.gif|
 ||terratraf.com^$third-party
 ||thanosofcos5.com
@@ -3197,6 +3232,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ttgmjfgldgv9ed10.com
 ||tttd.vn$popup,third-party
 ||tube3x.pro
+||tube4world.com
+||tubeof.porn
 ||tuoinung.com
 ||tuthienbao.com/*.swf
 ||tuyensinh.*.edu.vn^$popup,third-party
@@ -3331,7 +3368,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vegas79.net
 ||vektprava.ru
 ||velocecdn.com/script/native_*.js$domain=aphim.org
-||verycheap.cheap-ads.net^
+||verycheap.cheap-ads.net
+||veryhot.porn
 ||vf181818.com
 ||vgdn.net/apoop/play_background_*
 ||video.xlviirdr.com
@@ -3395,8 +3433,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vnreview.vn/*/js/ads*.js
 ||vnreview.vn/play-clip/*
 ||vnwebgame.com^$popup
+||vnxx.org
 ||vnxxx.net
 ||voonogoa.net
+||voyeurhit.com
 ||vt-8888.com
 ||vuachanle.com
 ||vuakeo.tv
@@ -3413,6 +3453,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||w88f1.com
 ||w99.vn
 ||waframedia*.com^$third-party
+||wapbold.com
 ||watching.vn/assets/images/banner/*.jpg
 ||webdien.com/d/ad/*
 ||webnena.com
@@ -3525,6 +3566,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xviet.tv
 ||xvietsub.com
 ||xxa4dc.tw
+||xxbase.org
 ||xxjav.cc
 ||xxngon.net
 ||xxntube.com
