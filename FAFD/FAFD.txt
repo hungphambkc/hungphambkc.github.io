@@ -569,6 +569,8 @@ studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-pause-overlay
 studio.youtube.com#@$?#.opened { remove: true; }
 subscene.com##.banner
 tailieu.vn##.fleft.doc300 > div > .adsbygoogle
+tailieuhust.com##.sgpb-popup-dialog-main-div-wrapper
+tailieuhust.com##.sgpb-popup-overlay.sgpb-popup-overlay-14933.sgpb-theme-1-overlay
 tailieutuoi.com##.overflow-y-auto.inset-0.z-10.fixed
 taimienphi.vn###cph1_adlinkbox
 taimienphi.vn###cph1_ga0
