@@ -2,7 +2,6 @@
 
 #### Step 1: Install Extension uBlock Origin
 
-   <html> 
     <p align="center"> 
       <a href="https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm/">Chrome </a> |
       <a href="https://addons.mozilla.org/en-us/firefox/addon/ublock-origin/">Mozilla Firefox</a> |
@@ -21,7 +20,5 @@
     <img src="src/GUD_3.png">
     </p>
        
-       
-  </html>
-  
+        
 #### Step 3: Done!
