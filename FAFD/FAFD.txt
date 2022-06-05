@@ -1655,6 +1655,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||buysellads.com
 ||buzzadnetwork.com^$third-party
 ||bwfncx.tw
+||c.aaxads.com
 ||c88bet2.co
 ||cabbagehomme.casa
 ||cachchoi.net
@@ -1670,6 +1671,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||casalemedia.com
 ||casio67.club
 ||cdn.*/static/js/amvn.js
+||cdn.ml314.com
 ||cdn.vteamv.com/durex.mp4
 ||cdn4ads.com
 ||cdnads.90phut.tv
@@ -1940,6 +1942,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fptplay.vn/js/videojs/*ads.js
 ||freddyoctavio.pro/am-push-cps.js
 ||freychang.fun
+||fsdn.tech
 ||fshare.vn/js/adsplay.
 ||fshare.vn/lib/video/fshare.mp4
 ||ftte.xyz
@@ -2150,6 +2153,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||img.ketqua.net/images/*.gif|
 ||img.xemphim73.com/img/*.gif|
 ||imgcdnbet.com
+||in.ml314.com
 ||in-page-push.com
 ||infogame.vn/*swf
 ||infolinks.com
@@ -2581,6 +2585,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||miniapp-ad.cdn.bcebos.com
 ||mint.frzz.net
 ||mixpanel.com
+||ml314.com
 ||mmo4me.com/image.php?*
 ||mobads-pre-config.cdn.bcebos.com
 ||mobiad.yestech.vn^$third-party
@@ -2683,6 +2688,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||openx.org
 ||opjstlfyrwoptimizationguide-pa.googleapis.com
 ||optimizely.com
+||optout.crsspxl.com
 ||optyruntchan.com
 ||oranegfodnd.com
 ||orquideassp.com
@@ -2854,6 +2860,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||prwidgets.com^$third-party
 ||pseepsie.com
 ||pso2vn.com/js/SmoothScroll.js
+||pss.alicdn.com
 ||ptp22.com
 ||pub2srv.com
 ||pubmatic.com
@@ -2937,6 +2944,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sbotop.com
 ||scekwvmihrhetlg.com
 ||scorecardresearch.com
+||script.crsspxl.com
 ||search-operate.cdn.bcebos.com
 ||search.4shared.com^$popup
 ||securepubads.g.doubleclick.net
@@ -3014,6 +3022,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sexvua.net
 ||sexxinh.net
 ||sexzz.cc
+||sf-syn.com
 ||sflywfcanq.com
 ||sharelive.net
 ||sharethis.com
@@ -3040,12 +3049,14 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||skimresources.net
 ||skylink.vn
 ||skypeassets.com^$third-party,domain=~skype.com
+||slashdotmedia.com
 ||smac-ad.com
 ||smail188.com^$third-party
 ||smallfunnybears.com
 ||smarbattery.com
 ||smartchoice89.com
 ||smileoffennec.com
+||snap.licdn.com
 ||snappedimpressive.com
 ||snugglethesheep.com
 ||sociomantic.com
@@ -3117,6 +3128,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||systemupdatesy.life
 ||ta3nfsordd.com
 ||taboola.com^$third-party
+||tag.crsspxl.com
 ||taghaugh.com
 ||tai567live.vip
 ||tai789.net
@@ -3374,6 +3386,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||veryhot.porn
 ||vf181818.com
 ||vgdn.net/apoop/play_background_*
+||vi.ml314.com
 ||video.xlviirdr.com
 ||video8s.com^$subdocument,third-party
 ||videomega.tv/vjs/*vast*
