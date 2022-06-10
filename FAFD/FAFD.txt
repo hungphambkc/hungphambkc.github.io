@@ -1024,6 +1024,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||138bet.com
 ||138bet.top
 ||138bets.net
+||168ttwin.com
 ||173fanli.com
 ||188bet.com
 ||188bet.guru
@@ -1066,6 +1067,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||4dsply.com
 ||4hfchest5kdnfnut.com
 ||5123b.com
+||5637831.com
 ||567liveapi001.com
 ||567lives.com
 ||585vn.com
@@ -1084,6 +1086,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||68club.app
 ||7732599.com
 ||775385.com
+||78966.app
+||7897892.vip
 ||789a.club
 ||789b.asia
 ||789bet.io
@@ -1106,10 +1110,12 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||8kbet.vn
 ||8live.com^$popup,third-party
 ||8xbet07.com
+||8xbet11.com
 ||90trader.com
 ||975d.me
 ||99881288.com
 ||9cc85d.se
+||9club88.com
 ||a2tw6yoodsag.com
 ||aad73c550c.se/?*$popup
 ||abcsrv1.com^$third-party
@@ -1603,7 +1609,18 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bitvtom100.xyz/js/player/*/vast.js
 ||bizible.com
 ||bjkaihong.com
+||bk8.com
+||bk8app.net
 ||bk8c.com
+||bk8club.org
+||bk8max.com
+||bk8myr.com
+||bk8ping.com
+||bk8plus.com
+||bk8ss.com
+||bk8vnd.com
+||bk8vnvip.com
+||bk8vui.com
 ||blockadblock.com
 ||blognhacai.com
 ||blogspot.com^$subdocument,third-party
@@ -1641,7 +1658,9 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bqnqrr33.com
 ||bqnqrr43.com
 ||bqnqrr53.com
-||brand.ad^$third-party
+||br3ackandhack.com
+||br3azil334nutsz.com
+||brand.ad
 ||bravoporn.com
 ||bravotube.net
 ||browser-http-intake.logs.datadoghq.com
@@ -1682,6 +1701,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||celeritascdn.com^$third-party
 ||cerotop.com^$third-party
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^$third-party
+||chanle9999.me
+||chanlemomo.nl
 ||channelvn.net
 ||chanrau.pro
 ||chartbeat.com
@@ -1712,8 +1733,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||cliphot69.cc
 ||clipsex3x.com
 ||clipvip.tv^$third-party
+||clmomo.site
 ||clouderrorreporting.googleapis.com
 ||cloudfront.net^$domain=4share.vn|chiasenhac.vn|hdo.tv|hatde.tv|megaurl.in|onhax.me|ouo.io|zippyshare.com
+||cltx247.com
 ||cmd368.net^$popup,third-party
 ||cms-image.cdn.bcebos.com
 ||cnzz.com
@@ -1753,6 +1776,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||criteo.$third-party
 ||crwdcntrl.net
 ||cuddlethehyena.com
+||cuoctai11bet.vip
 ||cuongsex.com
 ||cxense.com
 ||cydia.vn^$third-party
@@ -1829,6 +1853,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||dk802.com
 ||dk816.com
 ||dk867.com
+||dk8809.com
 ||dk902.com
 ||dktrade.com
 ||do.aeoliancorojo.com
@@ -2020,6 +2045,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||gl5.vip
 ||gm.mmstat.com
 ||gmodules.com/gadgets/proxy?*$domain=101vn.com|kenh1.info|keonhacai.net|tivi4k.net
+||go-88.app
 ||go.blogtruyen.vn^$popup
 ||go.xlviirdr.com
 ||go4s.biz
@@ -2033,6 +2059,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||go88bet.net
 ||go88code.com
 ||go88v2.com
+||go88vip.net
+||go88vip.pro
 ||go88vn.cc
 ||go88vn.fun
 ||go88vn.top
@@ -2055,6 +2083,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js
 ||googleusercontent.com^$image,domain=diendanvetinh.forumvi.com|bongdalive.tv|bongdaso.tv|bongdainfo.tv|demkhuya.tv|thuckhuya.net
 ||googlevideo.com/videoplayback?*&ctier=L&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
+||gozelenergyservices.com
 ||gplinks.in
 ||grannypatty.tv
 ||greenupload.com/images/*.gif$domain=thiendia.com
@@ -2062,6 +2091,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||gsspcln.jp
 ||gstatic.com/pub-config/ca-pub*
 ||gzlmz.me
+||hackmeta.pro
 ||hadarone.com^$third-party
 ||hai360.vn/skin/web/*custombox*
 ||hairypornxxx.com
@@ -2122,6 +2152,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||hilltopads.net^$third-party
 ||histats.com
 ||histock.info^$third-party
+||hkdbitexchange.com
 ||hoicongchungvienbinhduong.com.vn/Android/*
 ||hoicongchungvienbinhduong.com.vn/down/*
 ||hoowooze.net^$third-party
@@ -2463,6 +2494,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||kubetcasino.net
 ||kubetonline.net
 ||kubetvn.mobi
+||kubetzz.net
 ||kucasino.fan
 ||kucasino.info
 ||kucasino.live
@@ -2476,6 +2508,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||kucdn2.net
 ||kucdn4.net
 ||kuclub.info
+||kucoinsaz.com
 ||kudv.net
 ||kuvip3576.com
 ||kw3y5otoeuniv7e9rsi.com
@@ -2594,12 +2627,14 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||mint.frzz.net
 ||mixpanel.com
 ||ml314.com
+||mml888.me
 ||mmo4me.com/image.php?*
 ||mobads-pre-config.cdn.bcebos.com
 ||mobiad.yestech.vn^$third-party
 ||mobiblog.net
 ||mobilecrashreporting.googleapis.com
 ||mobiledataplansharing.googleapis.com
+||modern-booster.com
 ||moengage.com
 ||momo-live.vip
 ||momo-live45.com
@@ -2620,6 +2655,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||mylovedasians.tv
 ||mylovedmatures.tv
 ||mynewsdesk.com/bettingtop10vietnam/*
+||mysixaap.xyz
 ||mywork.com.vn^$third-party
 ||n.xemtvhd.com^$subdocument
 ||n176adserv.com^$third-party
@@ -2889,8 +2925,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||qc.tclup.com^$popup,script
 ||qc.yan.vn
 ||qcv5.blogtruyen.vn
+||qki99.com
 ||qlmqzznfcb.com
 ||qq809.live
+||qq818.live
 ||qq835.me
 ||qsmfqeubxlgma.top
 ||quachdaica.net/*/qdc*
@@ -2912,6 +2950,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||reedthatm.biz
 ||refugedcuber.com
 ||regnation.ru
+||relmac.net
 ||render-server.cdn.bcebos.com
 ||rendykunto.com
 ||resalag.com
@@ -2946,6 +2985,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||rutrk.org^$third-party
 ||s*block.com^$third-party
 ||s3kuma.com
+||s88677.com
 ||safebrowsing.googleapis-cn.com
 ||safehousefsi.com
 ||sb4you1.com
@@ -2966,6 +3006,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sen992.com
 ||septfd2em64eber.com
 ||serdaive.com
+||sermina.host
 ||servedbyopenx.com
 ||service.tuoitre.vn/TTOBanner/*
 ||serving-sys.com
@@ -3042,9 +3083,12 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||shijuezhongguo.cdn.bcebos.com
 ||shink.in/img/downloadad.png
 ||shink.in/js/p*.js
+||shopee.am
 ||shopeep.vip
 ||shopeevent.com
 ||shopgenshin247h.com
+||shopmall33.com
+||shopmall88.com
 ||shopkcffx5.com
 ||shoppeg.com
 ||shopt1.com
@@ -3052,6 +3096,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||shukriya90.com
 ||sieumua.com^$third-party
 ||sieuno88.vin
+||sieuthidark.com
 ||siftshortagepopped.com
 ||sin88.club
 ||sin88s.com
@@ -3396,6 +3441,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vdo.ai
 ||vdoc.vn^$third-party
 ||vdosupreme.com^$third-party
+||vebo.live
 ||vegas79.net
 ||vektprava.ru
 ||velocecdn.com/script/native_*.js$domain=aphim.org
@@ -3457,13 +3503,22 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vn138.info
 ||vn138bet.com
 ||vn138bet.net
+||vn58.vip
+||vn58121.com
+||vn58zamo.app
 ||vn6989.com
+||vn880008.com
 ||vn88win.live
+||vnae567.com
+||vnaf567.com
+||vnah567.com
+||vnd.wang
 ||vnkuvideo.com
 ||vnmenlust.com
 ||vnreview.vn/*/images/background/outAds_*$image
 ||vnreview.vn/*/js/ads*.js
 ||vnreview.vn/play-clip/*
+||vnshop00.com
 ||vnwebgame.com^$popup
 ||vnxx.org
 ||vnxxx.net
@@ -3481,6 +3536,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vwin.com
 ||vws.vegacdn.vn/QCBinhluan/*
 ||vwthethao.club
+||vz683.com
 ||w1ft1qku.cn
 ||w88f1.com
 ||w99.vn
@@ -3501,6 +3557,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||whazugho.com
 ||widgets.outbrain.com/OutbrainRater.js
 ||widow5blackfr.com
+||wikigiaidap.com
 ||win10.vn
 ||win39.net
 ||win9906.com
