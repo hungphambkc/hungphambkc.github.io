@@ -1,5 +1,5 @@
 ! Title: FAFD
-! Version: 06.03.043
+! Version: 06.09.044
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke & Kaspersky
 ! Author: Hung Pham
@@ -1084,6 +1084,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||68club.app
 ||7732599.com
 ||775385.com
+||789a.club
 ||789b.asia
 ||789bet.io
 ||7ca78m3csgbrid7ge.com
@@ -1164,7 +1165,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||adminevcache.stg.us-east-1.dyntest.netflix.net
 ||admitad-connect.com
 ||admob.vn
-||adnet.vn^
+||adnet.vn
 ||adnetpartner.com^$third-party
 ||adnetwork.adasiaholdings.com^$third-party
 ||adnetwork.admicro.vn
@@ -1695,6 +1696,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||choangvip.com
 ||choangvip.io
 ||choigo88.us
+||choingayone88.win
 ||choirikvip.net
 ||chovinh.com/data/*.gif|
 ||chuthapdohatinh.org.vn/upload/tailieu/*.htm
@@ -1913,6 +1915,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fc-feed.cdn.bcebos.com
 ||fcb8.vip
 ||fcine.net/uploads/*_eABD_*$script
+||fckme9s.com
 ||fcounter.info
 ||fd5orie8e.com
 ||fdelphaswcealifornica.com
@@ -1924,6 +1927,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fi8899.com
 ||fimsex.org
 ||financepro.live^$third-party
+||findsexy.life
 ||fine.bet
 ||firebasedynamiclinks-ipv4.googleapis.com
 ||firebasedynamiclinks.googleapis.com
@@ -2011,6 +2015,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||giftcode-lqmb2.com
 ||giftcodelqmb-vn.com
 ||gigaonclick.com^$third-party
+||gizmoxxx.com
 ||gj.mmstat.com
 ||gl5.vip
 ||gm.mmstat.com
@@ -2214,6 +2219,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||javhd.today
 ||javhdd.net
 ||javhdhay.vip
+||javhdi.com
 ||javhdo.net
 ||javhdporn.net
 ||javhdv.net
@@ -2515,6 +2521,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||lode88.net^$popup,third-party
 ||logging.admicro.vn^script,image
 ||logging.googleapis.com
+||lon88.com
+||lon88.vip
 ||longai.xyz
 ||lontv.cc
 ||lophocsex.xyz
@@ -2734,6 +2742,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||phimhd.sex
 ||phimheosex.com
 ||phimjav.biz
+||phimjav.club
+||phimjav.pro
 ||phimjav.tv
 ||phimjav.xyz
 ||phimloz.to
@@ -2942,6 +2952,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sbbanner.com
 ||sbetviet.com
 ||sbotop.com
+||scarletcashwi5.com
 ||scekwvmihrhetlg.com
 ||scorecardresearch.com
 ||script.crsspxl.com
@@ -2972,6 +2983,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sex98.net
 ||sexapi.xyz
 ||sexcuto.com
+||sexcuto.net
 ||sexdam.tv
 ||sexdiary.xyz
 ||sexditnhau.cc
@@ -3060,6 +3072,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||snappedimpressive.com
 ||snugglethesheep.com
 ||sociomantic.com
+||socolive.cc
 ||sodo02.com
 ||sodo100.com
 ||sodo15.com
@@ -3077,6 +3090,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sovetnik.yandex.net^$third-party
 ||soytehoabinh.gov.vn/2021/*.html
 ||spankbang.com
+||specificationmadamdetriment.com
 ||spewyelks.com
 ||spillvacation.com^$third-party
 ||sponsor.imacdn.com/*/*.mp4
@@ -3132,6 +3146,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||taghaugh.com
 ||tai567live.vip
 ||tai789.net
+||taib52.com
 ||taifile.vn^$popup,third-party
 ||taig8.top
 ||taigamevina.com^$popup,third-party
@@ -3141,6 +3156,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||taiiwinclub.vip
 ||taimanclub.com
 ||taiphimsex.top
+||tairikvip.net
 ||tairikvip.org
 ||taiv8.cc
 ||taixiu.bet
@@ -3178,6 +3194,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||thterras.com^$third-party
 ||thuckhuya.net/*.gif
 ||thuckhuya.tv/wp-content/uploads/*.gif
+||thumbzilla.com
 ||ti553.com^$third-party
 ||tiasang.com.vn/app/*
 ||tidaltv.com
@@ -3584,6 +3601,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xxbase.org
 ||xxjav.cc
 ||xxngon.net
+||xxnhanh.com
 ||xxntube.com
 ||xxphe.cc
 ||xxphim.sex
