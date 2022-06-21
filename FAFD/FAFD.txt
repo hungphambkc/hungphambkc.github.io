@@ -1,5 +1,5 @@
 ! Title: FAFD
-! Version: 06.09.044
+! Version: 06.20.045
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke & Kaspersky
 ! Author: Hung Pham
@@ -578,11 +578,14 @@ taimienphi.vn###cph1_ga1
 taimienphi.vn###cph1_ga2
 taimienphi.vn###cph1_ga3
 taimienphi.vn###cph1_gacenter2
+taimienphi.vn###cph1_galeft1
 taimienphi.vn###cph1_garight1
 taimienphi.vn###cph1_gatop
 taimienphi.vn###cph1_gatop0
 taimienphi.vn###shownews
+taimienphi.vn##ins.adsbygoogle:nth-of-type(1)
 taimienphi.vn##p:nth-of-type(27)
+taimienphi.vn##.r.mr .adsbygoogle
 taisachhay.com###footer ~ div
 talk.secafe.vn##.hs-header-ad
 talk.secafe.vn##.hs-hide-992
@@ -610,12 +613,12 @@ tienichmaytinh.net,icongnghe.com,vuamaytinh.com.vn##.chp_branding
 tienichmaytinh.net,icongnghe.com,vuamaytinh.com.vn##.theme1.chp_ads_block_detector_theme
 tienichmaytinh.net##.main-sidebar.sidebar > div.widget_custom_html.widget.widget_text > .custom-html-widget.textwidget
 tienichmaytinh.net##[href="https://codehelppro.com/product/wordpress/plugin/chp-ads-block-detector-pro/"]
+tienichmaytinh.net##[href="https://hamrocsit.com"]
 tienichmaytinh.net##div.one_fourth > .widget_custom_html.widget.widget_text > .custom-html-widget.textwidget
 tienichmaytinh.net##div.widget_custom_html.widget.widget_text
 tienichmaytinh.net##div.widget_media_image.widget
 tienichmaytinh.net##div#chp_ads_block_pro_body.chp_ads_block_pro_body
 tienichmaytinh.net##div#chp_ads_block_pro_body.chp_ads_block_pro_body > div.chp_ads_block_detector_theme.theme1 > div.chp_ads_block_pro_body
-tienichmaytinh.net##.chp_ads_blocker_detector-showuG20iSjqOUHL0kPtAQAvM9X3M1WpE3.fadeInDown.chp_ads_block_modaluG20iSjqOUHL0kPtAQAvM9X3M1WpE3
 timbus.vn##[src="http://quantri.timbus.vn/Media/Uploads/*.jpg"]
 timbus.vn###lft-adv-ctn
 tinhte.vn##.adWidget
@@ -688,6 +691,7 @@ tuyengiao.vn##.visible-md.header-banners
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##.branding
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##div[class*="adv-manager"]
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##script[nonce] + script[nonce] + div[class]
+twrp.me##body > .wrapper
 userstyles.org###social
 uslugi.yandex.ru##.WebBanner
 vatlydaicuong.com##.entry-content > .adsbygoogle
@@ -2158,6 +2162,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||hoowooze.net^$third-party
 ||hornyasian.work
 ||horsered.com
+||hotlive.pro
 ||hotmovs.com
 ||hotporntube.co
 ||hphim.tv/*.gif
@@ -3551,6 +3556,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||websextop.com
 ||websitedhoome.com^$popup,third-party
 ||webtrends.com
+||webvisor.org
 ||wenku-cms.bj.bcebos.com
 ||wfgo5vjs6cp0cdjx7bms3cn9lof2p01xho0pxgm1fd2fah3j5d8qd7x1d6eu.me
 ||whatosgoingon.biz
@@ -3613,6 +3619,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xemxx.vip
 ||xevathethao.vn^$third-party
 ||xhamster.com
+||xmdforex.com
 ||xmlrtb.com
 ||xnxx-cdn.com
 ||xnxx-vn.com
