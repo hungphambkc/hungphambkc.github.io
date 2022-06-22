@@ -1462,6 +1462,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||adskeeper.co.uk^$third-party
 ||adskeeper.com^$third-party
 ||adsplay.net^$third-party
+||adsrvr.org
 ||adsvn.ga
 ||adsyst.biz
 ||adtechus.com^$third-party
@@ -1525,6 +1526,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||anymind360.com
 ||anyporn.com
 ||aod-image-material.cdn.bcebos.com
+||ap.lijit.com
 ||aphim.org/asset_blade/js/jquery.popup.js
 ||aphim.tv/api/js/vast.js
 ||aphycolourses.info
@@ -1602,6 +1604,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bibenn.store
 ||bidadx.com^$third-party
 ||bidgear.com^$third-party
+||bidswitch.net
 ||bidvertiser.com
 ||biguz.net
 ||biluu.tv/ajax/ads
@@ -1695,6 +1698,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||casalemedia.com
 ||casio67.club
 ||cdn.*/static/js/amvn.js
+||cdn.itskiddoan.club
 ||cdn.ml314.com
 ||cdn.vteamv.com/durex.mp4
 ||cdn4ads.com
@@ -2184,6 +2188,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||i99909.com
 ||iam9p3eri3as5lc6hllege.com
 ||iclickcdn.com
+||id5-sync.com
 ||ietyofedinj89yewtburgh.com
 ||igo.5giay.vn/changebanner/mBanner
 ||ihatoo.com
@@ -2698,6 +2703,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||nhakai.com
 ||nhanthuong88.com^$popup,third-party
 ||nhat.uk
+||niwooghu.com
 ||no2veeamggaseber.com
 ||nohu52.net
 ||nology.vn^$third-party
@@ -2725,6 +2731,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||onclkds.com^$third-party
 ||onctus.com^$third-party
 ||onejav.com
+||onetag-sys.com
 ||onfckepwq.com
 ||onhax.me/*/rocket.js
 ||onmarshtompor.com
@@ -2914,6 +2921,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||pss.alicdn.com
 ||ptp22.com
 ||pub2srv.com
+||pubads.g.doubleclick.net/gampad/ads*
+||pubads.g.doubleclick.net/gampad/live/ads*
 ||pubmatic.com
 ||pubsub.googleapis.com
 ||puhtml.com^$third-party
@@ -2963,6 +2972,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||rev2pub.com
 ||reviveservers.com
 ||revsci.net
+||richaudience.com
 ||rigelink.com^$third-party
 ||rikfun.club
 ||rikvip.link
@@ -3115,6 +3125,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||smac-ad.com
 ||smail188.com^$third-party
 ||smallfunnybears.com
+||smartadserver.com
+||smartadserver.com.br
 ||smarbattery.com
 ||smartchoice89.com
 ||smileoffennec.com
@@ -3263,6 +3275,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||tnaflix.com
 ||tob-cms.bj.bcebos.com
 ||tobaitsie.com
+||tobaltoyon.com
 ||tocmoi.net^$third-party
 ||toglooman.com
 ||toiwin.com
@@ -3346,6 +3359,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||upfile.vn/view/default/image/index-*.gif|
 ||upgulpinon.com
 ||upload69.net/images/*.gif|
+||upskittyan.com
 ||ursegreatm.fun
 ||userlocation.googleapis.com
 ||userreport.com^$third-party
