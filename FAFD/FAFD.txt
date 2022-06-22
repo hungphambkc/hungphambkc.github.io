@@ -1193,6 +1193,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||adnetwork.vn
 ||adnexus.vn
 ||adnxs.com
+||adocean.pl
 ||adonly.com
 ||adoptum.net
 ||adp.vnecdn.net
@@ -1694,6 +1695,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||buzzadnetwork.com^$third-party
 ||bwfncx.tw
 ||c.aaxads.com
+||c.tmyzer.com
 ||c88bet2.co
 ||cabbagehomme.casa
 ||cachchoi.net
@@ -2020,6 +2022,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fxcgm6.tw
 ||fziql.tw
 ||g.jwpsrv.com
+||g.tmyzer.com
 ||g1k63t.tw
 ||g3news.biz
 ||gaigoi18.cc
@@ -3256,6 +3259,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||thegioidaichien.com^$popup,third-party
 ||thegioisex.net
 ||themlon.pro
+||themoneytizer.com
 ||themsex.pro
 ||theporndude.com
 ||thepornlinks.com
