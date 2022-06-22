@@ -1,5 +1,5 @@
 ! Title: FAFD
-! Version: 06.20.045
+! Version: 06.22.046
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke & Kaspersky
 ! Author: Hung Pham
@@ -350,6 +350,10 @@ facebook.com##html#facebook._9dls.__fb-light-mode > body._6s5d._71pn.system-font
 facebook.com##html#facebook._9dls.__fb-light-mode > body._6s5d._71pn.system-fonts--body.segoe > div.sponsorPost
 facebook.com##html#facebook._9dls.__fb-light-mode > body._6s5d._71pn.system-fonts--body.segoe > div.widgetSponsors
 fbtag.net##.Flagrow-Ads-fake-poststream-item
+fidlarmusic.com###div-ub-fidlarmusic
+fidlarmusic.com,kiemlua.com,publicananker.com##.KTBue
+fidlarmusic.com,kiemlua.com,publicananker.com###ubvideo-frame
+fidlarmusic.com,kiemlua.com,publicananker.com##.ub-loaded.pcFrame
 fimfast.com##BODY > .ff-banner
 findip-address.com##.banner
 findip-address.com##.header
@@ -472,6 +476,9 @@ keonhacai.net##.AdsDesktop-header
 ketcau.com##TD[width="140"][valign="top"]
 ketqua.net##.float-qc-left
 khampha.vn##[id^="ADS_"]
+kiemlua.com##ins.adsbygoogle:nth-of-type(1)
+kiemlua.com##ins.adsbygoogle:nth-of-type(2)
+kiemlua.com##ins.adsbygoogle:nth-of-type(3)
 kienthuc.net.vn##.simplebanner
 kienthuc.vn##.ja-colswrap.clearfix.ja-r2
 kissmanga.com###mgiframe2 + DIV
@@ -524,6 +531,9 @@ phimnhanh.com##.qc-inner
 phuongtrinhhoahoc.com##.standard-page > .row
 platinumcineplex.vn##[id^="fancybox"]
 play.tclup.com##.body > .modal
+publicananker.com###div-ub-publicananker
+publicananker.com##div.pgAdWrapper:nth-of-type(5)
+publicananker.com##div.pgAdWrapper:nth-of-type(7)
 quantrimang.com##.adsense.clearfix.adbox
 quantrimang.com##.box-section.adbox
 quantrimang.com##.is_stuck.sticky
@@ -1055,6 +1065,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||24live.vip
 ||2banh.vn/*/script_banner/*
 ||2qj7mq3w4uxe.com
+||33across.com
 ||33beta.com
 ||33k1.com
 ||360game.vn^$popup
@@ -2578,6 +2589,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||luminate.com
 ||luulibaluli.com
 ||luzulabeguile.com
+||lwgadm.com
 ||m.servedby-buysellads.com
 ||m.youtube.com/*/ad.js$script
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
@@ -2652,6 +2664,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||monetiza.co^$third-party
 ||moonata.net
 ||mossens.com
+||mp.4dex.io
 ||mppegwckbtp.com
 ||mrelko.com^$third-party
 ||msales.com
@@ -2903,6 +2916,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||postimg.cc/*.gif$domain=8bongda.com
 ||pr-quangcao.edu.vn
 ||prbtqjujwzwepv.com
+||prebid.a-mo.net
+||prebid-match.dotomi.com
 ||predictivadnetwork.com
 ||predictivadvertising.com^$third-party
 ||prgznhukaoggg.com
@@ -2989,6 +3004,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||romepoptahul.com
 ||ronghovn.com
 ||rosemand.pro^$third-party
+||rtb.gumgum.com
 ||rtbclick.net^$third-party
 ||rtbpop.com
 ||rtmark.net
@@ -3010,6 +3026,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||scarletcashwi5.com
 ||scekwvmihrhetlg.com
 ||scorecardresearch.com
+||script.4dex.io
 ||script.crsspxl.com
 ||search-operate.cdn.bcebos.com
 ||search.4shared.com^$popup
@@ -3349,6 +3366,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||uncn.jp
 ||undersun.jp
 ||unibet.com^$third-party
+||unibots.in
 ||unifood-inc.jp
 ||unitedblades.co.jp
 ||universe-biz.microad.co.jp
