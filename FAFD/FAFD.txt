@@ -254,6 +254,7 @@ anonyviet.com##.ai-viewport-2.ai-viewport-1.code-block-3.code-block
 anonyviet.com##.jnews_article_top_ads.jeg_article.jeg_ad
 anonyviet.com##.jnews_content_bottom_ads.jeg_article.jeg_ad
 anonyviet.com###custom_html-8
+anonyviet.com##body > kbd
 answers.yahoo.com##[id$="textads"]
 arduinokit.vn##.ugaam-center-align.ugaam-sticky-footer-ad-wrapper.ugaam-sticky-footer-ad.ugaam-sticky-ad.ugaam-ad-wrapper-outer
 arduinokit.vn##div.ugaam-center-align.ugaam-singular-ad-wrapper.ugaam-ad-wrapper-outer
