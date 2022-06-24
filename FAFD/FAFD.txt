@@ -256,6 +256,8 @@ anonyviet.com##.jnews_content_bottom_ads.jeg_article.jeg_ad
 anonyviet.com###custom_html-8
 anonyviet.com##body > kbd
 anonyviet.com##body > p
+anonyviet.com##kbd
+anonyviet.com##div > section
 answers.yahoo.com##[id$="textads"]
 arduinokit.vn##.ugaam-center-align.ugaam-sticky-footer-ad-wrapper.ugaam-sticky-footer-ad.ugaam-sticky-ad.ugaam-ad-wrapper-outer
 arduinokit.vn##div.ugaam-center-align.ugaam-singular-ad-wrapper.ugaam-ad-wrapper-outer
@@ -1012,6 +1014,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 *-ad.24hstatic.com
 *.accountant^$third-party
 ||.*/wp-content/plugins/ad-inserter/*
+||.*/wp-content/plugins/better-adsmanager/*
 ||03ed9035a0801f.com
 ||1111mc.com
 ||118.69.168.115/PolyadsFile/*
