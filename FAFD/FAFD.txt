@@ -1015,6 +1015,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 *.accountant^$third-party
 ||.*/wp-content/plugins/ad-inserter/*
 ||.*/wp-content/plugins/better-adsmanager/*
+||.*/wp-content/plugins/chp-ads-block-detector/*
 ||03ed9035a0801f.com
 ||1111mc.com
 ||118.69.168.115/PolyadsFile/*
@@ -2546,6 +2547,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||labbangs.com
 ||lammasbananas.com
 ||lamtinh.pro
+||lapsebreak.com
 ||lavanetwork.net
 ||lavas.exchange
 ||lazada.$third-party
@@ -3101,6 +3103,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sextop1.net
 ||sextop123.com
 ||sextop18.net
+||sexualpitfall.com
 ||sexviet.tube
 ||sexviet.video
 ||sexviet123.com
@@ -3151,6 +3154,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||smac-ad.com
 ||smail188.com^$third-party
 ||smallfunnybears.com
+||smart-jaba.com
 ||smartadserver.com
 ||smartadserver.com.br
 ||smarbattery.com
@@ -3229,6 +3233,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||syngrestic.com
 ||systemupdatesy.life
 ||ta3nfsordd.com
+||ta88.com
 ||taboola.com^$third-party
 ||tag.crsspxl.com
 ||taghaugh.com
