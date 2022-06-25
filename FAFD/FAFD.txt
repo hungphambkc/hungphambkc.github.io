@@ -257,7 +257,10 @@ anonyviet.com###custom_html-8
 anonyviet.com##body > kbd
 anonyviet.com##body > p
 anonyviet.com##kbd
+anonyviet.com##kbd > section
+anonyviet.com##div > kbd
 anonyviet.com##div > section
+anonyviet.com##section > kbd
 answers.yahoo.com##[id$="textads"]
 arduinokit.vn##.ugaam-center-align.ugaam-sticky-footer-ad-wrapper.ugaam-sticky-footer-ad.ugaam-sticky-ad.ugaam-ad-wrapper-outer
 arduinokit.vn##div.ugaam-center-align.ugaam-singular-ad-wrapper.ugaam-ad-wrapper-outer
