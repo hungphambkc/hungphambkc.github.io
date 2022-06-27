@@ -1,5 +1,6 @@
+![Adblock Plus 2.0]
 ! Title: FAFD
-! Version: 06.22.046
+! Version: 06.27.047
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke & Kaspersky
 ! Author: Hung Pham
@@ -618,16 +619,20 @@ thamhue.com###sidebar
 thiendia.com##.my_responsive_ads
 thiendia.com##.samThreadPostMessageInside
 thongtincongnghe.com##.scroller-sidebar
-tienichmaytinh.net,icongnghe.com,vuamaytinh.com.vn##.active.chp_ads_blocker-overlay
-tienichmaytinh.net,icongnghe.com,vuamaytinh.com.vn##.chp_ads_block_modal_content
-tienichmaytinh.net,icongnghe.com,vuamaytinh.com.vn##.chp_ads_blocker_detector-action
-tienichmaytinh.net,icongnghe.com,vuamaytinh.com.vn##.chp_ads_blocker_detector-content
-tienichmaytinh.net,icongnghe.com,vuamaytinh.com.vn##.chp_ads_blocker_detector-message
-tienichmaytinh.net,icongnghe.com,vuamaytinh.com.vn##.chp_ads_blocker_detector-show.chp_ads_blocker_detector
-tienichmaytinh.net,icongnghe.com,vuamaytinh.com.vn##.chp_brading_powered_by
-tienichmaytinh.net,icongnghe.com,vuamaytinh.com.vn##.chp_brading_svg
-tienichmaytinh.net,icongnghe.com,vuamaytinh.com.vn##.chp_branding
-tienichmaytinh.net,icongnghe.com,vuamaytinh.com.vn##.theme1.chp_ads_block_detector_theme
+tienichmaytinh.net#@##ad-banner
+tienichmaytinh.net#@#.ad-banner
+tienichmaytinh.net##+js(no-fetch-if, method:HEAD)
+tienichmaytinh.net##img#chp-ads-image[src="images/ads.jpg"]
+tienichmaytinh.net,icongnghe.com##.active.chp_ads_blocker-overlay
+tienichmaytinh.net,icongnghe.com##.chp_ads_block_modal_content
+tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-action
+tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-content
+tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-message
+tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-show.chp_ads_blocker_detector
+tienichmaytinh.net,icongnghe.com##.chp_brading_powered_by
+tienichmaytinh.net,icongnghe.com##.chp_brading_svg
+tienichmaytinh.net,icongnghe.com##.chp_branding
+tienichmaytinh.net,icongnghe.com##.theme1.chp_ads_block_detector_theme
 tienichmaytinh.net##.main-sidebar.sidebar > div.widget_custom_html.widget.widget_text > .custom-html-widget.textwidget
 tienichmaytinh.net##[href="https://codehelppro.com/product/wordpress/plugin/chp-ads-block-detector-pro/"]
 tienichmaytinh.net##[href="https://hamrocsit.com"]
@@ -636,6 +641,7 @@ tienichmaytinh.net##div.widget_custom_html.widget.widget_text
 tienichmaytinh.net##div.widget_media_image.widget
 tienichmaytinh.net##div#chp_ads_block_pro_body.chp_ads_block_pro_body
 tienichmaytinh.net##div#chp_ads_block_pro_body.chp_ads_block_pro_body > div.chp_ads_block_detector_theme.theme1 > div.chp_ads_block_pro_body
+tienichmaytinh.net##div#chp_ads_block_pro_body.chp_ads_block_pro_body > div.chp_ads_block_detector_theme.theme1 > div.chp_ads_block_pro_body > div.chp_ads_blocker_detector-action > a.chp_ads_blocker_detector-action-btn-ok
 timbus.vn##[src="http://quantri.timbus.vn/Media/Uploads/*.jpg"]
 timbus.vn###lft-adv-ctn
 tinhte.vn##.adWidget
