@@ -467,7 +467,6 @@ hdvietnam.com###youtube.secondaryContent
 hdvip.tv##.rightleftads
 icongnghe.com##.td_block_template_1.tdi_1.td-g-rec-id-header.td-g-rec
 icongnghe.com##.td_block_template_1.tdi_26.td-g-rec-id-footer_top.td-g-rec
-icongnghe.com##.chp_ads_blocker_wrapper
 iplocation.net##.adtester-container-105.adtester-container.box-1105.box-1.ezoic-ad
 iplocation.net##.adtester-container-113.adtester-container.box-2113.box-2.ezoic-ad
 iplocation.net##.adtester-container-117.adtester-container.box-4117.box-4.ezoic-ad
@@ -624,9 +623,12 @@ tienichmaytinh.net#@##ad-banner
 tienichmaytinh.net#@#.ad-banner
 tienichmaytinh.net##+js(no-fetch-if, method:HEAD)
 tienichmaytinh.net##img#chp-ads-image[src="images/ads.jpg"]
+tienichmaytinh.net###chp_ads_block_modal_content
 tienichmaytinh.net,icongnghe.com##.active.chp_ads_blocker-overlay
 tienichmaytinh.net,icongnghe.com##.chp_ads_block_modal_content
 tienichmaytinh.net,icongnghe.com##.chp_ads_block_pro_body
+tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_wrapper
+tienichmaytinh.net##.adblock_subtitle
 tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-action
 tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-content
 tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-message
