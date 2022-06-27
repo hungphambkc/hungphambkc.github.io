@@ -1,4 +1,3 @@
-![Adblock Plus 2.0]
 ! Title: FAFD
 ! Version: 06.27.047
 ! Homepage: github.com/hungphambkc/FAFD
@@ -623,12 +622,8 @@ tienichmaytinh.net#@##ad-banner
 tienichmaytinh.net#@#.ad-banner
 tienichmaytinh.net##+js(no-fetch-if, method:HEAD)
 tienichmaytinh.net##img#chp-ads-image[src="images/ads.jpg"]
-tienichmaytinh.net###chp_ads_block_modal_content
 tienichmaytinh.net,icongnghe.com##.active.chp_ads_blocker-overlay
 tienichmaytinh.net,icongnghe.com##.chp_ads_block_modal_content
-tienichmaytinh.net,icongnghe.com##.chp_ads_block_pro_body
-tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_wrapper
-tienichmaytinh.net##.adblock_subtitle
 tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-action
 tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-content
 tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-message
