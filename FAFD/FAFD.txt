@@ -2995,6 +2995,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||realer.info
 ||realsrv.com
 ||red88.us
+||red88vn.uk
 ||reedthatm.biz
 ||refugedcuber.com
 ||regnation.ru
