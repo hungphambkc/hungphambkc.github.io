@@ -1,5 +1,5 @@
 ! Title: FAFD
-! Version: 06.27.047
+! Version: 06.28.047
 ! Homepage: github.com/hungphambkc/FAFD
 ! Source: chongluadao.vn/thong-ke & Kaspersky
 ! Author: Hung Pham
@@ -356,6 +356,10 @@ facebook.com##html#facebook._9dls.__fb-dark-mode > body._6s5d._71pn._-kb.segoe >
 facebook.com##html#facebook._9dls.__fb-light-mode > body._6s5d._71pn.system-fonts--body.segoe > div.download_link_sponsored
 facebook.com##html#facebook._9dls.__fb-light-mode > body._6s5d._71pn.system-fonts--body.segoe > div.sponsorPost
 facebook.com##html#facebook._9dls.__fb-light-mode > body._6s5d._71pn.system-fonts--body.segoe > div.widgetSponsors
+facebook.com###stream_pagelet > #pagelet_megaphone
+facebook.com##body > .AdBox.Ad.advert:style(display:block!important;)
+facebook.com##a[aria-label="Advertiser link"]
+facebook.com##div[id^="mount_"] div[data-pagelet="RightRail"] > div:not([data-vc-ignore-dynamic]) > div:not([class])
 fbtag.net##.Flagrow-Ads-fake-poststream-item
 fidlarmusic.com###div-ub-fidlarmusic
 fidlarmusic.com,kiemlua.com,publicananker.com##.KTBue
@@ -618,29 +622,6 @@ thamhue.com###sidebar
 thiendia.com##.my_responsive_ads
 thiendia.com##.samThreadPostMessageInside
 thongtincongnghe.com##.scroller-sidebar
-tienichmaytinh.net#@##ad-banner
-tienichmaytinh.net#@#.ad-banner
-tienichmaytinh.net##+js(no-fetch-if, method:HEAD)
-tienichmaytinh.net##img#chp-ads-image[src="images/ads.jpg"]
-tienichmaytinh.net,icongnghe.com##.active.chp_ads_blocker-overlay
-tienichmaytinh.net,icongnghe.com##.chp_ads_block_modal_content
-tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-action
-tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-content
-tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-message
-tienichmaytinh.net,icongnghe.com##.chp_ads_blocker_detector-show.chp_ads_blocker_detector
-tienichmaytinh.net,icongnghe.com##.chp_brading_powered_by
-tienichmaytinh.net,icongnghe.com##.chp_brading_svg
-tienichmaytinh.net,icongnghe.com##.chp_branding
-tienichmaytinh.net,icongnghe.com##.theme1.chp_ads_block_detector_theme
-tienichmaytinh.net##.main-sidebar.sidebar > div.widget_custom_html.widget.widget_text > .custom-html-widget.textwidget
-tienichmaytinh.net##[href="https://codehelppro.com/product/wordpress/plugin/chp-ads-block-detector-pro/"]
-tienichmaytinh.net##[href="https://hamrocsit.com"]
-tienichmaytinh.net##div.one_fourth > .widget_custom_html.widget.widget_text > .custom-html-widget.textwidget
-tienichmaytinh.net##div.widget_custom_html.widget.widget_text
-tienichmaytinh.net##div.widget_media_image.widget
-tienichmaytinh.net##div#chp_ads_block_pro_body.chp_ads_block_pro_body
-tienichmaytinh.net##div#chp_ads_block_pro_body.chp_ads_block_pro_body > div.chp_ads_block_detector_theme.theme1 > div.chp_ads_block_pro_body
-tienichmaytinh.net##div#chp_ads_block_pro_body.chp_ads_block_pro_body > div.chp_ads_block_detector_theme.theme1 > div.chp_ads_block_pro_body > div.chp_ads_blocker_detector-action > a.chp_ads_blocker_detector-action-btn-ok
 timbus.vn##[src="http://quantri.timbus.vn/Media/Uploads/*.jpg"]
 timbus.vn###lft-adv-ctn
 tinhte.vn##.adWidget
@@ -713,6 +694,13 @@ tuyengiao.vn##.visible-md.header-banners
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##.branding
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##div[class*="adv-manager"]
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##script[nonce] + script[nonce] + div[class]
+twitter.com##span:has-text(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Mainostettu|推廣|推广|推薦|推荐|プロモーション/):upward(div[data-testid="placementTracking"])
+twitter.com##span:has-text(/^(Promoted|プロモーション)$/):upward(div[data-testid="UserCell"])
+twitter.com##[data-testid="trend"]:has-text(/推荐|Promoted|Gesponsert|Реклама|Promocionado|Sponsorisé|Uitgelicht|プロモーション/):upward(1)
+twitter.com##a[href*="src=promoted_trend_click"]
+twitter.com##a[href*="src=promoted_trend_click"] + div
+twitter.com##span:has-text(/^プロモツイート$/):upward( div[aria-label^="タイムライン:"] > div > div )
+twitter.com##div[data-testid="eventHero"]:has-text(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션 중|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
 twrp.me##body > .wrapper
 userstyles.org###social
 uslugi.yandex.ru##.WebBanner
@@ -738,7 +726,6 @@ voz.party##.Flagrow-Ads-fake-poststream-item
 voz.vn##.v-element > .v-responsive > .vm-placement
 voz.vn##body[data-template="forum_view"] .p-body-sidebar
 voz.vn##body[data-template="thread_view"] .p-body-sidebar
-vuamaytinh.com.vn##.chp_ads_blocker_detector-showCTKciDO03OzJ9KyhDWdgLdnkYA27YL.fadeInDown.chp_ads_block_modalCTKciDO03OzJ9KyhDWdgLdnkYA27YL
 watching.vn##.justify-content-center.align-items-center.d-flex.asd-overlay
 xervoo.net##.black_overlay
 xervoo.net###_bd
@@ -802,6 +789,7 @@ yandex.ru##div[id][data-log-node] > div:empty ~ i > [class] > .loader__text
 yandex.ru##div[id^="R-I-"]
 yandex.ru##ymaps > div[class^="search-placemark-layout-connect_advert"]
 yandex.ru##ymaps > div[class^="search-placemark-layout-connect_special"]
+youtube.com##.ad-container
 youtube-nocookie.com,youtube.com##.annotation.iv-branding
 youtube-nocookie.com,youtube.com##.annotation.iv-promo
 youtube-nocookie.com,youtube.com##.iv-promo-video
@@ -813,15 +801,19 @@ youtube-nocookie.com##.ytp-ad-progress-list
 youtube.com#?#ytd-rich-grid-renderer ytd-rich-item-renderer div > ytd-display-ad-renderer:upward(2)
 youtube.com#@##consent-bump
 youtube.com##.iv-click-target
+youtube.com##.iv-promo
 youtube.com##.masthead-ad-control,.ad-div,.pyv-afc-ads-container
 youtube.com##.mealbar-promo-renderer
 youtube.com##.share-panel
 youtube.com##.share-panel-services-container > div#share-services-container
 youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
+youtube.com##.video-ads
 youtube.com##.video-playing.ytd-video-masthead-ad-v3-renderer.style-scope
 youtube.com##.yt-consent
 youtube.com##.yt-consent-banner
+youtube.com##.ytd-search-pyv-renderer
 youtube.com##.ytd-single-option-survey-option-renderer
+youtube.com##.ytp-ad-progress-list
 youtube.com##.ytp-cards-button
 youtube.com##.ytp-ce-covering-image
 youtube.com##.ytp-ce-covering-overlay
@@ -831,6 +823,11 @@ youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
 youtube.com##.ytp-ce-element.ytp-ce-element-show
 youtube.com##.ytp-ce-expanding-image
 youtube.com##.ytp-subscribe-card
+youtube.com##iron-overlay-backdrop
+youtube.com##ytd-promoted-sparkles-web-renderer
+youtube.com##ytd-carousel-ad-renderer
+youtube.com##ytd-display-ad-renderer
+youtube.com##ytd-rich-item-renderer:has( > div > ytd-display-ad-renderer )
 youtube.com###__ffYoutube1
 youtube.com###__ffYoutube2
 youtube.com###__ffYoutube3
@@ -838,25 +835,33 @@ youtube.com###__ffYoutube4
 youtube.com###alert-banner > .ytd-browse > .yt-alert-with-actions-renderer
 youtube.com###consent-bump
 youtube.com###content > .style-scope > .ytd-compact-promoted-item-renderer
+youtube.com##div[class^="ytd-consent"]
 youtube.com###feed-pyv-container
 youtube.com###masthead-ad
 youtube.com###notification-footer
 youtube.com###offer-module
 youtube.com###pla-shelf > ytd-pla-shelf-renderer[class="style-scope ytd-watch"]
+youtube.com###player-ads
 youtube.com###promotion-shelf
 youtube.com###related > ytd-watch-next-secondary-results-renderer > #items > ytd-compact-promoted-video-renderer.ytd-watch-next-secondary-results-renderer
 youtube.com###ticker-content
 youtube.com###video-masthead
 youtube.com###watch7-branded-banner
 youtube.com###watch7-sidebar-ads
-youtube.com##div[class^="ytd-consent"]
-youtube.com##iron-overlay-backdrop
 youtube.com##ytd-display-ad-renderer:upward(ytd-rich-item-renderer)
 youtube.com##ytd-popup-container > iron-dropdown .ytd-popup-container[position-type="OPEN_POPUP_POSITION_BOTTOMLEFT"]
 youtube.com##ytd-popup-container[class="style-scope ytd-app"] > iron-dropdown[force-close-on-outside-click="true"]
+youtube.com##ytd-rich-section-renderer:has( > #content > ytd-statement-banner-renderer)
 youtube.com##ytd-search-pyv-renderer
 youtube.com##ytd-video-masthead-ad-advertiser-info-renderer,ytm-promoted-sparkles-web-renderer
 youtube.com##ytm-promoted-sparkles-web-renderer
+youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(json-prune, playerResponse.playerAds)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
+youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
+youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, null)
 youtube.com#$##appbar-guide-menu { margin-top: 50px!important; }
 youtube.com#$##ticker.ytd-masthead { display: none!important; }
 zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz##.article-right-ad-block
@@ -1232,6 +1237,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ads.carmudi.vn
 ||ads.test.netflix.com
 ||ads*.com^$third-party,subdocument,object-subrequest,popup
+||ads-api.twitter.com
 ||ads1.careerbuilder.vn
 ||ads4digital.com^$third-party
 ||adscare.myad.vn
@@ -1560,6 +1566,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||api.nas.nct.vn/crossdomain.xml
 ||api.news.zing.vn/api/mobile/ban-tin-highlight.json?*
 ||api.pose.com.vn^$xmlhttprequest,third-party
+||api.twitter.com/1.1/videoads/v2/prerolls.json
+||api.twitter.com/1.1/jot/external_referer.json|$xmlhttprequest
+||api.twitter.com/1.1/onboarding/referrer.json|$xmlhttprequest
+||app.link^$third-party
 ||apple8.com.vn/?*$popup,third-party
 ||aptimorph.com
 ||arrassley.info^$third-party
@@ -2906,6 +2916,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||pl15178227.pvclouds.com
 ||plarium.com^$popup
 ||platform.twitter.com/widgets
+||platform.twitter.com/oct.js|
 ||play-vids.com
 ||playgamefa88.live
 ||playgo88.fun
@@ -3377,6 +3388,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||tvhays.org/guide/*
 ||tvhays.org/playergk/*/vast.js
 ||twinrdsrv.com
+||twitter.com/i/csp_report?
+||twitter.com/etc/clientlibs/dtm/*/satelliteLib-$script
+||twitter.com/i/api/1.1/videoads/v2/prerolls.json
+||twitter.com/1.1/promoted_content/log.json
 ||tylekeo247.com
 ||tynt.com
 ||u.fules.jp
@@ -3764,6 +3779,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||yonxatuor.com
 ||yougotacheck.com
 ||your-notice.com
+||youtube.com/ad_data_
+||youtube.com/ads/$image
 ||youtube.com/annotations_invideo?*
 ||youtube.com/api/stats/
 ||youtube.com/embed/VLz6bN1dImo?*
@@ -3772,6 +3789,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||youtube.com/get_video_*el=adunit*
 ||youtube.com/get_video_info?*=adunit&$important
 ||youtube.com/get_video_info?$~third-party,badfilter
+||youtube.com/yts/jsbin/www-pagead-id-
 ||yqmxfz.com
 ||ys2000.cdn.bcebos.com
 ||yulunanews.name
