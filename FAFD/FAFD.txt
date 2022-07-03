@@ -1489,6 +1489,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||aevn1.net
 ||aff.opus-static.com
 ||affitop.com
+||agacelebir.com
 ||agenduret.com
 ||agle21xe2anfddirite.com
 ||airfucks.com 
@@ -2576,6 +2577,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||lordayroig.com
 ||lorybnfh.com
 ||lottecinemavn.com/App_Themes/lotte/Popup/*
+||lovrdjpaeetfv.com
 ||lp.longtailvideo.com/5/ova/ova-jw.swf
 ||lps.sbro.me^$script,third-party
 ||luckytravelshop.info
@@ -3184,6 +3186,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sponsor.imacdn.com/*/*.mp4
 ||sport788.com
 ||sport998.com
+||spotlighthemp.com
 ||spotxchange.com
 ||squashtalk.com
 ||srv.vivaclix.com
