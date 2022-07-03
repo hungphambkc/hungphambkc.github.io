@@ -1739,6 +1739,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||chovinh.com/data/*.gif|
 ||chuthapdohatinh.org.vn/upload/tailieu/*.htm
 ||cl69721.com
+||cleardexchange.com
 ||click.vieon.vn
 ||click.xdeal.vn/adssite/*
 ||click168.me
@@ -1795,6 +1796,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||cuddlethehyena.com
 ||cuoctai11bet.vip
 ||cuongsex.com
+||cvpyosexmmahdrp.com
 ||cxense.com
 ||cydia.vn^$third-party
 ||d5coalition.com^$third-party
@@ -1832,6 +1834,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||dewiestsards.com
 ||dfnb-ads.com^$third-party
 ||dhrhzii89gpwo.cloudfront.net
+||diampokusy.com
 ||diendanlequydon.com^$third-party
 ||dinamomatbaa.com
 ||directadvert.ru^$third-party
@@ -1946,6 +1949,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fd5orie8e.com
 ||fdelphaswcealifornica.com
 ||feedjit.com
+||femax20.com
 ||ff.imacdn.com/*/*.mp4
 ||ff.imacdn.com/img/*-header.jpg
 ||ff.imacdn.com/img/*.jpg
@@ -2778,6 +2782,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||pagefair.com
 ||pamphletconspiracy.com
 ||paragonads.vn
+||parkcircularpearl.com
 ||pc*ads.com^$third-party
 ||pcltk3.tw
 ||pcworld.com.vn/files/advertising/*
@@ -3172,6 +3177,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sofinpushpile.com
 ||sohot.vn^$third-party
 ||soicau.org
+||solemik.com
 ||somo.vn^$popup,third-party
 ||songlong8886.com
 ||sonyfan.vn/*.swf
@@ -3228,6 +3234,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sunvin.vin
 ||supjav.com
 ||supremejav.com
+||suzihaza.com
 ||swag.live
 ||switchads.com
 ||sxnlmndjyvbccdk.com
@@ -3680,6 +3687,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xemvtv.net/kaka/ads*
 ||xemxx.vip
 ||xevathethao.vn^$third-party
+||xgoucaulj.com
 ||xhamster.com
 ||xmdforex.com
 ||xmlrtb.com
