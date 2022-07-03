@@ -591,15 +591,6 @@ tivi24h.com###fbbaiviet
 tivi24h.com###HTML9
 topbongda.com##.tkb
 topbongda.com##[class*="fadeIn"]
-truongblogger.top##.ads-left
-truongblogger.top##.ads-right
-truongblogger.top##.ads-sf
-truongblogger.top##.keep-adsme
-truongblogger.top##.separator-text
-truongblogger.top###HTML14
-truongblogger.top###HTML2
-truongblogger.top###keep-ads
-truongblogger.top##ins.adsbygoogle-noablate.adsbygoogle
 truyendoc.info##[data-original^="http://imgg-cdn.steepto.com"]
 truyenfull.vn,razorphimzz.com##[id^="ads-"]
 truyenfull.vn##.ads-responsive
@@ -647,13 +638,6 @@ tuyengiao.vn##.visible-md.header-banners
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##.branding
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##div[class*="adv-manager"]
 tv.yandex.by,tv.yandex.kz,tv.yandex.ru,tv.yandex.ua,tv.yandex.uz##script[nonce] + script[nonce] + div[class]
-twitter.com##span:has-text(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Mainostettu|推廣|推广|推薦|推荐|プロモーション/):upward(div[data-testid="placementTracking"])
-twitter.com##span:has-text(/^(Promoted|プロモーション)$/):upward(div[data-testid="UserCell"])
-twitter.com##[data-testid="trend"]:has-text(/推荐|Promoted|Gesponsert|Реклама|Promocionado|Sponsorisé|Uitgelicht|プロモーション/):upward(1)
-twitter.com##a[href*="src=promoted_trend_click"]
-twitter.com##a[href*="src=promoted_trend_click"] + div
-twitter.com##span:has-text(/^プロモツイート$/):upward( div[aria-label^="タイムライン:"] > div > div )
-twitter.com##div[data-testid="eventHero"]:has-text(/Promoted|Gesponsert|Promocionado|Sponsorisé|Sponsorizzato|Promowane|Promovido|Реклама|Uitgelicht|Sponsorlu|Promotert|Promoveret|Sponsrad|Mainostettu|Sponzorováno|Promovat|Ajánlott|Προωθημένο|Dipromosikan|Được quảng bá|推廣|推广|推薦|推荐|プロモーション|프로모션 중|ประชาสัมพันธ์|प्रचारित|বিজ্ঞাপিত|تشہیر شدہ|مُروَّج|تبلیغی|מקודם/)
 twrp.me##body > .wrapper
 userstyles.org###social
 uslugi.yandex.ru##.WebBanner
@@ -679,6 +663,8 @@ voz.party##.Flagrow-Ads-fake-poststream-item
 voz.vn##.v-element > .v-responsive > .vm-placement
 voz.vn##body[data-template="forum_view"] .p-body-sidebar
 voz.vn##body[data-template="thread_view"] .p-body-sidebar
+vuighe.net##.slider-link
+vuighe.net##.slider-cover
 watching.vn##.justify-content-center.align-items-center.d-flex.asd-overlay
 xervoo.net##.black_overlay
 xervoo.net###_bd
@@ -1884,6 +1870,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||dt00.net^$third-party
 ||duckswillsmoochyou.com
 ||dulichdatviet.info^$third-party
+||dummieseardrum.com
 ||duoctu-hd.edu.vn/2021_*/
 ||dynamicoxygen.com
 ||dyncdn.me/static/20/js/expla*.js
@@ -2612,6 +2599,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||manclub.game
 ||manclub.vn
 ||mangak.net/wp-content/themes/manga/ad/*
+||markofathenaluk.com
 ||marktfind.com
 ||maryannecg.com
 ||mattmorrisseyphoto.com
@@ -3354,6 +3342,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||trumchanle99.fun
 ||trungtamtinhoc.edu.vn/inc/colorbox/*
 ||trunk.guce.tacoda.at.atwola.com
+||truongblogger.top
 ||trustedgatetocontent.com
 ||truyen1h.net
 ||truyen5s.com^$third-party
@@ -3390,6 +3379,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||u.fules.jp
 ||ua.nakanohito.jp
 ||ugo2.jp
+||ugroocuw.net
 ||uh.nakanohito.jp
 ||uh0.nakanohito.jp
 ||uhlagm.rakurakuseisan.jp
@@ -3602,6 +3592,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vuanhacai.net
 ||vuicungdafa.com
 ||vuighe.net/assest/banner/*
+||vuighe.net/mmo/*
 ||vungtrom.tv
 ||vv84.bj.bcebos.com
 ||vvetqp.tw
