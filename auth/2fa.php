@@ -11,8 +11,8 @@ if (isset($_GET['key']))
     "key"=>$key,
     "code"=>$code
     ];
-    $daucatmoi = json_encode($list, JSON_PRETTY_PRINT);
-    $memay = json_decode($daucatmoi, true);
-    echo $memay['code'];
+    $encode = json_encode($list, JSON_PRETTY_PRINT);
+    $decode = json_decode($encode, true);
+    echo $decode['code'];
 }
 ?>

@@ -1597,6 +1597,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bet52.vin
 ||bet789.vin
 ||bet88.ai
+||bet88jp.com
 ||bet88top.com
 ||beta.ads.cc
 ||betotodilea.com
@@ -1734,6 +1735,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||choangvip.com
 ||choangvip.io
 ||choigo88.us
+||choiiwinclub.cc
 ||choingayone88.win
 ||choirikvip.net
 ||chovinh.com/data/*.gif|
@@ -2044,6 +2046,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||giacaphe.com/wp-content/themes/gcp/js/fb/giacaphe-like.js
 ||giaidaulmht.vn
 ||giaiphapexcel.com/qcao/*
+||giaitri09.com
+||giaitririk.live
 ||giaitriviet.net.vn/gtvpopup.js
 ||giftcode-lqmb2.com
 ||giftcodelqmb-vn.com
@@ -2205,6 +2209,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||imgcdnbet.com
 ||in.ml314.com
 ||in-page-push.com
+||income88.com
 ||infogame.vn/*swf
 ||infolinks.com
 ||inklinkor.com
@@ -2227,6 +2232,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||iwipjuogprkj.xyz
 ||iyfnz.com
 ||izingbalaic.casa
+||j9intl84.com
 ||ja2n2u30a6rgyd.com
 ||jabge.com
 ||jads.co
@@ -2538,6 +2544,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||lavanetwork.net
 ||lavas.exchange
 ||lazada.$third-party
+||lch789.com
 ||letou.com
 ||letou.plus
 ||letou.vin
@@ -2785,6 +2792,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||parkcircularpearl.com
 ||pc*ads.com^$third-party
 ||pcltk3.tw
+||pcmclk.com
 ||pcworld.com.vn/files/advertising/*
 ||perfectcoin.cc
 ||perren.xyz^$third-party
