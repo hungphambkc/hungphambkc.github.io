@@ -1843,6 +1843,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||dinamomatbaa.com
 ||directadvert.ru^$third-party
 ||directrev.com
+||diromalxx.com
 ||displaycontentprofit.com
 ||displayvertising.com
 ||disrespectpreceding.com
@@ -1969,6 +1970,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||firebaseinstallations.googleapis.com
 ||firebaselogging-pa.googleapis.com
 ||firebaselogging.googleapis.com
+||firmasonline.net
 ||firstimpression.io
 ||five88.me
 ||flesh4me.com
@@ -3094,6 +3096,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sexhihi.biz
 ||sexhihi.xyz
 ||sexid.icu
+||sexiframe.com
 ||sexjav.vip
 ||sexkhongche.tv
 ||sexkoche.me
@@ -3443,9 +3446,18 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||v9banners.com^$third-party
 ||v9betvn.com
 ||vaobo88.com
+||variousformatscontent.com
 ||vaythechapsodo-vcb.com
 ||vaytieudung-vietinbank.com
 ||vaytinchap-nganhangvcb247.com
+||vb113.com
+||vb131.com
+||vb132.com 
+||vb133.com 
+||vb135.com
+||vb22.vip
+||vb68.com
+||vb68a.com
 ||vbet*.com^$popup
 ||vcb-vaysodo.com
 ||vcbadiebink.com
@@ -3822,6 +3834,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||zen-test.yandex.ru
 ||zen-yabro-morda.mediascope.mc.yandex.ru
 ||zen.yandex.*/widget-loader|$third-party
+||zhej78i1an8w6ceu.com
 ||zjk24.com^$third-party
 ||zoroinu.io
 ||zquotfuofx.com
