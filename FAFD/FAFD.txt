@@ -1704,6 +1704,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||cdn.*/static/js/amvn.js
 ||cdn.at.atwola.com
 ||cdn.atwola.com
+||cdn.bncloudfl.com
 ||cdn-sec.tacoda.at.atwola.com
 ||cdn.itskiddoan.club
 ||cdn.ml314.com
@@ -1793,6 +1794,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||cracksurl.com
 ||crashlyticsreports-pa.googleapis.com
 ||creative.xlviirdr.com
+||creepingbrings.com
 ||criteo.$third-party
 ||crwdcntrl.net
 ||cuddlethehyena.com
@@ -2061,6 +2063,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||go.blogtruyen.vn^$popup
 ||go.xlviirdr.com
 ||go4s.biz
+||go6shde9nj2itle.com
 ||go88-vn.net
 ||go88.codes
 ||go88.info
@@ -2628,6 +2631,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||mc.yandex.ru
 ||mc.yandex.st
 ||mc.yandex.ua
+||mc7clurd09pla4nrtat7ion.com
 ||mds.yandex.net/get-bstor/
 ||meatilywoman.cam
 ||med-fe.cdn.bcebos.com
@@ -2744,6 +2748,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||oclaserver.com^$third-party
 ||oclasrv.com
 ||octopuspop.com
+||oddscornflower.com
 ||offerimage.com
 ||ogtcwsqeejrfom.xyz
 ||ol.at.atwola.com
@@ -3153,6 +3158,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sieuno88.vin
 ||sieuthidark.com
 ||siftshortagepopped.com
+||simplewebanalysis.com
 ||sin88.club
 ||sin88s.com
 ||sinewedretore.casa
@@ -3406,6 +3412,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ukgfxw.satofull.jp
 ||umedaumeda.ec-net.jp
 ||uncn.jp
+||understoodreceivermisunderstand.com
 ||undersun.jp
 ||unibet.com^$third-party
 ||unibots.in
@@ -3415,6 +3422,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||universe.microad.co.jp
 ||universe.send.microad.jp
 ||unphionetor.com
+||unseenreport.com
 ||upanh.ssc.vn^$domain=cvt.vn
 ||upfile.vn/view/default/image/index-*.gif|
 ||upgulpinon.com
