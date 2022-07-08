@@ -1612,6 +1612,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||biguz.net
 ||biluu.tv/ajax/ads
 ||biluu.tv/wow/vast-*.xml
+||bimbolive.com
 ||binzdapoet.shop
 ||biphim.net/*x*.gif
 ||bit.ly^$popup,domain=blogtruyen.vn
@@ -1643,9 +1644,11 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bluekai.com
 ||blueseed.tv^$third-party,domain=chiasenhac.vn|fimfast.com|vuighe.net
 ||blueserving.com
+||bngwlt.com
 ||bnserving.com^$third-party
 ||bonesuk.com
 ||bong99.com^$popup,third-party
+||bongacams.com
 ||bongacash.com
 ||bongda.com.vn/wp-content/*.swf
 ||bongdalive.tv/wp-content/uploads/*.gif
@@ -2550,6 +2553,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||lavas.exchange
 ||lazada.$third-party
 ||lch789.com
+||letmejerk.com
 ||letou.com
 ||letou.plus
 ||letou.vin
@@ -2593,6 +2597,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||lordayroig.com
 ||lorybnfh.com
 ||lottecinemavn.com/App_Themes/lotte/Popup/*
+||lovense.com
 ||lovrdjpaeetfv.com
 ||lp.longtailvideo.com/5/ova/ova-jw.swf
 ||lps.sbro.me^$script,third-party
