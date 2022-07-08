@@ -2110,6 +2110,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||grannypatty.tv
 ||greenupload.com/images/*.gif$domain=thiendia.com
 ||gregfeingoldmusic.com
+||grootcho.com
 ||gsspcln.jp
 ||gstatic.com/pub-config/ca-pub*
 ||guce.tacoda.at.atwola.com
@@ -3650,6 +3651,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||waframedia*.com^$third-party
 ||wapbold.com
 ||watching.vn/assets/images/banner/*.jpg
+||wdrheruxnuvok.com
 ||webdien.com/d/ad/*
 ||webnena.com
 ||webphimsex.net
@@ -3843,6 +3845,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||zjk24.com^$third-party
 ||zoroinu.io
 ||zquotfuofx.com
+||zunsoach.com
 ||zyf03k.xyz
 ! ========================== Cloudfront ===========================
 ||d100dqxvgtcm3l.cloudfront.net
