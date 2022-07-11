@@ -575,6 +575,12 @@ thamhue.com###sidebar
 thiendia.com##.my_responsive_ads
 thiendia.com##.samThreadPostMessageInside
 thongtincongnghe.com##.scroller-sidebar
+tienichmaytinh.net###aswift_3_anchor
+tienichmaytinh.net###aswift_3_expand
+tienichmaytinh.net##div.one_fourth > .widget_custom_html.widget.widget_text
+tienichmaytinh.net##div.widget_media_image.widget:nth-of-type(6)
+tienichmaytinh.net##div.widget_custom_html.widget.widget_text:nth-of-type(7)
+tienichmaytinh.net##div.widget_custom_html.widget.widget_text:nth-of-type(8)
 timbus.vn##[src="http://quantri.timbus.vn/Media/Uploads/*.jpg"]
 timbus.vn###lft-adv-ctn
 tinhte.vn##.adWidget
@@ -1013,6 +1019,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||188bongda.net
 ||19.at.atwola.com
 ||195.82.146.52
+||1frozenthrone1.com
 ||1phimsex.net
 ||1wlvcb.top
 ||20.at.atwola.com
@@ -1113,6 +1120,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||abu999.com
 ||accesstrade.vn^$third-party
 ||ad-creatives-public.commondatastorage.googleapis.com
+||ad-score.com
 ||ad-stir.com^$third-party
 ||ad.*.com
 ||ad.*.com.vn
@@ -3032,6 +3040,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||riverbanksand.com
 ||rmblive.cdn.bcebos.com
 ||rmbn.net
+||rndhaunteran.com
 ||rndskittytor.com
 ||romepoptahul.com
 ||ronghovn.com
