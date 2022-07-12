@@ -298,6 +298,8 @@ disk.yandex.by,disk.yandex.com,disk.yandex.kz,disk.yandex.ru,disk.yandex.ua,disk
 disk.yandex.by,disk.yandex.kz,disk.yandex.ru,disk.yandex.ua,disk.yandex.uz##.awaps__banner
 docs.yandex.by,docs.yandex.kz,docs.yandex.ru,docs.yandex.ua,docs.yandex.uz##.Docs-View__Loading
 docviewer.yandex.by,docviewer.yandex.kz,docviewer.yandex.ru,docviewer.yandex.ua,docviewer.yandex.uz##.js-doc-html > div[class^="pages_"] > div[class]:empty
+downfile.site##html > iframe
+downfile.site###aniBox
 downfile.site###orquidea-slideup
 downfile.site###orquidea-slideup-ad-slot
 download.tienichmaytinh.net##.container > .adsbygoogle
@@ -1144,6 +1146,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||addresseepaper.com
 ||addthis.com^$third-party
 ||addtoany.com
+||adexchangegate.com
+||adexchangeguru.com
 ||adexchangetracker.com^$third-party
 ||adexprt.com
 ||adf.boxxod.net/images/abDetector.js
@@ -1520,6 +1524,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||androidtvwatsonfe-pa.googleapis.com
 ||animefull.tv/wow/img/*.gif
 ||anisfx.com
+||aniview.com
 ||anthill.vn
 ||anymind360.com
 ||anyporn.com
@@ -1612,6 +1617,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||betsonsport.ru
 ||bf.eu.y.atwola.com
 ||bf.us.y.atwola.com
+||bgtoae.top
 ||bibenn.store
 ||bidadx.com^$third-party
 ||bidgear.com^$third-party
@@ -1849,6 +1855,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||dewiestsards.com
 ||dfnb-ads.com^$third-party
 ||dhrhzii89gpwo.cloudfront.net
+||di13.biz
 ||diampokusy.com
 ||diendanlequydon.com^$third-party
 ||dinamomatbaa.com
@@ -3027,6 +3034,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||rev2pub.com
 ||reviveservers.com
 ||revsci.net
+||rf.shroffmere.com
 ||richaudience.com
 ||rigelink.com^$third-party
 ||rikfun.club
