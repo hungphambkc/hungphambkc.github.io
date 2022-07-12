@@ -298,7 +298,7 @@ disk.yandex.by,disk.yandex.com,disk.yandex.kz,disk.yandex.ru,disk.yandex.ua,disk
 disk.yandex.by,disk.yandex.kz,disk.yandex.ru,disk.yandex.ua,disk.yandex.uz##.awaps__banner
 docs.yandex.by,docs.yandex.kz,docs.yandex.ru,docs.yandex.ua,docs.yandex.uz##.Docs-View__Loading
 docviewer.yandex.by,docviewer.yandex.kz,docviewer.yandex.ru,docviewer.yandex.ua,docviewer.yandex.uz##.js-doc-html > div[class^="pages_"] > div[class]:empty
-downfile.site##html > iframe
+downfile.site,app.trangchu.news##html > iframe
 downfile.site###aniBox
 downfile.site###orquidea-slideup
 downfile.site###orquidea-slideup-ad-slot
@@ -1460,13 +1460,13 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||adservice.google.xn--ngbrx
 ||adservice.google.xn--node
 ||adsgame.soha.vn^$popup,third-party
-||adskeeper.co.uk^$third-party
-||adskeeper.com^$third-party
+||adskeeper.co.uk
+||adskeeper.com
 ||adsplay.net^$third-party
 ||adsrvr.org
 ||adsvn.ga
 ||adsyst.biz
-||adtechus.com^$third-party
+||adtechus.com
 ||adtelligent.com
 ||adthrive.com
 ||adtima-common.zadn.vn
@@ -1554,6 +1554,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||assets.voz.vn/ga/*
 ||asto-exo.com^$third-party
 ||at.atwola.com
+||at.aldeaamputee.com
 ||atdmt.com
 ||audio-ak-spotify-com.akamaized.net
 ||augu3yhd485st.com
@@ -1567,6 +1568,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||awltovhc.com^$third-party
 ||aydieso.90.link^$third-party
 ||b.123c.vn/zad/videoad?*
+||bachthuloto.com
 ||baiducom.bj.bcebos.com
 ||banibajury.website
 ||banner.4win1.com^$third-party
@@ -1623,6 +1625,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bidgear.com^$third-party
 ||bidswitch.net
 ||bidvertiser.com
+||bienlyclatchy.website
 ||biguz.net
 ||biluu.tv/ajax/ads
 ||biluu.tv/wow/vast-*.xml
@@ -1824,6 +1827,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||da-ads.com
 ||dabet.me
 ||dafabet.com
+||daigiasoicau.com
 ||dailymotion.com^$third-party,domain=blogtruyen.vn
 ||dam18.com
 ||dam18.pro
@@ -1932,6 +1936,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||evidon.com
 ||exdynsrv.com^$third-party
 ||executivemedsearch.com
+||exmarketplace.com
 ||exoclick.com^$popup,script,image
 ||exosrv.com^$third-party
 ||exponential.com
@@ -2203,6 +2208,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||hotporntube.co
 ||hphim.tv/*.gif
 ||hphim.tv/*.xml
+||hs.cookiesstandee.com
 ||htvncdn.net
 ||hugfromoctopus.com
 ||huhyrcco.com
@@ -2220,6 +2226,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||i99909.com
 ||iam9p3eri3as5lc6hllege.com
 ||iclickcdn.com
+||iconcnd.net
 ||id5-sync.com
 ||ietyofedinj89yewtburgh.com
 ||igo.5giay.vn/changebanner/mBanner
@@ -2612,6 +2619,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||lophocsex.xyz
 ||lordayroig.com
 ||lorybnfh.com
+||lothinhphat.com
 ||lottecinemavn.com/App_Themes/lotte/Popup/*
 ||lovense.com
 ||lovrdjpaeetfv.com
@@ -2768,6 +2776,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||nymzz3.tw
 ||o2yms3.tw
 ||oaphoace.net
+||oataltaul.com
 ||oclaserver.com^$third-party
 ||oclasrv.com
 ||octopuspop.com
@@ -2988,6 +2997,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||punchtab.com^$third-party
 ||purgrobi.com
 ||puserving.com^$third-party
+||pushcollection.net
 ||pushokey.com
 ||pussl10.com^$third-party
 ||pussl48.com
