@@ -220,6 +220,15 @@ arduinokit.vn##div.ugaam-center-align.ugaam-singular-ad-wrapper.ugaam-ad-wrapper
 azrom.net##.np-header-ads-area
 azrom.net###shortcode-widget-4
 azrom.net###shortcode-widget-5
+banthang.co,banthang.in##[href="/ads/15"]
+banthang.co,banthang.in##[href="/ads/19"]
+banthang.co,banthang.in##.under-h1
+banthang.co,banthang.in##.top-bet-item
+banthang.co,banthang.in##.top-bet-list
+banthangtv.org##.ad599div-bottom.ad599div
+banthangtv.org##.ad599div-top.ad599div
+banthangtv.org##.header_top
+banthangtv.org##.wrapper_header_center
 baodatviet.vn###ballon
 baodatviet.vn###left_col center
 bdslamdong.vn##.widget-ad-300
@@ -1633,6 +1642,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||binzdapoet.shop
 ||biphim.net/*x*.gif
 ||bit.ly^$popup,domain=blogtruyen.vn
+||bitcasino.io
 ||bitsmex.net
 ||bitvtom100.xyz/js/player/*/vast.js
 ||bizible.com
@@ -2198,6 +2208,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||histats.com
 ||histock.info^$third-party
 ||hkdbitexchange.com
+||hm.baidu.com
 ||hoicongchungvienbinhduong.com.vn/Android/*
 ||hoicongchungvienbinhduong.com.vn/down/*
 ||hoowooze.net^$third-party
@@ -3673,6 +3684,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vwthethao.club
 ||vz683.com
 ||w1ft1qku.cn
+||w3counter.com
 ||w88f1.com
 ||w99.vn
 ||waframedia*.com^$third-party
