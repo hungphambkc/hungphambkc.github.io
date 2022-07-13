@@ -4874,10 +4874,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||interactive.brand.zing.vn
 ||jslog.zapps.vn
 ||log.api.zaloapp.com
-||log.mp3.zing.vn
-||log.news.zing.vn
 ||log.sdk.zadn.vn
 ||log.tv.zing.vn
+||log.zingmp3.vn
+||log.zingnews.vn
 ||logv2.mp3.zing.vn
 ||mplaylist-ads.zadn.vn
 ||mplaylist-ads.zascdn.me
@@ -4919,7 +4919,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||zalo-file-doc10.zdn.vn
 ||za.zapps.vn
 ||za.zdn.vn
-||zlog.mp3.zing.vn
 ||zplayer.trk.zapps.vn
 ||zplayer-trk.zdn.vn
 ||ztevents.zaloapp.com
