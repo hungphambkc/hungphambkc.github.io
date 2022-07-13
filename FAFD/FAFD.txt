@@ -295,6 +295,7 @@ dantri.com.vn###ezoic-pub-ad-placeholder-106
 dantri.com.vn###ezoic-pub-ad-placeholder-107
 dantri.com.vn##secion.ng-isolate-scope
 danviet.vn##.banner-LR
+danviet.vn##.sidebar
 deviantart.com##.partial-ad
 diadiem.com##.div_box_adv
 diadiem.com###divPopAdsPOI
@@ -663,6 +664,7 @@ vatlydaicuong.com##.mRtnPCNI > .adsbygoogle
 vatlydaicuong.com##.s3V8g23k > .adsbygoogle
 vatlydaicuong.com##.\37 ROu5shP > .adsbygoogle
 vietnamnet.vn##.mt-10.vmcadszone
+vietnamnet.vn##.desktop.mt-20.vmcadszone
 viettorrent.vn##.container-fluid CENTER
 vnexpress.net##.banner-top-home.banner-ads.section-ads-top.section
 vnexpress.net##[class^="banner_"]
@@ -1040,7 +1042,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||22.at.atwola.com
 ||23.at.atwola.com
 ||24.at.atwola.com
-||240.zaloapp.ads.zdn.vn
 ||24game.vn^$popup
 ||24h.com.vn/upload/*background
 ||24h.com.vn/upload/*banner
@@ -1069,7 +1070,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||3xhdfull.com
 ||3xphim.vip
 ||46.246.120.230/pop-imp.js
-||480.zaloapp.ads.zdn.vn
 ||4dsply.com
 ||4hfchest5kdnfnut.com
 ||5.at.atwola.com
@@ -1124,6 +1124,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||99881288.com
 ||9cc85d.se
 ||9club88.com
+||a-fds.youborafds01.com
 ||a2tw6yoodsag.com
 ||aad73c550c.se/?*$popup
 ||abcsrv1.com^$third-party
@@ -1515,6 +1516,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||agle21xe2anfddirite.com
 ||airfucks.com 
 ||airlinebot.io
+||aj1047.online
 ||akanetwork.com
 ||alas4kanmfa6a4mubte.com
 ||alexa.com^$third-party
@@ -1836,6 +1838,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||d5coalition.com^$third-party
 ||da-ads.com
 ||dabet.me
+||dable.io
 ||dafabet.com
 ||daigiasoicau.com
 ||dailymotion.com^$third-party,domain=blogtruyen.vn
@@ -1933,6 +1936,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ek568.com
 ||ek88.com
 ||ek883.com
+||embed.dugout.com
 ||employeechannelinc.com
 ||eqads.com
 ||ericaamariwellness.com
@@ -2842,6 +2846,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||pcltk3.tw
 ||pcmclk.com
 ||pcworld.com.vn/files/advertising/*
+||perf.dugout.com
 ||perfectcoin.cc
 ||perren.xyz^$third-party
 ||phagosyfa.com
@@ -3489,6 +3494,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||v99bet.vip
 ||v9banners.com^$third-party
 ||v9betvn.com
+||vads.net.vn
 ||vaobo88.com
 ||variousformatscontent.com
 ||vaythechapsodo-vcb.com
@@ -3821,6 +3827,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xxxvietnam.org
 ||y.ycpi.atwola.com
 ||y1n8gv.tw
+||y6.casino
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 ||yabs.yandex.*/show/$third-party
 ||yadi.sk^*direct?
@@ -3886,7 +3893,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||zquotfuofx.com
 ||zunsoach.com
 ||zyf03k.xyz
-! ========================== Cloudfront ===========================
+! =========================== Cloudfront ============================
 ||d100dqxvgtcm3l.cloudfront.net
 ||d1021gpwtn238p.cloudfront.net
 ||d1054cht8nnusk.cloudfront.net
@@ -4842,3 +4849,46 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||dzv1ekshu2vbs.cloudfront.net
 ||dzz4bwra60auc.cloudfront.net
 ||dzzavzp9iptuv.cloudfront.net
+! =========================== VNG ============================
+||240.zaloapp.ads.zdn.vn
+||480.zaloapp.ads.zdn.vn
+||ads.platform.zalo.me
+||ads.zaloapp.com
+||ads.zalo.me
+||analytics.zapps.vn
+||api.widget.zalo.me
+||button-follow.zalo.me
+||button-share.zalo.me
+||centralized.zaloapp.com
+||events.zaloapp.com
+||jslog.zapps.vn
+||log.api.zaloapp.com
+||oa-stc.zdn.vn
+||org.zaloapp.ads.zdn.vn
+||page.widget.zalo.me
+||photo-ads.zaloapp.com
+||px.dmp.zaloapp.com
+||px.za.zaloapp.com
+||px.za.zalo.me
+||sentry.ministore.h5.zalo.me
+||sentry-mini.zalo.me
+||static-ads.zaloapp.com
+||static.events.zaloapp.com
+||stats.zaloapp.com
+||stc.oa.zalo.me
+||stc.store.page.zaloapp.com
+||stc-support-app-brand.zdn.vn
+||store-stc.zdn.vn
+||tracker-mw-zlivestream.zapps.vn
+||tracker-zlivestream.zapps.vn
+||tracking.api.media.zapps.vn
+||trk-pcweb.api.zaloapp.com
+||wg.zaloapp.com
+||widget.chat.zalo.me
+||zaloads-480.zdn.vn
+||zalo-file-doc10.zdn.vn
+||za.zapps.vn
+||za.zdn.vn
+||zplayer.trk.zapps.vn
+||zplayer-trk.zdn.vn
+||ztevents.zaloapp.com
