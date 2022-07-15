@@ -217,6 +217,8 @@ anonyviet.com##section > kbd
 answers.yahoo.com##[id$="textads"]
 arduinokit.vn##.ugaam-center-align.ugaam-sticky-footer-ad-wrapper.ugaam-sticky-footer-ad.ugaam-sticky-ad.ugaam-ad-wrapper-outer
 arduinokit.vn##div.ugaam-center-align.ugaam-singular-ad-wrapper.ugaam-ad-wrapper-outer
+atpsoftware.vn##.onesignal-slidedown-dialog
+atpsoftware.vn##.sale__coupon
 azrom.net##.np-header-ads-area
 azrom.net###shortcode-widget-4
 azrom.net###shortcode-widget-5
