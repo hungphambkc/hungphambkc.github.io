@@ -2200,6 +2200,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||hihisex.biz
 ||hihisex.tv
 ||hilltopads.net^$third-party
+||hiprofitnetworks.com
 ||histats.com
 ||histock.info^$third-party
 ||hkdbitexchange.com
