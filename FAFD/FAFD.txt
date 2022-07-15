@@ -3280,6 +3280,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||strm.yandex.ru/get/$media,domain=yastatic.net
 ||stumble-upon.com
 ||stumbleupon.com^$third-party
+||subgiare.vn
 ||subjav.cc
 ||subjav.live
 ||subjav.me
