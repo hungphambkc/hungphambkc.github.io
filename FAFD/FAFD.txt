@@ -290,7 +290,8 @@ dantri.com.vn##.admicro
 dantri.com.vn##.col--highlight-ads
 dantri.com.vn##.container.body > .flex-jcc.mt-30.ads
 dantri.com.vn##.footer-banner__wrapper
-dantri.com.vn###bannerMasthead
+dantri.com.vn###bannerMasthead 
+dantri.com.vn###desktop-home-top-page
 dantri.com.vn###ezoic-pub-ad-placeholder-102
 dantri.com.vn###ezoic-pub-ad-placeholder-105
 dantri.com.vn###ezoic-pub-ad-placeholder-106
@@ -1927,6 +1928,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||dpstatic.com
 ||dsp-idea.cdn.bcebos.com
 ||dt00.net^$third-party
+||dtadnetwork.com
 ||duckswillsmoochyou.com
 ||dulichdatviet.info^$third-party
 ||dummieseardrum.com
@@ -1972,6 +1974,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||extreme-dm.com^$third-party
 ||ezodn.com
 ||ezoic.net
+||ezojs.com
 ||fabet.us
 ||fabetsport.com
 ||facebook-login.tbit.vn
