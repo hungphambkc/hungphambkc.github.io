@@ -298,6 +298,11 @@ dantri.com.vn###ezoic-pub-ad-placeholder-107
 dantri.com.vn##secion.ng-isolate-scope
 danviet.vn##.banner-LR
 danviet.vn##.sidebar
+dellwindowsreinstallationguide.com##.adtester-container-122.adtester-container.medrectangle-1122.medrectangle-1.ezoic-ad
+dellwindowsreinstallationguide.com##.adtester-container-125.adtester-container.box-1125.box-1.ezoic-ad
+dellwindowsreinstallationguide.com##.adtester-container-126.adtester-container.large-billboard-2126.large-billboard-2.ezoic-ad
+dellwindowsreinstallationguide.com##.adtester-container-127.adtester-container.large-leaderboard-1127.large-leaderboard-1.ezoic-ad
+dellwindowsreinstallationguide.com##.adtester-container-131.adtester-container.medrectangle-3131.medrectangle-3.ezoic-ad
 deviantart.com##.partial-ad
 diadiem.com##.div_box_adv
 diadiem.com###divPopAdsPOI
@@ -1223,6 +1228,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ads-api.twitter.com
 ||ads1.careerbuilder.vn
 ||ads4digital.com^$third-party
+||adsafeprotected.com
 ||adscare.myad.vn
 ||adsco.re
 ||adservice.google.ac
@@ -1770,6 +1776,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||chovinh.com/data/*.gif|
 ||chuthapdohatinh.org.vn/upload/tailieu/*.htm
 ||cl69721.com
+||clarity.ms
 ||cleardexchange.com
 ||click.vieon.vn
 ||click.xdeal.vn/adssite/*
@@ -1951,6 +1958,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||exosrv.com^$third-party
 ||exponential.com
 ||extreme-dm.com^$third-party
+||ezodn.com
+||ezoic.net
 ||fabet.us
 ||fabetsport.com
 ||facebook-login.tbit.vn
@@ -3274,10 +3283,12 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||staticflickr.com^$third-party,domain=razorphim.com
 ||staticpress.vcmedia.vn/*.swf
 ||staticsns.cdn.bcebos.com
-||stats.wordpress.com^$third-party
+||stats.wordpress.com
+||stats.wp.com
 ||statsy.net^$third-party
 ||stavkiprognozy.ru
 ||stc.nas.nixcdn.com^$domain=nhaccuatui.com
+||steadfastsystem.com
 ||steepto.com^$websocket,third-party
 ||storage.googleapis.com/728x90/rutracker*.gif|
 ||storm-x.io
