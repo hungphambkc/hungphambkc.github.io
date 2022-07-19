@@ -2765,7 +2765,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||naimei8.xyz
 ||nan46ysangt28eec.com
 ||nandlookfo.fun
-||nathanaeldan.pro/am-push-cps.js
+||nathanaeldan.pro
 ||nbet.win
 ||ne.eu.y.atwola.com
 ||ne.us.y.atwola.com
