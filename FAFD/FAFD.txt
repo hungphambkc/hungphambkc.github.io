@@ -2036,6 +2036,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fn1s.info^$third-party
 ||focus-racing.com
 ||foloatoo.com^$third-party
+||fouanalytics.com
 ||fout.jp
 ||fptplay.vn/js/videojs/*ads.js
 ||fr.at.atwola.com
