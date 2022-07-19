@@ -1123,8 +1123,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||789b.asia
 ||789bet.io
 ||7ca78m3csgbrid7ge.com
-||7mad.7m.cn
-||7mimg.7m.cn/*.gif
 ||8123b.com
 ||864feb57ruary.com
 ||8761001.com
@@ -1595,7 +1593,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||aydieso.90.link^$third-party
 ||b.123c.vn/zad/videoad?*
 ||bachthuloto.com
-||baiducom.bj.bcebos.com
 ||banibajury.website
 ||banner.4win1.com^$third-party
 ||bannhadatdanang.com^$third-party
@@ -1731,7 +1728,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||buoito.vip
 ||buysellads.com
 ||buzzadnetwork.com^$third-party
-||bwfncx.tw
 ||c.aaxads.com
 ||c.tmyzer.com
 ||c88bet2.co
@@ -1836,9 +1832,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||cosplay-jav.com
 ||coupon5s.com
 ||cpm*.com^$third-party
-||cpu-admin.baidu.com
-||cpu-baidu-com-block.cdn.bcebos.com
-||cpu.baidu.com
 ||cracksurl.com
 ||crashlyticsreports-pa.googleapis.com
 ||creative.xlviirdr.com
@@ -2069,11 +2062,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fun8b03.com
 ||fun8b04.com
 ||fuq.com
-||fxcgm6.tw
-||fziql.tw
 ||g.jwpsrv.com
 ||g.tmyzer.com
-||g1k63t.tw
 ||g3news.biz
 ||gaigoi18.cc
 ||gaigoi18.pro
@@ -2234,7 +2224,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||histats.com
 ||histock.info^$third-party
 ||hkdbitexchange.com
-||hm.baidu.com
 ||hoicongchungvienbinhduong.com.vn/Android/*
 ||hoicongchungvienbinhduong.com.vn/down/*
 ||hoowooze.net^$third-party
@@ -2401,7 +2390,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||javxxx.pro
 ||javzz.cc
 ||jbovietnam.com
-||je4k0e.tw
 ||jerredsite.pro^$third-party
 ||jewgn8une.com
 ||jizzbunker.com
@@ -2430,8 +2418,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||js.5xml.com
 ||js.8-starssp.net
 ||js.9136.com
-||js.92aliyun.com
-||js.9669.cn
 ||js.aaddcount.com
 ||js.abh.jp
 ||js.abtesting.ai
@@ -2474,7 +2460,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||js.astrsk.net
 ||js.atcheng.com
 ||js.b1js.com
-||js.bd.dhsz.cn
 ||js.bizographics.com
 ||js.blamads.com
 ||js.blozoo.info
@@ -2491,8 +2476,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||js.wpadmngr.com
 ||js.wpnsrv.com
 ||js.wpushsdk.com
-||jsads.sina.com.hk
-||jsadsdisplay.cn-beijing.log.aliyuncs.com
 ||jsapi.html5.qq.com
 ||jsapi.lightboxcdn.com
 ||jsauth.mymovies.net
@@ -2503,7 +2486,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||jun88.today
 ||jutyledu.pro
 ||jwpcdn.com/player/*/vast.js$third-party,domain=chiasenhac.vn|hatde.tv|phimonl.net|bongdalive.tv|bongdaso.tv|bongdainfo.tv|demkhuya.tv|thuckhuya.net|bongngozz.com
-||k69svb.tw
 ||k8info.com^$third-party
 ||k8viet.net
 ||kangaroohiccups.com
@@ -2519,7 +2501,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||keonhacaibet.com
 ||ketoanthienung.vn/games/*
 ||ketoanthucte.vn/games/*
-||kfwzxu.tw
 ||kgdvs9ov3l2aasw4nuts.com
 ||khosex.me
 ||kichdam.vip
@@ -2809,9 +2790,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ns-strategy.cdn.bcebos.com
 ||ntsiwodere.top
 ||nud8.com
-||nuuk9g.tw
-||nymzz3.tw
-||o2yms3.tw
 ||oaphoace.net
 ||oataltaul.com
 ||oclaserver.com^$third-party
@@ -2865,7 +2843,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||paragonads.vn
 ||parkcircularpearl.com
 ||pc*ads.com^$third-party
-||pcltk3.tw
 ||pcmclk.com
 ||pcworld.com.vn/files/advertising/*
 ||perf.dugout.com
@@ -3025,7 +3002,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||prwidgets.com^$third-party
 ||pseepsie.com
 ||pso2vn.com/js/SmoothScroll.js
-||pss.alicdn.com
 ||ptp22.com
 ||pub2srv.com
 ||pubads.g.doubleclick.net/gampad/ads*
@@ -3062,7 +3038,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||quensillo.com^$domain=mediafire.com
 ||quiznhe.com/*/gooima.js
 ||quokkacheeks.com
-||r6i1zp.tw
 ||rarbg.to/xarldhvgowkynu.js
 ||rarbg.to^$script,~third-party
 ||rarenok.biz
@@ -3399,7 +3374,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||tinhuygialai.org.vn/2021*
 ||tintuc24h.info/*/gooima.js
 ||tipcatscarola.com
-||titan11.cn
 ||tiwhaiph.net
 ||tlu.edu.vn/app/*
 ||tlu.edu.vn/down/*
@@ -3514,7 +3488,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||uslblock.com
 ||usounoul.com
 ||ustxsntseyhwsx.com
-||v4j9r1.tw
 ||v567p.xyz
 ||v8l.info
 ||v99bet.vip
@@ -3654,7 +3627,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||viglink.com
 ||viimcu.com
 ||visiblejoseph.com
-||viuje.tw
 ||vivo.vn/skin/js/ova-jquery.js
 ||vjav.com
 ||vkl.xxx
@@ -3710,12 +3682,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vuighe.net/mmo/*
 ||vungtrom.tv
 ||vv84.bj.bcebos.com
-||vvetqp.tw
 ||vwin.com
 ||vws.vegacdn.vn/QCBinhluan/*
 ||vwthethao.club
 ||vz683.com
-||w1ft1qku.cn
 ||w3counter.com
 ||w88f1.com
 ||w99.vn
@@ -3760,7 +3730,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||x-n-x-x.pro
 ||x1798.com
 ||x69.tv
-||x8t1bz.tw
 ||xads.codon.vn
 ||xads.top
 ||xahoithongtin.com.vn/*.swf|
@@ -3838,7 +3807,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xviet.top
 ||xviet.tv
 ||xvietsub.com
-||xxa4dc.tw
 ||xxbase.org
 ||xxjav.cc
 ||xxngon.net
@@ -3852,7 +3820,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||xxxphim.net
 ||xxxvietnam.org
 ||y.ycpi.atwola.com
-||y1n8gv.tw
 ||y6.casino
 ||y8z5nv0slz06vj2k5vh6akv7dj2c8aj62zhj2v7zj8vp0zq7fj2gf4mv6zsb.me
 ||yabs.yandex.*/show/$third-party
@@ -4957,3 +4924,44 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||zplayer.trk.zapps.vn
 ||zplayer-trk.zdn.vn
 ||ztevents.zaloapp.com
+! =========================== China Trackers & ADS ============================
+||3rd.t.sohu.com
+||7mad.7m.cn
+||7mimg.7m.cn/*.gif
+||888.tv.sohu.com
+||baiducom.bj.bcebos.com
+||baidustatic.com
+||bwfncx.tw
+||cpu-admin.baidu.com
+||cpu-baidu-com-block.cdn.bcebos.com
+||cpu.baidu.com
+||fxcgm6.tw
+||fziql.tw
+||g1k63t.tw
+||hm.baidu.com
+||je4k0e.tw
+||js.92aliyun.com
+||js.9669.cn
+||js.bd.dhsz.cn
+||jsads.sina.com.hk
+||jsadsdisplay.cn-beijing.log.aliyuncs.com
+||jscode.jbzj.com
+||jspassport.ssl.qhimg.com
+||k69svb.tw
+||kfwzxu.tw
+||mm.jbzj.com
+||nuuk9g.tw
+||nymzz3.tw
+||o2yms3.tw
+||pcltk3.tw
+||pss.alicdn.com
+||r6i1zp.tw
+||s.360.cn
+||titan11.cn
+||v4j9r1.tw
+||viuje.tw
+||vvetqp.tw
+||w1ft1qku.cn
+||x8t1bz.tw
+||xxa4dc.tw
+||y1n8gv.tw
