@@ -5211,15 +5211,11 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||adserver.bing.com
 ||advertise.bingads.microsoft.com
 ||advertising.microsoft.com
-||ai.monitor.azure.com
-||ai.privatelink.monitor.azure.com
 ||analytics.microsoft.com
 ||analyticspixel.microsoft.com
 ||api.applicationinsights.azure.com
 ||api.bingads.microsoft.com
 ||api.edgeoffer.microsoft.com
-||api.monitor.azure.com
-||api.privatelink.monitor.azure.com
 ||au-v10c.events.data.microsoft.com
 ||au-v10.events.data.microsoft.com
 ||au-v20.events.data.microsoft.com
@@ -5229,15 +5225,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||browser.pipe.aria.microsoft.com
 ||c.bing.com
 ||canadacentral-0.in.applicationinsights.azure.com
-||centralus-0.in.ai.monitor.azure.com
-||centralus-0.in.ai.privatelink.monitor.azure.com
 ||centralus-0.in.applicationinsights.azure.com
-||centralus-2.in.ai.monitor.azure.com
-||centralus-2.in.ai.privatelink.monitor.azure.com
 ||centralus-2.in.applicationinsights.azure.com
-||centralus.handler.control.monitor.azure.com
-||centralus.livediagnostics.monitor.azure.com
-||centralus.livediagnostics.privatelink.monitor.azure.com
 ||clarity.microsoft.com
 ||codepush.teams.microsoft.com
 ||collections.md.mp.microsoft.com
@@ -5257,8 +5246,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||fpt.microsoft.com
 ||functional.events.data.microsoft.com
 ||g.bing.com
-||global.handler.control.monitor.azure.com
-||global.handler.control.privatelink.monitor.azure.com
 ||help.ads.microsoft.com
 ||i1.services.social.microsoft.com
 ||iamtelemetrycollector.microsoft.com
@@ -5271,6 +5258,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||kmwatsonc.events.data.microsoft.com
 ||m.bingads.microsoft.com
 ||malwarenotice.microsoft.com
+||monitor.azure.com
 ||nw-umwatson.events.data.microsoft.com
 ||nx1.automicrosoft.com
 ||oca.alpha.telemetry.microsoft.com
@@ -5282,6 +5270,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||office.microsoft.com.rs-mcas.ms
 ||packages.dmd.metaservices.microsoft.com.akadns.net
 ||pf.events.data.microsoft.com
+||pixel-synchro.francecentral.cloudapp.azure.com
 ||ppe.telemetry.microsoft.com
 ||r.g.bing.com
 ||raka.bing.com
