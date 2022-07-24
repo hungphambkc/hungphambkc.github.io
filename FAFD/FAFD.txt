@@ -200,8 +200,10 @@ anh-dv.com##.felyoipd-hide-on-phone.felyoipd-type-code.felyoipd-container
 anh-dv.com##.widget_felyoipd.widget.primary-sidebar-widget.w-nt.h-ni
 anh-dv.com###felyoipd-5892-1051729790
 anh-dv.com###felyoipd-5889-598129009
-anime47.com##.advertisement
+anime47.com###qc_clgt
 anime47.com###qc_clgt_vuong
+anime47.com##.advertisement
+anime47.com,phimno1.xyz###ads_location
 anonyviet.com##.ai-viewport-2.ai-viewport-1.code-block-15.code-block
 anonyviet.com##.ai-viewport-2.ai-viewport-1.code-block-2.code-block
 anonyviet.com##.ai-viewport-2.ai-viewport-1.code-block-3.code-block
@@ -785,54 +787,66 @@ zippyshare.com###qrCode ~ a[href$="1131386.html"]
 @@||yimg.com/*/css/
 @@||yimg.com/zz/combo?*
 ! ========================== Scripts ===========================
+360thethao.net##+js(acs, onload, puURL)
 90m.tv,phut90.online,phut91.online,binhluanvidamme.online##+js(acis, $, overlay)
-anime47.com##script:inject(fuckadblock.js-3.2.0)
-aphim.org##script:inject(setTimeout-defuser.js, alert_warning)
+90phut2.live##+js(acs, $, overlay)
+90phut2.live##+js(acs, setTimeout, overlay)
 aphim.tv##+js(window.open-defuser.js)
 autoitvn.com##+js(abort-current-inline-script.js, addEventListener, AdBlock)
-banhtv.net##script:inject(abort-current-inline-script.js, mobileCheck)
-banhtv.net##script:inject(abort-on-property-write.js, popups)
 biluu.co##+js(abort-current-inline-script.js, popunder)
 biluu.tv##+js(abort-current-inline-script.js, popunder)
 binhluan.xyz##+js(setTimeout-defuser, modal-media-image)
+blog.abit.vn,phimdinhcao.net,truyensieuhay.com,ahphimtop.com,tvchill.org##+js(aopr, document.cookie)
 blogtruyen.vn##+js(acis, document.write)
 blogtruyen.vn##+js(nowoif)
 bongdalive.tv,bongdaso.tv,bongdainfo.tv,demkhuya.tv,thuckhuya.net##+js(abort-on-property-write.js, popupBanners)
+bongdahomnay.tech###partner-pop
 bongngozz.com##+js(abort-on-property-write.js, popups)
-bumtv.net##script:inject(abort-on-property-write.js, popns)
-cgv.vn##script:inject(abort-current-inline-script.js, win_width, colorbox)
 chiasenhac.vn##+js(abort-current-inline-script.js, screenW, userreport)
-comicvn.net##script:inject(window.open-defuser.js, String.fromCharCode, windowpop)
+chotlo.com###header:style(margin-top: 0 !important)
 dalatmongm.site##+js(abort-current-inline-script.js, adBlockDetected)
-hdo.tv##script:inject(window.open-defuser.js)
+dood.pm##+js(aopw, DoodPop)
+downloadsachmienphi.com,khophimhd.net,tvhay.top##+js(acs, JSON.parse, break;case $.)
+fullcrackpc.com##+js(addEventListener-defuser, load, popunder)
+gametv.vn##+js(acs, $, homeModal)
+gocmod.com##+js(nostif, show)
 hdvip.tv##+js(abort-current-inline-script.js, openInNewTab)
-kzone.tv##script:inject(abort-current-inline-script.js, Date, n3zz)
+hh3dhay.com,hh3dhay.xyz##+js(acs, document.createElement, ;break;case)
+linkneverdie.net##+js(acs, $, arrAd)
+lphim.net,subnhanh.net##+js(aopr, localStorage)
+luotphim1.com##+js(json-prune, 0.time_mobile 0.time 0.link_video 0.link_video_mobile 0.link 0.link_mobile 1.time_mobile 1.time 1.link_video 1.link_video_mobile 1.link 1.link_mobile)
+lxhentai.com##+js(acs, document.cookie)
 megaurl.in##+js(window.open-defuser.js)
 motchill.net##+js(aopw, MPAds)
 phim1080z.com##+js(abort-on-property-write.js, bannerPreload)
-phim14.net##script:inject(nowebrtc.js)
-phimgi.tv,phimnhe.net##script:inject(abort-on-property-read.js, readCookie)
-phimmedia.tv##script:inject(abort-current-inline-script.js, PM_popup)
-phimnhanh.com##script:inject(abort-on-property-read.js, popups)
-phimnhanh.com##script:inject(set-constant.js, player.on, noopFunc)
-phimnhanh.net##script:inject(abort-on-property-read.js, listPage)
-rarbg.to##script:inject(abort-on-property-read.js, _wm3)
+phimgif.net,ophimhd.net,phimraphot.net##+js(acs, jQuery, popurl)
+phimhay3s.com##+js(json-prune, ads)
+phimhays.com##+js(acs, jQuery, window.open)
+phimlau.online##+js(acs, i6H, Math)
+phimmoiii123.com##+js(aopr, matchMedia)
+phim.vkoolzz.net##+js(fuckadblock.js-3.2.0)
 razorphim.com##+js(nano-setTimeout-booster.js, scds, 35000)
-shink.in##script:inject(abort-on-property-read.js, RunAds)
-shink.in##script:inject(abort-on-property-write.js, _pop)
-shink.in##script:inject(abort-on-property-write.js, Fingerprint2)
-truyentranh.net##script:inject(abort-on-property-read.js, popups)
+sexphimhd.net,gvnvh18.com,g18vn.com##+js(set, D4zz, noopFunc)
+tapmoi.net##+js(acs, navigator, SmartPopunder)
+tienichmaytinh.net,giavang.net##+js(no-fetch-if, method:HEAD)
+tinsoikeo.io##+js(acs, $, window.open)
+tinsoikeo.io##+js(aopr, sessionStorage)
+truyen2u.net##+js(acs, parseInt, break;case $.)
 truyentranhtuan.com##+js(abort-current-inline-script.js, popunder2)
 tvhays.org##+js(abort-current-inline-script.js, tvhayorg)
-violet.vn##script:inject(setTimeout-defuser.js, loadPopup)
-vkool.net##+js(fuckadblock.js-3.2.0)
+vb.plvb.xyz##+js(aopr, adsTvc)
+vebo.live##+js(acs, jQuery, popup)
+vebotv.xyz##.show.fade.modal
+vebotv.xyz,bongdahomnay.tech##.modal-backdrop.show
+vebotv.xyz,bongdahomnay.tech##html:style(overflow: auto!important)
+viettoons.tv,vnphimmoi.net,phimmoiaz.cc,zo3x.ml,m.blogtruyen.vn##+js(aopr, open)
+vungoctuan.vn##+js(acs, document.write, snow)
+vungoctuan.vn##+js(no-xhr-if, ads)
+watchsb.com##+js(aopr, __Y)
 xemphimgi.net##+js(aeld, click, window.open)
-youtube.com,youtube-nocookie.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
-youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefined)
-youtube.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
-youtubekids.com,youtube-nocookie.com,youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
-youtubekids.com,youtube-nocookie.com,youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
-yts.am##script:inject(abort-current-inline-script.js, T822)
+xnxx-sex-videos.com##+js(acs, setTimeout, window.location)
+xnxx-sex-videos.com##+js(ra, target|onclick, a[href^="/video/"])
+ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ! ====================== Third-party adverts and trackers =====================
 *-ad.24hstatic.com
 *.accountant^$third-party
@@ -909,6 +923,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||26.at.atwola.com
 ||2banh.vn/*/script_banner/*
 ||2qj7mq3w4uxe.com
+||333xbet.com
 ||33across.com
 ||33beta.com
 ||33k1.com
@@ -1120,6 +1135,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||an.facebook.com/*/vast.xml?*$third-party
 ||an.yandex.ru/count/$csp=script-src
 ||an.yandex.ru/count/$popup
+||anime47.com^*.gif
 ||animefull.tv/wow/img/*.gif
 ||anisfx.com
 ||aniview.com
@@ -2377,9 +2393,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||p-ussy.com
 ||padlet-uploads.storage.googleapis.com
 ||padstm.com
-||pagead2.googleadservices.com
-||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication.com/adsbygoogle.js
-||pagead2.googlesyndication.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 ||pagefair.com
 ||pamphletconspiracy.com
 ||paragonads.vn
@@ -4905,6 +4918,11 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 @@||youtube.com/my_video_ad$document
 @@||youtube.com/player_api$third-party,script
 @@||ytimg.com^*_banner$domain=youtube.com
+youtube.com,youtube-nocookie.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com,youtube-nocookie.com##+js(set, playerResponse.adPlacements, undefined)
+youtube.com,youtube-nocookie.com##+js(set, ytInitialPlayerResponse.adPlacements, undefined)
+youtubekids.com,youtube-nocookie.com,youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
+youtubekids.com,youtube-nocookie.com,youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
 gaming.youtube.com##.ytg-notification-footer
 google.*##.ads-ad
 google.*##.ch[onclick="ga(this,event)"]
@@ -5349,6 +5367,9 @@ youtube.com#$##ticker.ytd-masthead { display: none!important; }
 ||mobilecrashreporting.googleapis.com
 ||mobiledataplansharing.googleapis.com
 ||opjstlfyrwoptimizationguide-pa.googleapis.com
+||pagead2.googleadservices.com
+||pagead2.googlesyndication.com/pagead/js/adsbygoogle.js$script,xmlhttprequest,redirect=googlesyndication.com/adsbygoogle.js
+||pagead2.googlesyndication.com/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 ||playmoviesdfe-pa.googleapis.com
 ||pubads.g.doubleclick.net/gampad/ads*
 ||pubads.g.doubleclick.net/gampad/live/ads*
