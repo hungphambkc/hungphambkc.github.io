@@ -82,11 +82,11 @@
 @@://yandex.*/search/?$generichide
 @@://yandex.ru/|$generichide
 @@||gamek.vn^$generichide
+@@||gtimg.com/qqcdn/*/beacon.min.js$script,domain=qq.com
 @@||hulu.com^$generichide
 @@||nationalgeographic.com^$generichide
 @@||omtrdc.net/rest/$xmlhttprequest
 @@||zippyshare.com^$elemhide
-inbox.google.com#@#.ad
 tinhte.vn#@#.adsbygoogle
 twitch.tv#@#[class^="balloon"]
 ! ============================== General adverts ==============================
@@ -370,7 +370,6 @@ gamehub.vn##.portal_ads_scroll
 gamek.vn##.adm-rightsection.contentright
 gamek.vn##.topbanner
 gametv.vn##.box-ad
-gaming.youtube.com##.ytg-notification-footer
 getlink.tienichmaytinh.net##.banner-336x280.banner
 getlink.tienichmaytinh.net##.banner-468x60.banner
 getlink.tienichmaytinh.net##.banner-728x90.banner
@@ -378,79 +377,6 @@ getlink.tienichmaytinh.net##.banner-inner
 getlink.tienichmaytinh.net##div.banner-captcha.banner
 ghacks.net##.block
 ghacks.net##.ghacks-ad
-google.*##.ads-ad
-google.*##.ch[onclick="ga(this,event)"]
-google.*##.commercial-unit-desktop-rhs > .iKidV > .Ee92ae + .P2mpm + .hp3sk
-google.*##.commercial-unit-desktop-rhs:not(.mnr-c)
-google.*##.commercial-unit-mobile-bottom
-google.*##.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > .vci
-google.*##.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci
-google.*##.commercial-unit-tiles-immersive
-google.*##.GB3L-QEDGY .GB3L-QEDF- > .GB3L-QEDE-
-google.*##.GFYY1SVD2 > .GFYY1SVC2 > .GFYY1SVF5
-google.*##.GFYY1SVE2 > .GFYY1SVD2 > .GFYY1SVG5
-google.*##.GHOFUQ5BG2 > .GHOFUQ5BF2 > .GHOFUQ5BG5
-google.*##.GJJKPX2N1 > .GJJKPX2M1 > .GJJKPX2P4
-google.*##.GKJYXHBF2 > .GKJYXHBE2 > .GKJYXHBH5
-google.*##.GPMV2XEDA2 > .GPMV2XEDP1 > .GPMV2XEDJBB
-google.*##.gws-flights-book__ads-wrapper
-google.*##.lads[width="100%"][style="background:#FFF8DD"]
-google.*##.mod > ._jH + .rscontainer
-google.*##.mod > .gws-local-promotions__border
-google.*##.mw > #rcnt > #center_col > #taw > .c
-google.*##.mw > #rcnt > #center_col > #taw > #tvcap > .c
-google.*##.ra[align="left"][width="30%"]
-google.*##.ra[align="right"][width="30%"]
-google.*##.ra[width="30%"][align="right"] + table[width="70%"][cellpadding="0"]
-google.*##.rhsvw[style="background-color:#fff;margin:0 0 14px;padding-bottom:1px;padding-top:1px;"]
-google.*##.rscontainer > .ellip
-google.*##.section-result[data-result-ad-type]
-google.*##.widget-pane-section-result[data-result-ad-type]
-google.*###atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top
-google.*###atvcap > div:has(h3[role="heading"] > span:has-text(/^Ads/))
-google.*###center_col > #\5f Emc
-google.*###center_col > #main > .dfrd > .mnr-c > .c._oc._zs
-google.*###center_col > #res > #topstuff + #search > div > #ires > #rso > #flun
-google.*###center_col > #resultStats + #tads
-google.*###center_col > #resultStats + #tads + #res + #tads
-google.*###center_col > #resultStats + div + #res + #tads
-google.*###center_col > #resultStats + div[style="border:1px solid #dedede;margin-bottom:11px;padding:5px 7px 5px 6px"]
-google.*###center_col > #taw > #tvcap > .commercial-unit-desktop-top
-google.*###center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
-google.*###center_col > #taw > #tvcap > .rscontainer
-google.*###center_col > div[style="font-size:14px;margin-right:0;min-height:5px"] > div[style="font-size:14px;margin:0 4px;padding:1px 5px;background:#fff8e7"]
-google.*###cnt #center_col > #res > #topstuff > .ts
-google.*###cnt #center_col > #taw > #tvcap > .c._oc._Lp
-google.*###main_col > #center_col div[style="font-size:14px;margin:0 4px;padding:1px 5px;background:#fff7ed"]
-google.*###mbEnd[cellspacing="0"][cellpadding="0"]
-google.*###mclip_container:last-child
-google.*###mn #center_col > div > h2.spon:first-child
-google.*###mn #center_col > div > h2.spon:first-child + ol:last-child
-google.*###mn div[style="position:relative"] > #center_col > ._Ak
-google.*###mn div[style="position:relative"] > #center_col > div > ._dPg
-google.*###resultspanel > #topads
-google.*###rhs_block .mod > .gws-local-hotels__booking-module
-google.*###rhs_block .mod > .luhb-div > div[data-async-type="updateHotelBookingModule"]
-google.*###rhs_block .xpdopen > ._OKe > div > .mod > ._yYf
-google.*###rhs_block > .ts[cellspacing="0"][cellpadding="0"][style="padding:0"]
-google.*###rhs_block > #mbEnd
-google.*###rhs_block > ol > .rhsvw > .kp-blk > .xpdopen > ._OKe > ol > ._DJe > .luhb-div
-google.*###rhs_block > script + .c._oc._Ve.rhsvw
-google.*###rhswrapper > #rhssection[border="0"][bgcolor="#ffffff"]
-google.*###ssmiwdiv[jsdisplay]
-google.*###tads + div + .c
-google.*###tads.c
-google.*###tadsb.c
-google.*###tadsto.c
-google.*###taw > .med + div > #tvcap > .mnr-c:not(.qs-ic) > .commercial-unit-mobile-top
-google.*###topstuff > #tads
-google.*##c-wiz[jsrenderer="YnuqN"] > div > div > .Rn1jbe
-google.*##div[data-crl="true"][data-id^="CarouselPLA-"]
-google.*##div[data-flt-ve="sponsored_search_ads"]
-google.*##div[data-ismultirow="true"][data-id^="CarouselPLA-"]
-google.*##div[jscontroller="U835zd"] + c-wiz[jsrenderer="YnuqN"]
-google.*##div[role="navigation"] + c-wiz > div > .kxhcC
-google.*##div[role="navigation"] + c-wiz > script + div > .kxhcC
 hanoicomputer.vn###highstreet
 hdvietnam.com###youtube.secondaryContent
 hdvip.tv##.rightleftads
@@ -486,9 +412,7 @@ kzone.tv##.ad-sticky-content
 kzone.tv##.ads_player
 kzone.tv##.jwplayer>.afs_ads~div[style*="height:30px"]
 lgviet.com##.widget.WidgetFramework_WidgetRenderer_Html
-m.youtube.com##ytm-paid-content-overlay-renderer
 macintosh.vn###dg-container
-mail.google.com##.Bu.y3
 mail.yandex.by,mail.yandex.com,mail.yandex.kz,mail.yandex.ru,mail.yandex.ua,mail.yandex.uz##div[class*="DirectLinePlaceholder"]
 market.yandex.by,market.yandex.kz,market.yandex.ru,market.yandex.ua,market.yandex.uz##.layout_type_search.headline__footer
 mediafire.com##.dlPromo1Content.dlPromoContent
@@ -500,7 +424,6 @@ movies.hdviet.com##[class^="box-adv"]
 movies.hdviet.com##[id^="popup"]
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##.bar__driver-container
 music.yandex.by,music.yandex.kz,music.yandex.ru,music.yandex.ua,music.yandex.uz##[class^="audio-advert"]
-music.youtube.com##ytmusic-mealbar-promo-renderer
 mybongda.com##.top_ads
 nationalgeographic.com##.ad-holder
 nhac.vui.vn##.padTop5.padBot5
@@ -575,8 +498,6 @@ smailpro.com###bsa-zone_1643057563258-5_123456
 smailpro.com###bsa-zone_1643057609522-3_123456
 smser.net##.adsbygoogle
 smser.net##.mx-auto.bg-indigo-50
-studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-pause-overlay
-studio.youtube.com#@$?#.opened { remove: true; }
 subscene.com##.banner
 tailieu.vn##.fleft.doc300 > div > .adsbygoogle
 tailieuhust.com##.sgpb-popup-dialog-main-div-wrapper
@@ -771,81 +692,6 @@ yandex.ru##div[id][data-log-node] > div:empty ~ i > [class] > .loader__text
 yandex.ru##div[id^="R-I-"]
 yandex.ru##ymaps > div[class^="search-placemark-layout-connect_advert"]
 yandex.ru##ymaps > div[class^="search-placemark-layout-connect_special"]
-youtube.com##.ad-container
-youtube-nocookie.com,youtube.com##.annotation.iv-branding
-youtube-nocookie.com,youtube.com##.annotation.iv-promo
-youtube-nocookie.com,youtube.com##.iv-promo-video
-youtube-nocookie.com,youtube.com##.video-annotations
-youtube-nocookie.com,youtube.com##.ytp-cards-teaser
-youtube-nocookie.com,youtube.com##.ytp-paid-content-overlay
-youtube-nocookie.com,youtube.com###yt-lang-alert-container
-youtube-nocookie.com##.ytp-ad-progress-list
-youtube.com#?#ytd-rich-grid-renderer ytd-rich-item-renderer div > ytd-display-ad-renderer:upward(2)
-youtube.com#@##consent-bump
-youtube.com##.iv-click-target
-youtube.com##.iv-promo
-youtube.com##.masthead-ad-control,.ad-div,.pyv-afc-ads-container
-youtube.com##.mealbar-promo-renderer
-youtube.com##.share-panel
-youtube.com##.share-panel-services-container > div#share-services-container
-youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
-youtube.com##.video-ads
-youtube.com##.video-playing.ytd-video-masthead-ad-v3-renderer.style-scope
-youtube.com##.yt-consent
-youtube.com##.yt-consent-banner
-youtube.com##.ytd-search-pyv-renderer
-youtube.com##.ytd-single-option-survey-option-renderer
-youtube.com##.ytp-ad-progress-list
-youtube.com##.ytp-cards-button
-youtube.com##.ytp-ce-covering-image
-youtube.com##.ytp-ce-covering-overlay
-youtube.com##.ytp-ce-element
-youtube.com##.ytp-ce-element-shadow
-youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
-youtube.com##.ytp-ce-element.ytp-ce-element-show
-youtube.com##.ytp-ce-expanding-image
-youtube.com##.ytp-subscribe-card
-youtube.com##iron-overlay-backdrop
-youtube.com##ytd-promoted-sparkles-web-renderer
-youtube.com##ytd-carousel-ad-renderer
-youtube.com##ytd-display-ad-renderer
-youtube.com##ytd-rich-item-renderer:has( > div > ytd-display-ad-renderer )
-youtube.com###__ffYoutube1
-youtube.com###__ffYoutube2
-youtube.com###__ffYoutube3
-youtube.com###__ffYoutube4
-youtube.com###alert-banner > .ytd-browse > .yt-alert-with-actions-renderer
-youtube.com###consent-bump
-youtube.com###content > .style-scope > .ytd-compact-promoted-item-renderer
-youtube.com##div[class^="ytd-consent"]
-youtube.com###feed-pyv-container
-youtube.com###masthead-ad
-youtube.com###notification-footer
-youtube.com###offer-module
-youtube.com###pla-shelf > ytd-pla-shelf-renderer[class="style-scope ytd-watch"]
-youtube.com###player-ads
-youtube.com###promotion-shelf
-youtube.com###related > ytd-watch-next-secondary-results-renderer > #items > ytd-compact-promoted-video-renderer.ytd-watch-next-secondary-results-renderer
-youtube.com###ticker-content
-youtube.com###video-masthead
-youtube.com###watch7-branded-banner
-youtube.com###watch7-sidebar-ads
-youtube.com##ytd-display-ad-renderer:upward(ytd-rich-item-renderer)
-youtube.com##ytd-popup-container > iron-dropdown .ytd-popup-container[position-type="OPEN_POPUP_POSITION_BOTTOMLEFT"]
-youtube.com##ytd-popup-container[class="style-scope ytd-app"] > iron-dropdown[force-close-on-outside-click="true"]
-youtube.com##ytd-rich-section-renderer:has( > #content > ytd-statement-banner-renderer)
-youtube.com##ytd-search-pyv-renderer
-youtube.com##ytd-video-masthead-ad-advertiser-info-renderer,ytm-promoted-sparkles-web-renderer
-youtube.com##ytm-promoted-sparkles-web-renderer
-youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
-youtube.com##+js(json-prune, playerResponse.playerAds)
-youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
-youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
-youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
-youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
-youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, null)
-youtube.com#$##appbar-guide-menu { margin-top: 50px!important; }
-youtube.com#$##ticker.ytd-masthead { display: none!important; }
 zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz##.article-right-ad-block
 zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz##.feed__item-wrap > .feed__item > div[class] > div[class]:empty
 zen.yandex.by,zen.yandex.kz,zen.yandex.ru,zen.yandex.ua,zen.yandex.uz##.floating-links
@@ -874,7 +720,6 @@ zippyshare.com###qrCode ~ a[href$="1131386.html"]
 @@||125.212.202.62/Statics/jwplayer/jwplayer.flash.swf
 @@||195.82.146.52/logo/*
 @@||4shared.com/css/popup_$stylesheet
-@@||ad.doubleclick.net^$domain=windowscentral.com|thewindowsclub.com
 @@||adserver.yahoo.com^$xmlhttprequest,domain=yahoo.com
 @@||adsnative.com/static/js/render.v2.js$domain=streamable.com
 @@||advertising.yandex.$~third-party
@@ -899,12 +744,6 @@ zippyshare.com###qrCode ~ a[href$="1131386.html"]
 @@||facebook.com/dialog/oauth?*
 @@||gamehub.vn/*/jquery.smartbanner.js
 @@||getresponse.com^$popup,third-party
-@@||google-analytics.com^$script,domain=tiki.vn
-@@||googlesyndication.com/pagead/*
-@@||googletagservices.com/tag/js/gpt.js$domain=hackintoshzone.com|techrepublic.com
-@@||googlevideo.com/videoplayback?*&pfa=*$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
-@@||googlevideo.com/videoplayback?*yt_live_broadcast&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
-@@||googlevideo.com/videoplayback?*yt_premiere_broadcast&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
 @@||hackintoshzone.com/ipscdn/ads/*
 @@||hdo.tv/*/video?*
 @@||hphim.tv/styles/*.gif
@@ -912,8 +751,6 @@ zippyshare.com###qrCode ~ a[href$="1131386.html"]
 @@||inet.vn/controllers/banner/banner_ctrl.js$script,1p
 @@||nv-ad.24hstatic.com/*.jpg
 @@||phimaz.net/ads.php
-@@||pubads.g.doubleclick.net/gampad/ads?ad_rule=0&d_imp=1&gdfp_req=1&impl=ifr$domain=youtube.com
-@@||pubads.g.doubleclick.net/gampad/ads?ad_rule=0&d_imp=1&gdfp_req=1&iu=%2F6762%2Fmkt.ythome_1x1$domain=youtube.com
 @@||rutrk.org/logo/*
 @@||site.yandex.net/*/js/all.js|$third-party,script
 @@||site.yandex.net/*/js/easyxdm.js|$third-party,script
@@ -947,15 +784,6 @@ zippyshare.com###qrCode ~ a[href$="1131386.html"]
 @@||yimg.com/*/*.css
 @@||yimg.com/*/css/
 @@||yimg.com/zz/combo?*
-@@||youtube.com/*/www-widgetapi.$third-party,script
-@@||youtube.com/api/stats/atr?*
-@@||youtube.com/api/stats/playback?*
-@@||youtube.com/get_video_info?*embedded$~third-party,other
-@@||youtube.com/get_video_info*&el=editpage
-@@||youtube.com/iframe_api$third-party,script
-@@||youtube.com/my_video_ad$document
-@@||youtube.com/player_api$third-party,script
-@@||ytimg.com^*_banner$domain=youtube.com
 ! ========================== Scripts ===========================
 90m.tv,phut90.online,phut91.online,binhluanvidamme.online##+js(acis, $, overlay)
 anime47.com##script:inject(fuckadblock.js-3.2.0)
@@ -1153,7 +981,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||abu14.cc
 ||abu999.com
 ||accesstrade.vn^$third-party
-||ad-creatives-public.commondatastorage.googleapis.com
 ||ad-score.com
 ||ad-stir.com^$third-party
 ||ad.*.com
@@ -1243,255 +1070,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||adsafeprotected.com
 ||adscare.myad.vn
 ||adsco.re
-||adservice.google.ac
-||adservice.google.ad
-||adservice.google.ae
-||adservice.google.af
-||adservice.google.ag
-||adservice.google.al
-||adservice.google.am
-||adservice.google.arab
-||adservice.google.as
-||adservice.google.at
-||adservice.google.az
-||adservice.google.ba
-||adservice.google.be
-||adservice.google.berlin
-||adservice.google.bf
-||adservice.google.bg
-||adservice.google.bi
-||adservice.google.bj
-||adservice.google.bo
-||adservice.google.bs
-||adservice.google.bt
-||adservice.google.by
-||adservice.google.ca
-||adservice.google.cat
-||adservice.google.cc
-||adservice.google.cd
-||adservice.google.cf
-||adservice.google.cg
-||adservice.google.ch
-||adservice.google.ci
-||adservice.google.cl
-||adservice.google.cm
-||adservice.google.co.ao
-||adservice.google.co.bw
-||adservice.google.co.ck
-||adservice.google.co.cr
-||adservice.google.co.id.itotolink.net
-||adservice.google.co.il
-||adservice.google.co.im
-||adservice.google.co.in
-||adservice.google.co.je
-||adservice.google.co.jp
-||adservice.google.co.ke
-||adservice.google.co.kr
-||adservice.google.co.lc
-||adservice.google.co.ls
-||adservice.google.co.ma
-||adservice.google.co.mz
-||adservice.google.co.nz
-||adservice.google.co.th
-||adservice.google.co.tz
-||adservice.google.co.ug
-||adservice.google.co.uk
-||adservice.google.co.uz
-||adservice.google.co.ve
-||adservice.google.co.vi
-||adservice.google.co.za
-||adservice.google.co.zm
-||adservice.google.co.zw
-||adservice.google.com
-||adservice.google.com.af
-||adservice.google.com.ag
-||adservice.google.com.ai
-||adservice.google.com.ar
-||adservice.google.com.au
-||adservice.google.com.bd
-||adservice.google.com.bh
-||adservice.google.com.bn
-||adservice.google.com.bo
-||adservice.google.com.br
-||adservice.google.com.by
-||adservice.google.com.bz
-||adservice.google.com.co
-||adservice.google.com.cu
-||adservice.google.com.cy
-||adservice.google.com.do
-||adservice.google.com.ec
-||adservice.google.com.eg
-||adservice.google.com.et
-||adservice.google.com.fj
-||adservice.google.com.ge
-||adservice.google.com.gh
-||adservice.google.com.gi
-||adservice.google.com.gr
-||adservice.google.com.gt
-||adservice.google.com.hk
-||adservice.google.com.iq
-||adservice.google.com.jm
-||adservice.google.com.jo
-||adservice.google.com.kh
-||adservice.google.com.kw
-||adservice.google.com.lb
-||adservice.google.com.ly
-||adservice.google.com.mm
-||adservice.google.com.mt
-||adservice.google.com.mx
-||adservice.google.com.my
-||adservice.google.com.na
-||adservice.google.com.nf
-||adservice.google.com.ng
-||adservice.google.com.ni
-||adservice.google.com.np
-||adservice.google.com.nr
-||adservice.google.com.om
-||adservice.google.com.pa
-||adservice.google.com.pe
-||adservice.google.com.pg
-||adservice.google.com.ph
-||adservice.google.com.pk
-||adservice.google.com.pl
-||adservice.google.com.pr
-||adservice.google.com.py
-||adservice.google.com.qa
-||adservice.google.com.sa
-||adservice.google.com.sb
-||adservice.google.com.sg
-||adservice.google.com.sl
-||adservice.google.com.sv
-||adservice.google.com.tj
-||adservice.google.com.tn
-||adservice.google.com.tr
-||adservice.google.com.tw
-||adservice.google.com.ua
-||adservice.google.com.uy
-||adservice.google.com.vc
-||adservice.google.com.ve
-||adservice.google.com.vn^$third-party
-||adservice.google.cv
-||adservice.google.cz
-||adservice.google.de
-||adservice.google.dev
-||adservice.google.dj
-||adservice.google.dk
-||adservice.google.dm
-||adservice.google.dz
-||adservice.google.ec
-||adservice.google.ee
-||adservice.google.es
-||adservice.google.eu
-||adservice.google.fi
-||adservice.google.film
-||adservice.google.fm
-||adservice.google.fr
-||adservice.google.ga
-||adservice.google.gd
-||adservice.google.ge
-||adservice.google.gf
-||adservice.google.gg
-||adservice.google.gl
-||adservice.google.gm
-||adservice.google.gp
-||adservice.google.gr
-||adservice.google.gy
-||adservice.google.hamburg
-||adservice.google.health
-||adservice.google.hk
-||adservice.google.hn
-||adservice.google.hr
-||adservice.google.ht
-||adservice.google.hu
-||adservice.google.ie
-||adservice.google.im
-||adservice.google.in
-||adservice.google.info
-||adservice.google.io
-||adservice.google.iq
-||adservice.google.is
-||adservice.google.it
-||adservice.google.it.ao
-||adservice.google.je
-||adservice.google.jo
-||adservice.google.jp
-||adservice.google.kg
-||adservice.google.ki
-||adservice.google.kr
-||adservice.google.kz
-||adservice.google.la
-||adservice.google.li
-||adservice.google.lk
-||adservice.google.lt
-||adservice.google.lu
-||adservice.google.lv
-||adservice.google.ma
-||adservice.google.md
-||adservice.google.me
-||adservice.google.meet
-||adservice.google.mg
-||adservice.google.mk
-||adservice.google.ml
-||adservice.google.mn
-||adservice.google.ms
-||adservice.google.mu
-||adservice.google.mv
-||adservice.google.mw
-||adservice.google.mx
-||adservice.google.ne
-||adservice.google.ne.jp
-||adservice.google.ng
-||adservice.google.nl
-||adservice.google.no
-||adservice.google.nr
-||adservice.google.nu
-||adservice.google.off.ai
-||adservice.google.pf
-||adservice.google.ph
-||adservice.google.pk
-||adservice.google.pl
-||adservice.google.pn
-||adservice.google.politie
-||adservice.google.ps
-||adservice.google.pt
-||adservice.google.qa
-||adservice.google.re
-||adservice.google.ro
-||adservice.google.rs
-||adservice.google.ru
-||adservice.google.rw
-||adservice.google.sc
-||adservice.google.se
-||adservice.google.sg
-||adservice.google.sh
-||adservice.google.si
-||adservice.google.sk
-||adservice.google.sm
-||adservice.google.sn
-||adservice.google.so
-||adservice.google.sr
-||adservice.google.st
-||adservice.google.td
-||adservice.google.tel
-||adservice.google.tg
-||adservice.google.tk
-||adservice.google.tl
-||adservice.google.tm
-||adservice.google.tn
-||adservice.google.to
-||adservice.google.tt
-||adservice.google.tw
-||adservice.google.ua
-||adservice.google.us
-||adservice.google.uz
-||adservice.google.vg
-||adservice.google.vn
-||adservice.google.voto
-||adservice.google.vu
-||adservice.google.ws
-||adservice.google.xn--mxtq1m
-||adservice.google.xn--ngbrx
-||adservice.google.xn--node
 ||adsgame.soha.vn^$popup,third-party
 ||adskeeper.co.uk
 ||adskeeper.com
@@ -1542,11 +1120,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||an.facebook.com/*/vast.xml?*$third-party
 ||an.yandex.ru/count/$csp=script-src
 ||an.yandex.ru/count/$popup
-||analytics.googleapis.com
-||analyticsinsights-pa.googleapis.com
-||analyticssearch-pa.googleapis.com
-||androidtvchannels-pa.googleapis.com
-||androidtvwatsonfe-pa.googleapis.com
 ||animefull.tv/wow/img/*.gif
 ||anisfx.com
 ||aniview.com
@@ -1801,7 +1374,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||clipsex3x.com
 ||clipvip.tv^$third-party
 ||clmomo.site
-||clouderrorreporting.googleapis.com
 ||cloudfront.net^$domain=4share.vn|chiasenhac.vn|hdo.tv|hatde.tv|megaurl.in|onhax.me|ouo.io|zippyshare.com
 ||cltx247.com
 ||cmd368.net^$popup,third-party
@@ -1824,8 +1396,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||concernrain.com^$third-party
 ||connexity.net
 ||connextra.com
-||console.googletagservices.com
-||content-analyticsinsights-pa.googleapis.com
 ||content.ad
 ||contextweb.com
 ||coolsexnew.com
@@ -1835,7 +1405,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||coupon5s.com
 ||cpm*.com^$third-party
 ||cracksurl.com
-||crashlyticsreports-pa.googleapis.com
 ||creative.xlviirdr.com
 ||creepingbrings.com
 ||criteo.$third-party
@@ -1880,7 +1449,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||denetsuk.com^$third-party
 ||deqik.com
 ||desallo.com
-||device-provisioning.googleapis.com
 ||dewiestsards.com
 ||dfnb-ads.com^$third-party
 ||dhrhzii89gpwo.cloudfront.net
@@ -1917,7 +1485,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||doithuongonline.club
 ||donate-*.info
 ||dongphim.net/cvast.xml?*
-||doubleclick.net^$script,image,object,subdocument,xmlhttprequest,object-subrequest,popup,third-party
 ||doublepimp.com
 ||downmienphi.com/*/banner-*
 ||dozubatan.com
@@ -2017,12 +1584,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||financepro.live^$third-party
 ||findsexy.life
 ||fine.bet
-||firebasedynamiclinks-ipv4.googleapis.com
-||firebasedynamiclinks.googleapis.com
-||firebaseinappmessaging.googleapis.com
-||firebaseinstallations.googleapis.com
-||firebaselogging-pa.googleapis.com
-||firebaselogging.googleapis.com
 ||firmasonline.net
 ||firstimpression.io
 ||five88.me
@@ -2087,12 +1648,10 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||garena-membershipp.online
 ||garena.vin
 ||garenavn-giftcode-lqmb1.com
-||geller-pa.googleapis.com
-||genericsteps.com^
+||genericsteps.com
 ||genieessp.com^$third-party
 ||genieesspv.jp^$third-party
 ||geniusdisplay.com^$third-party
-||geomobileservices-pa.googleapis.com
 ||get.*.website
 ||get.sbro.me^$script,third-party
 ||get.streams-search.com
@@ -2135,22 +1694,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||goeastvalley.com
 ||gogo88.me
 ||gokumarket.com
-||goo.gl^$popup,domain=animetvn.com
-||google-analytics.com
-||google-analytics.com/analytics.js$important,script,redirect=google-analytics.com/analytics.js,domain=support.amd.com
-||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js
-||google.com/ads*
-||googleads.g.doubleclick.net
-||googleads.g.doubleclick.net/pagead/id$script,xmlhttprequest,redirect=noop.js
-||googleadservices.com
-||googlesyndication.com
-||googletagmanager.com
-||googletagmanager.com/gtm.js$important,script,redirect=googletagmanager.com/gtm.js,domain=support.amd.com
-||googletagmanager.com/gtm.js$script,redirect=googletagmanager.com/gtm.js
-||googletagservices.com
-||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js
-||googleusercontent.com^$image,domain=diendanvetinh.forumvi.com|bongdalive.tv|bongdaso.tv|bongdainfo.tv|demkhuya.tv|thuckhuya.net
-||googlevideo.com/videoplayback?*&ctier=L&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
 ||gozelenergyservices.com
 ||gplinks.in
 ||gq.eu.y.atwola.com
@@ -2263,7 +1806,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ihatoo.com
 ||ijavhd.com
 ||imad24.com/www/vast/zone/*
-||imasdk.googleapis.com^$domain=xem.vn
 ||img.anime47.com/imgur/*.gif
 ||img.ketqua.net/images/*.gif|
 ||img.xemphim73.com/img/*.gif|
@@ -2633,7 +2175,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||lode123.com
 ||lode88.net^$popup,third-party
 ||logging.admicro.vn^script,image
-||logging.googleapis.com
 ||lon88.com
 ||lon88.vip
 ||longai.xyz
@@ -2653,7 +2194,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||luzulabeguile.com
 ||lwgadm.com
 ||m.servedby-buysellads.com
-||m.youtube.com/*/ad.js$script
 ||m6pz5h8qi18jq1s7hjkytxn7sjc0zpxw5gks3vyk8dcxs2cstjgdxkp7t1eb.me
 ||m88.com
 ||m88.vin
@@ -2718,8 +2258,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||mobads-pre-config.cdn.bcebos.com
 ||mobiad.yestech.vn^$third-party
 ||mobiblog.net
-||mobilecrashreporting.googleapis.com
-||mobiledataplansharing.googleapis.com
 ||modern-booster.com
 ||moengage.com
 ||momo-live.vip
@@ -2824,7 +2362,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||openstat.net^$third-party
 ||openx.net
 ||openx.org
-||opjstlfyrwoptimizationguide-pa.googleapis.com
 ||optimizely.com
 ||optout.crsspxl.com
 ||optyruntchan.com
@@ -2966,7 +2503,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||playgo88.fun
 ||playgo88.vip
 ||playlucky88.com
-||playmoviesdfe-pa.googleapis.com
 ||playsex3x.xyz
 ||plugrush.com
 ||pmp-ad.cdn.bcebos.com
@@ -3010,10 +2546,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||pso2vn.com/js/SmoothScroll.js
 ||ptp22.com
 ||pub2srv.com
-||pubads.g.doubleclick.net/gampad/ads*
-||pubads.g.doubleclick.net/gampad/live/ads*
 ||pubmatic.com
-||pubsub.googleapis.com
 ||puhtml.com^$third-party
 ||punchtab.com^$third-party
 ||purgrobi.com
@@ -3096,7 +2629,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||s*block.com^$third-party
 ||s3kuma.com
 ||s88677.com
-||safebrowsing.googleapis-cn.com
 ||safehousefsi.com
 ||sb4you1.com
 ||sbbanner.com
@@ -3111,11 +2643,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||search-operate.cdn.bcebos.com
 ||search.4shared.com^$popup
 ||secure-cdn.atwola.com
-||securepubads.g.doubleclick.net
-||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
 ||seeptoag.net
 ||selectsilkscreenings.com
-||semanticlocation-pa.googleapis.com
 ||sen992.com
 ||septfd2em64eber.com
 ||serdaive.com
@@ -3276,7 +2805,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||statcounter.com
 ||static-mon.yandex.net/static/main.js$domain=~auto.ru
 ||static.ads-twitter.com
-||static.doubleclick.net
 ||staticflickr.com^$third-party,domain=razorphim.com
 ||staticpress.vcmedia.vn/*.swf
 ||staticsns.cdn.bcebos.com
@@ -3287,7 +2815,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||stc.nas.nixcdn.com^$domain=nhaccuatui.com
 ||steadfastsystem.com
 ||steepto.com^$websocket,third-party
-||storage.googleapis.com/728x90/rutracker*.gif|
 ||storm-x.io
 ||stream321.xyz
 ||streamjav.top
@@ -3498,7 +3025,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||ursegreatm.fun
 ||us.y.atwola.com
 ||us.y.ycpi.atwola.com
-||userlocation.googleapis.com
 ||userreport.com^$third-party
 ||uslblock.com
 ||usounoul.com
@@ -3870,17 +3396,6 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||yonxatuor.com
 ||yougotacheck.com
 ||your-notice.com
-||youtube.com/ad_data_
-||youtube.com/ads/$image
-||youtube.com/annotations_invideo?*
-||youtube.com/api/stats/
-||youtube.com/embed/VLz6bN1dImo?*
-||youtube.com/gen_*?a=resolution&width=*
-||youtube.com/get_midroll_
-||youtube.com/get_video_*el=adunit*
-||youtube.com/get_video_info?*=adunit&$important
-||youtube.com/get_video_info?$~third-party,badfilter
-||youtube.com/yts/jsbin/www-pagead-id-
 ||yqmxfz.com
 ||ys2000.cdn.bcebos.com
 ||yulunanews.name
@@ -4857,7 +4372,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||dzv1ekshu2vbs.cloudfront.net
 ||dzz4bwra60auc.cloudfront.net
 ||dzzavzp9iptuv.cloudfront.net
-! =========================== VNG ============================
+! =========================== VNG Corp ============================
 ||240.zaloapp.ads.zdn.vn
 ||480.zaloapp.ads.zdn.vn
 ||ad.zing.vn
@@ -4947,29 +4462,62 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||7mimg.7m.cn/*.gif
 ||888.tv.sohu.com
 ||977gd0.cn
+||a.ac.qq.com
+||a.app.qq.com
 ||a.baidu.com
 ||a.gdown.baidu.com
+||a.gdt.qq.com
 ||a.hiphotos.baidu.com
 ||a.track.sohu.com
 ||a1.itc.cn
+||ab.qq.com
 ||abot.pos.baidu.com
+||access.toggle.qq.com
 ||ack.tuisong.baidu.com
 ||activity.baidu.com
+||ad.browser.qq.com
 ||ad.mail.sohu.com
 ||ad.player.baidu.com
+||ad.qun.qq.com
 ||ad.sohu.com
+||ad.weixin.qq.com
 ||ada.baidu.com
 ||adavideo.baidu.com
+||adc.qq.com
 ||aden.baidu.com
+||adfilter.imtt.qq.com
+||adfl.qq.com
 ||adm.baidu.com
+||admonitor.qq.com
+||admonitor.thepaper.cn
+||adnew.qq.com
+||adrdir.qq.com
+||ads.privacy.qq.com
 ||ads.sohu.com
 ||adscdn.baidu.com
+||adsense.html5.qq.com
+||adsfile.qq.com
+||adsmind.apdcdn.tc.qq.com
+||adsolution.imtt.qq.com
+||adss.video.qq.com
+||adver.qq.com
+||adx.qq.com
 ||ae.bdstatic.com
+||aegis.qq.com
+||aeiicmdqdonelsv.cn
+||aeiiumikslqjupp.cn
+||aeiycbijfrfnojl.cn
+||aejnxcpghnecpdd.cn
 ||afd.baidu.com
+||ag.qq.com
 ||agentchannel.tuisong.baidu.com
 ||agn.aty.sohu.com
+||agstat.html5.qq.com
 ||aimuukc.cn
 ||als.baidu.com
+||analytics.map.qq.com
+||android.bugly.qq.com
+||android.rqd.qq.com
 ||androidapp.baidu.com
 ||anti-bot.baidu.com
 ||antivirus.baidu.com
@@ -5021,10 +4569,12 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||bdimg.share.baidu.com
 ||bdphuwvawrpmufs.cn
 ||bdplus.baidu.com
+||beacon.qq.com
 ||bgg.baidu.com
 ||bingdianhuanyuan.cn
 ||br.baidu.com
 ||browserkernel.baidu.com
+||btrace.qq.com
 ||bwfncx.tw
 ||bzclk.baidu.com
 ||bz-ipdx.baidu.com
@@ -5103,6 +4653,8 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||mm.jbzj.com
 ||mmg.aty.sohu.com
 ||mn.aty.sohu.com
+||monitor.music.qq.com
+||mtrace.qq.com
 ||nspt.bdstatic.com
 ||ns-px.online.sh.cn
 ||ns-pxb.online.sh.cn
@@ -5120,6 +4672,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||pb.hd.sohu.com.cn
 ||pcltk3.tw
 ||pg.aty.sohu.com
+||pingjs.qq.com
 ||pl.hd.sohu.com
 ||pm.aty.sohu.com
 ||pos.baidu.com
@@ -5132,6 +4685,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||qpb.sohu.com
 ||qpb0.sohu.com
 ||r6i1zp.tw
+||rcgi.video.qq.com
 ||s.360.cn
 ||s.ads.sohu.com
 ||s.go.sohu.com
@@ -5144,6 +4698,7 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||scngitafjeqshpj.cn
 ||score.my.tv.sohu.com
 ||sfp.safe.baidu.com
+||sngmta.qq.com
 ||sofire.baidu.com
 ||sofire.bdstatic.com
 ||sofsbmfvxtfyfis.cn
@@ -5160,11 +4715,14 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||sohu.com/pv?
 ||sohu.com/qfpc.gif?
 ||sohu.com/wrating
+||stat.y.qq.com
+||statistic.qzone.qq.com
 ||su.bdstatic.com
 ||suvset.sohu.com
 ||t.go.sohu.com
 ||titan11.cn
 ||top.baidu.com/js/nsclick.js
+||trace.qq.com
 ||track.sohu.com
 ||tracker.tv.sohu.com
 ||txt.go.sohu.com
@@ -5179,10 +4737,12 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||vstat.v.blog.sohu.com
 ||vvetqp.tw
 ||w1ft1qku.cn
+||weibo.com/aj/log/
 ||wenku.baidu.com/tongji/
 ||wkctj.baidu.com
 ||wl.hd.sohu.com
 ||wrecgx.tw
+||wspeed.qq.com
 ||wxsnsad.tc.qq.com
 ||wxsnsdy.tc.qq.com
 ||wxsnsdythumb.wxs.qq.com
@@ -5326,3 +4886,488 @@ yts.am##script:inject(abort-current-inline-script.js, T822)
 ||wes.df.telemetry.microsoft.com
 ||workhub.microsoft.com
 ||ztd.dds.microsoft.com
+! =========================== Google Trackers & ADS ============================
+@@||ad.doubleclick.net^$domain=windowscentral.com|thewindowsclub.com
+@@||google-analytics.com^$script,domain=tiki.vn
+@@||googlesyndication.com/pagead/*
+@@||googletagservices.com/tag/js/gpt.js$domain=hackintoshzone.com|techrepublic.com
+@@||googlevideo.com/videoplayback?*&pfa=*$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
+@@||googlevideo.com/videoplayback?*yt_live_broadcast&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
+@@||googlevideo.com/videoplayback?*yt_premiere_broadcast&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
+@@||pubads.g.doubleclick.net/gampad/ads?ad_rule=0&d_imp=1&gdfp_req=1&impl=ifr$domain=youtube.com
+@@||pubads.g.doubleclick.net/gampad/ads?ad_rule=0&d_imp=1&gdfp_req=1&iu=%2F6762%2Fmkt.ythome_1x1$domain=youtube.com
+@@||youtube.com/*/www-widgetapi.$third-party,script
+@@||youtube.com/api/stats/atr?*
+@@||youtube.com/api/stats/playback?*
+@@||youtube.com/get_video_info?*embedded$~third-party,other
+@@||youtube.com/get_video_info*&el=editpage
+@@||youtube.com/iframe_api$third-party,script
+@@||youtube.com/my_video_ad$document
+@@||youtube.com/player_api$third-party,script
+@@||ytimg.com^*_banner$domain=youtube.com
+gaming.youtube.com##.ytg-notification-footer
+google.*##.ads-ad
+google.*##.ch[onclick="ga(this,event)"]
+google.*##.commercial-unit-desktop-rhs > .iKidV > .Ee92ae + .P2mpm + .hp3sk
+google.*##.commercial-unit-desktop-rhs:not(.mnr-c)
+google.*##.commercial-unit-mobile-bottom
+google.*##.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > .vci
+google.*##.commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci
+google.*##.commercial-unit-tiles-immersive
+google.*##.GB3L-QEDGY .GB3L-QEDF- > .GB3L-QEDE-
+google.*##.GFYY1SVD2 > .GFYY1SVC2 > .GFYY1SVF5
+google.*##.GFYY1SVE2 > .GFYY1SVD2 > .GFYY1SVG5
+google.*##.GHOFUQ5BG2 > .GHOFUQ5BF2 > .GHOFUQ5BG5
+google.*##.GJJKPX2N1 > .GJJKPX2M1 > .GJJKPX2P4
+google.*##.GKJYXHBF2 > .GKJYXHBE2 > .GKJYXHBH5
+google.*##.GPMV2XEDA2 > .GPMV2XEDP1 > .GPMV2XEDJBB
+google.*##.gws-flights-book__ads-wrapper
+google.*##.lads[width="100%"][style="background:#FFF8DD"]
+google.*##.mod > ._jH + .rscontainer
+google.*##.mod > .gws-local-promotions__border
+google.*##.mw > #rcnt > #center_col > #taw > .c
+google.*##.mw > #rcnt > #center_col > #taw > #tvcap > .c
+google.*##.ra[align="left"][width="30%"]
+google.*##.ra[align="right"][width="30%"]
+google.*##.ra[width="30%"][align="right"] + table[width="70%"][cellpadding="0"]
+google.*##.rhsvw[style="background-color:#fff;margin:0 0 14px;padding-bottom:1px;padding-top:1px;"]
+google.*##.rscontainer > .ellip
+google.*##.section-result[data-result-ad-type]
+google.*##.widget-pane-section-result[data-result-ad-type]
+google.*###atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top
+google.*###atvcap > div:has(h3[role="heading"] > span:has-text(/^Ads/))
+google.*###center_col > #\5f Emc
+google.*###center_col > #main > .dfrd > .mnr-c > .c._oc._zs
+google.*###center_col > #res > #topstuff + #search > div > #ires > #rso > #flun
+google.*###center_col > #resultStats + #tads
+google.*###center_col > #resultStats + #tads + #res + #tads
+google.*###center_col > #resultStats + div + #res + #tads
+google.*###center_col > #resultStats + div[style="border:1px solid #dedede;margin-bottom:11px;padding:5px 7px 5px 6px"]
+google.*###center_col > #taw > #tvcap > .commercial-unit-desktop-top
+google.*###center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top
+google.*###center_col > #taw > #tvcap > .rscontainer
+google.*###center_col > div[style="font-size:14px;margin-right:0;min-height:5px"] > div[style="font-size:14px;margin:0 4px;padding:1px 5px;background:#fff8e7"]
+google.*###cnt #center_col > #res > #topstuff > .ts
+google.*###cnt #center_col > #taw > #tvcap > .c._oc._Lp
+google.*###main_col > #center_col div[style="font-size:14px;margin:0 4px;padding:1px 5px;background:#fff7ed"]
+google.*###mbEnd[cellspacing="0"][cellpadding="0"]
+google.*###mclip_container:last-child
+google.*###mn #center_col > div > h2.spon:first-child
+google.*###mn #center_col > div > h2.spon:first-child + ol:last-child
+google.*###mn div[style="position:relative"] > #center_col > ._Ak
+google.*###mn div[style="position:relative"] > #center_col > div > ._dPg
+google.*###resultspanel > #topads
+google.*###rhs_block .mod > .gws-local-hotels__booking-module
+google.*###rhs_block .mod > .luhb-div > div[data-async-type="updateHotelBookingModule"]
+google.*###rhs_block .xpdopen > ._OKe > div > .mod > ._yYf
+google.*###rhs_block > .ts[cellspacing="0"][cellpadding="0"][style="padding:0"]
+google.*###rhs_block > #mbEnd
+google.*###rhs_block > ol > .rhsvw > .kp-blk > .xpdopen > ._OKe > ol > ._DJe > .luhb-div
+google.*###rhs_block > script + .c._oc._Ve.rhsvw
+google.*###rhswrapper > #rhssection[border="0"][bgcolor="#ffffff"]
+google.*###ssmiwdiv[jsdisplay]
+google.*###tads + div + .c
+google.*###tads.c
+google.*###tadsb.c
+google.*###tadsto.c
+google.*###taw > .med + div > #tvcap > .mnr-c:not(.qs-ic) > .commercial-unit-mobile-top
+google.*###topstuff > #tads
+google.*##c-wiz[jsrenderer="YnuqN"] > div > div > .Rn1jbe
+google.*##div[data-crl="true"][data-id^="CarouselPLA-"]
+google.*##div[data-flt-ve="sponsored_search_ads"]
+google.*##div[data-ismultirow="true"][data-id^="CarouselPLA-"]
+google.*##div[jscontroller="U835zd"] + c-wiz[jsrenderer="YnuqN"]
+google.*##div[role="navigation"] + c-wiz > div > .kxhcC
+google.*##div[role="navigation"] + c-wiz > script + div > .kxhcC
+inbox.google.com#@#.ad
+m.youtube.com##ytm-paid-content-overlay-renderer
+mail.google.com##.Bu.y3
+music.youtube.com##ytmusic-mealbar-promo-renderer
+studio.youtube.com,youtube-nocookie.com,youtube.com##.ytp-pause-overlay
+studio.youtube.com#@$?#.opened { remove: true; }
+youtube.com##.ad-container
+youtube-nocookie.com,youtube.com##.annotation.iv-branding
+youtube-nocookie.com,youtube.com##.annotation.iv-promo
+youtube-nocookie.com,youtube.com##.iv-promo-video
+youtube-nocookie.com,youtube.com##.video-annotations
+youtube-nocookie.com,youtube.com##.ytp-cards-teaser
+youtube-nocookie.com,youtube.com##.ytp-paid-content-overlay
+youtube-nocookie.com,youtube.com###yt-lang-alert-container
+youtube-nocookie.com##.ytp-ad-progress-list
+youtube.com#?#ytd-rich-grid-renderer ytd-rich-item-renderer div > ytd-display-ad-renderer:upward(2)
+youtube.com#@##consent-bump
+youtube.com##.iv-click-target
+youtube.com##.iv-promo
+youtube.com##.masthead-ad-control,.ad-div,.pyv-afc-ads-container
+youtube.com##.mealbar-promo-renderer
+youtube.com##.share-panel
+youtube.com##.share-panel-services-container > div#share-services-container
+youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
+youtube.com##.video-ads
+youtube.com##.video-playing.ytd-video-masthead-ad-v3-renderer.style-scope
+youtube.com##.yt-consent
+youtube.com##.yt-consent-banner
+youtube.com##.ytd-search-pyv-renderer
+youtube.com##.ytd-single-option-survey-option-renderer
+youtube.com##.ytp-ad-progress-list
+youtube.com##.ytp-cards-button
+youtube.com##.ytp-ce-covering-image
+youtube.com##.ytp-ce-covering-overlay
+youtube.com##.ytp-ce-element
+youtube.com##.ytp-ce-element-shadow
+youtube.com##.ytp-ce-element.ytp-ce-channel.ytp-ce-channel-this
+youtube.com##.ytp-ce-element.ytp-ce-element-show
+youtube.com##.ytp-ce-expanding-image
+youtube.com##.ytp-subscribe-card
+youtube.com##iron-overlay-backdrop
+youtube.com##ytd-promoted-sparkles-web-renderer
+youtube.com##ytd-carousel-ad-renderer
+youtube.com##ytd-display-ad-renderer
+youtube.com##ytd-rich-item-renderer:has( > div > ytd-display-ad-renderer )
+youtube.com###__ffYoutube1
+youtube.com###__ffYoutube2
+youtube.com###__ffYoutube3
+youtube.com###__ffYoutube4
+youtube.com###alert-banner > .ytd-browse > .yt-alert-with-actions-renderer
+youtube.com###consent-bump
+youtube.com###content > .style-scope > .ytd-compact-promoted-item-renderer
+youtube.com##div[class^="ytd-consent"]
+youtube.com###feed-pyv-container
+youtube.com###masthead-ad
+youtube.com###notification-footer
+youtube.com###offer-module
+youtube.com###pla-shelf > ytd-pla-shelf-renderer[class="style-scope ytd-watch"]
+youtube.com###player-ads
+youtube.com###promotion-shelf
+youtube.com###related > ytd-watch-next-secondary-results-renderer > #items > ytd-compact-promoted-video-renderer.ytd-watch-next-secondary-results-renderer
+youtube.com###ticker-content
+youtube.com###video-masthead
+youtube.com###watch7-branded-banner
+youtube.com###watch7-sidebar-ads
+youtube.com##ytd-display-ad-renderer:upward(ytd-rich-item-renderer)
+youtube.com##ytd-popup-container > iron-dropdown .ytd-popup-container[position-type="OPEN_POPUP_POSITION_BOTTOMLEFT"]
+youtube.com##ytd-popup-container[class="style-scope ytd-app"] > iron-dropdown[force-close-on-outside-click="true"]
+youtube.com##ytd-rich-section-renderer:has( > #content > ytd-statement-banner-renderer)
+youtube.com##ytd-search-pyv-renderer
+youtube.com##ytd-video-masthead-ad-advertiser-info-renderer,ytm-promoted-sparkles-web-renderer
+youtube.com##ytm-promoted-sparkles-web-renderer
+youtube.com##+js(json-prune, [].playerResponse.adPlacements [].playerResponse.playerAds playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(json-prune, playerResponse.playerAds)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements)
+youtube.com##+js(json-prune, 2.playerResponse.adPlacements playerResponse.adPlacements playerResponse.playerAds adPlacements playerAds)
+youtube.com##+js(set-constant, playerResponse.adPlacements, undefined)
+youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, undefined)
+youtube.com##+js(set-constant, ytInitialPlayerResponse.adPlacements, null)
+youtube.com#$##appbar-guide-menu { margin-top: 50px!important; }
+youtube.com#$##ticker.ytd-masthead { display: none!important; }
+||ad-creatives-public.commondatastorage.googleapis.com
+||adservice.google.ac
+||adservice.google.ad
+||adservice.google.ae
+||adservice.google.af
+||adservice.google.ag
+||adservice.google.al
+||adservice.google.am
+||adservice.google.arab
+||adservice.google.as
+||adservice.google.at
+||adservice.google.az
+||adservice.google.ba
+||adservice.google.be
+||adservice.google.berlin
+||adservice.google.bf
+||adservice.google.bg
+||adservice.google.bi
+||adservice.google.bj
+||adservice.google.bo
+||adservice.google.bs
+||adservice.google.bt
+||adservice.google.by
+||adservice.google.ca
+||adservice.google.cat
+||adservice.google.cc
+||adservice.google.cd
+||adservice.google.cf
+||adservice.google.cg
+||adservice.google.ch
+||adservice.google.ci
+||adservice.google.cl
+||adservice.google.cm
+||adservice.google.co.ao
+||adservice.google.co.bw
+||adservice.google.co.ck
+||adservice.google.co.cr
+||adservice.google.co.id.itotolink.net
+||adservice.google.co.il
+||adservice.google.co.im
+||adservice.google.co.in
+||adservice.google.co.je
+||adservice.google.co.jp
+||adservice.google.co.ke
+||adservice.google.co.kr
+||adservice.google.co.lc
+||adservice.google.co.ls
+||adservice.google.co.ma
+||adservice.google.co.mz
+||adservice.google.co.nz
+||adservice.google.co.th
+||adservice.google.co.tz
+||adservice.google.co.ug
+||adservice.google.co.uk
+||adservice.google.co.uz
+||adservice.google.co.ve
+||adservice.google.co.vi
+||adservice.google.co.za
+||adservice.google.co.zm
+||adservice.google.co.zw
+||adservice.google.com
+||adservice.google.com.af
+||adservice.google.com.ag
+||adservice.google.com.ai
+||adservice.google.com.ar
+||adservice.google.com.au
+||adservice.google.com.bd
+||adservice.google.com.bh
+||adservice.google.com.bn
+||adservice.google.com.bo
+||adservice.google.com.br
+||adservice.google.com.by
+||adservice.google.com.bz
+||adservice.google.com.co
+||adservice.google.com.cu
+||adservice.google.com.cy
+||adservice.google.com.do
+||adservice.google.com.ec
+||adservice.google.com.eg
+||adservice.google.com.et
+||adservice.google.com.fj
+||adservice.google.com.ge
+||adservice.google.com.gh
+||adservice.google.com.gi
+||adservice.google.com.gr
+||adservice.google.com.gt
+||adservice.google.com.hk
+||adservice.google.com.iq
+||adservice.google.com.jm
+||adservice.google.com.jo
+||adservice.google.com.kh
+||adservice.google.com.kw
+||adservice.google.com.lb
+||adservice.google.com.ly
+||adservice.google.com.mm
+||adservice.google.com.mt
+||adservice.google.com.mx
+||adservice.google.com.my
+||adservice.google.com.na
+||adservice.google.com.nf
+||adservice.google.com.ng
+||adservice.google.com.ni
+||adservice.google.com.np
+||adservice.google.com.nr
+||adservice.google.com.om
+||adservice.google.com.pa
+||adservice.google.com.pe
+||adservice.google.com.pg
+||adservice.google.com.ph
+||adservice.google.com.pk
+||adservice.google.com.pl
+||adservice.google.com.pr
+||adservice.google.com.py
+||adservice.google.com.qa
+||adservice.google.com.sa
+||adservice.google.com.sb
+||adservice.google.com.sg
+||adservice.google.com.sl
+||adservice.google.com.sv
+||adservice.google.com.tj
+||adservice.google.com.tn
+||adservice.google.com.tr
+||adservice.google.com.tw
+||adservice.google.com.ua
+||adservice.google.com.uy
+||adservice.google.com.vc
+||adservice.google.com.ve
+||adservice.google.com.vn^$third-party
+||adservice.google.cv
+||adservice.google.cz
+||adservice.google.de
+||adservice.google.dev
+||adservice.google.dj
+||adservice.google.dk
+||adservice.google.dm
+||adservice.google.dz
+||adservice.google.ec
+||adservice.google.ee
+||adservice.google.es
+||adservice.google.eu
+||adservice.google.fi
+||adservice.google.film
+||adservice.google.fm
+||adservice.google.fr
+||adservice.google.ga
+||adservice.google.gd
+||adservice.google.ge
+||adservice.google.gf
+||adservice.google.gg
+||adservice.google.gl
+||adservice.google.gm
+||adservice.google.gp
+||adservice.google.gr
+||adservice.google.gy
+||adservice.google.hamburg
+||adservice.google.health
+||adservice.google.hk
+||adservice.google.hn
+||adservice.google.hr
+||adservice.google.ht
+||adservice.google.hu
+||adservice.google.ie
+||adservice.google.im
+||adservice.google.in
+||adservice.google.info
+||adservice.google.io
+||adservice.google.iq
+||adservice.google.is
+||adservice.google.it
+||adservice.google.it.ao
+||adservice.google.je
+||adservice.google.jo
+||adservice.google.jp
+||adservice.google.kg
+||adservice.google.ki
+||adservice.google.kr
+||adservice.google.kz
+||adservice.google.la
+||adservice.google.li
+||adservice.google.lk
+||adservice.google.lt
+||adservice.google.lu
+||adservice.google.lv
+||adservice.google.ma
+||adservice.google.md
+||adservice.google.me
+||adservice.google.meet
+||adservice.google.mg
+||adservice.google.mk
+||adservice.google.ml
+||adservice.google.mn
+||adservice.google.ms
+||adservice.google.mu
+||adservice.google.mv
+||adservice.google.mw
+||adservice.google.mx
+||adservice.google.ne
+||adservice.google.ne.jp
+||adservice.google.ng
+||adservice.google.nl
+||adservice.google.no
+||adservice.google.nr
+||adservice.google.nu
+||adservice.google.off.ai
+||adservice.google.pf
+||adservice.google.ph
+||adservice.google.pk
+||adservice.google.pl
+||adservice.google.pn
+||adservice.google.politie
+||adservice.google.ps
+||adservice.google.pt
+||adservice.google.qa
+||adservice.google.re
+||adservice.google.ro
+||adservice.google.rs
+||adservice.google.ru
+||adservice.google.rw
+||adservice.google.sc
+||adservice.google.se
+||adservice.google.sg
+||adservice.google.sh
+||adservice.google.si
+||adservice.google.sk
+||adservice.google.sm
+||adservice.google.sn
+||adservice.google.so
+||adservice.google.sr
+||adservice.google.st
+||adservice.google.td
+||adservice.google.tel
+||adservice.google.tg
+||adservice.google.tk
+||adservice.google.tl
+||adservice.google.tm
+||adservice.google.tn
+||adservice.google.to
+||adservice.google.tt
+||adservice.google.tw
+||adservice.google.ua
+||adservice.google.us
+||adservice.google.uz
+||adservice.google.vg
+||adservice.google.vn
+||adservice.google.voto
+||adservice.google.vu
+||adservice.google.ws
+||adservice.google.xn--mxtq1m
+||adservice.google.xn--ngbrx
+||adservice.google.xn--node
+||analytics.googleapis.com
+||analyticsinsights-pa.googleapis.com
+||analyticssearch-pa.googleapis.com
+||androidtvchannels-pa.googleapis.com
+||androidtvwatsonfe-pa.googleapis.com
+||clouderrorreporting.googleapis.com
+||console.googletagservices.com
+||content-analyticsinsights-pa.googleapis.com
+||crashlyticsreports-pa.googleapis.com
+||device-provisioning.googleapis.com
+||doubleclick.net^$script,image,object,subdocument,xmlhttprequest,object-subrequest,popup,third-party
+||firebasedynamiclinks-ipv4.googleapis.com
+||firebasedynamiclinks.googleapis.com
+||firebaseinappmessaging.googleapis.com
+||firebaseinstallations.googleapis.com
+||firebaselogging-pa.googleapis.com
+||firebaselogging.googleapis.com
+||geller-pa.googleapis.com
+||geomobileservices-pa.googleapis.com
+||google-analytics.com
+||google-analytics.com/analytics.js$important,script,redirect=google-analytics.com/analytics.js,domain=support.amd.com
+||google-analytics.com/ga.js$script,redirect=google-analytics.com/ga.js
+||google.com/ads*
+||googleads.g.doubleclick.net
+||googleads.g.doubleclick.net/pagead/id$script,xmlhttprequest,redirect=noop.js
+||googleadservices.com
+||googlesyndication.com
+||googletagmanager.com
+||googletagmanager.com/gtm.js$important,script,redirect=googletagmanager.com/gtm.js,domain=support.amd.com
+||googletagmanager.com/gtm.js$script,redirect=googletagmanager.com/gtm.js
+||googletagservices.com
+||googletagservices.com/tag/js/gpt.js$script,redirect=googletagservices.com/gpt.js
+||googleusercontent.com^$image,domain=diendanvetinh.forumvi.com|bongdalive.tv|bongdaso.tv|bongdainfo.tv|demkhuya.tv|thuckhuya.net
+||googlevideo.com/videoplayback?*&ctier=L&$xmlhttprequest,domain=www.youtube.com|m.youtube.com|music.youtube.com
+||logging.googleapis.com
+||m.youtube.com/*/ad.js$script
+||mobilecrashreporting.googleapis.com
+||mobiledataplansharing.googleapis.com
+||opjstlfyrwoptimizationguide-pa.googleapis.com
+||playmoviesdfe-pa.googleapis.com
+||pubads.g.doubleclick.net/gampad/ads*
+||pubads.g.doubleclick.net/gampad/live/ads*
+||pubsub.googleapis.com
+||safebrowsing.googleapis-cn.com
+||securepubads.g.doubleclick.net
+||securepubads.g.doubleclick.net/tag/js/gpt.js$script,redirect=googletagservices_gpt.js
+||semanticlocation-pa.googleapis.com
+||static.doubleclick.net
+||storage.googleapis.com/728x90/rutracker*.gif|
+||userlocation.googleapis.com
+||youtube.com/ad_data_
+||youtube.com/ads/$image
+||youtube.com/annotations_invideo?*
+||youtube.com/api/stats/
+||youtube.com/embed/VLz6bN1dImo?*
+||youtube.com/gen_*?a=resolution&width=*
+||youtube.com/get_midroll_
+||youtube.com/get_video_*el=adunit*
+||youtube.com/get_video_info?*=adunit&$important
+||youtube.com/get_video_info?$~third-party,badfilter
+||youtube.com/yts/jsbin/www-pagead-id-
