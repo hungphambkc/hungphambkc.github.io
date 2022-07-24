@@ -791,10 +791,8 @@ zippyshare.com###qrCode ~ a[href$="1131386.html"]
 90m.tv,phut90.online,phut91.online,binhluanvidamme.online##+js(acis, $, overlay)
 90phut2.live##+js(acs, $, overlay)
 90phut2.live##+js(acs, setTimeout, overlay)
-aphim.tv##+js(window.open-defuser.js)
 autoitvn.com##+js(abort-current-inline-script.js, addEventListener, AdBlock)
-biluu.co##+js(abort-current-inline-script.js, popunder)
-biluu.tv##+js(abort-current-inline-script.js, popunder)
+bilutv.co##+js(abort-current-inline-script.js, popunder)
 binhluan.xyz##+js(setTimeout-defuser, modal-media-image)
 blog.abit.vn,phimdinhcao.net,truyensieuhay.com,ahphimtop.com,tvchill.org##+js(aopr, document.cookie)
 blogtruyen.vn##+js(acis, document.write)
@@ -844,8 +842,6 @@ vungoctuan.vn##+js(acs, document.write, snow)
 vungoctuan.vn##+js(no-xhr-if, ads)
 watchsb.com##+js(aopr, __Y)
 xemphimgi.net##+js(aeld, click, window.open)
-xnxx-sex-videos.com##+js(acs, setTimeout, window.location)
-xnxx-sex-videos.com##+js(ra, target|onclick, a[href^="/video/"])
 ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ! ====================== Third-party adverts and trackers =====================
 *-ad.24hstatic.com
@@ -1308,6 +1304,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||bravoporn.com
 ||bravotube.net
 ||bred4tula.com
+||brokerhalve.com
 ||browser-http-intake.logs.datadoghq.com
 ||browser-http-intake.logs.datadoghq.eu
 ||browser-intake-datadoghq.eu
@@ -1831,6 +1828,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||income88.com
 ||infogame.vn/*swf
 ||infolinks.com
+||inherentsupposed.com
 ||inklinkor.com
 ||innity.$third-party
 ||inpage-push.com
@@ -2841,6 +2839,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||subjav.pro
 ||subjav.tv
 ||subjavhd.com
+||successfulpatience.com
 ||sun.games
 ||sunnycategoryopening.com
 ||sunsekrious.com
