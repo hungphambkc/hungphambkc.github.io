@@ -318,14 +318,8 @@ dellwindowsreinstallationguide.com##.adtester-container-141.adtester-container.m
 dellwindowsreinstallationguide.com##.adtester-container-142.adtester-container.leader-2142.leader-2.ezoic-ad
 dellwindowsreinstallationguide.com##.adtester-container-143.adtester-container.narrow-sky-1143.narrow-sky-1.ezoic-ad
 dellwindowsreinstallationguide.com##.adtester-container-144.adtester-container.mobile-leaderboard-2144.mobile-leaderboard-2.ezoic-ad
+dellwindowsreinstallationguide.com##.ezmobtrans.ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezmob-footer
 deviantart.com##.partial-ad
-diadiem.com##.div_box_adv
-diadiem.com###divPopAdsPOI
-dichthuatphuongdong.com##.text-center.p-5.modal-body
-dichthuatphuongdong.com##.modal-content
-dichthuatphuongdong.com##.modal-dialog
-dichthuatphuongdong.com##.show.fade.modal
-dichthuatphuongdong.com##.show.fade.modal-backdrop
 disk.yandex.by,disk.yandex.com,disk.yandex.kz,disk.yandex.ru,disk.yandex.ua,disk.yandex.uz#@#.content_ads
 disk.yandex.by,disk.yandex.kz,disk.yandex.ru,disk.yandex.ua,disk.yandex.uz##.awaps__banner
 docs.yandex.by,docs.yandex.kz,docs.yandex.ru,docs.yandex.ua,docs.yandex.uz##.Docs-View__Loading
@@ -337,22 +331,10 @@ downfile.site###orquidea-slideup-ad-slot
 download.tienichmaytinh.net##.container > .adsbygoogle
 download.tienichmaytinh.net##.shadow.card > .adsbygoogle
 eva.vn##[id^="ADS_"]
-expertcircuits.blogspot.com###fanback
-facebook.com##html#facebook._9dls.__fb-dark-mode > body._6s5d._71pn._-kb.segoe > div.AdBox.Ad.advert.post-ads
-facebook.com##html#facebook._9dls.__fb-dark-mode > body._6s5d._71pn._-kb.segoe > div.advertising_widget
-facebook.com##html#facebook._9dls.__fb-light-mode > body._6s5d._71pn.system-fonts--body.segoe > div.download_link_sponsored
-facebook.com##html#facebook._9dls.__fb-light-mode > body._6s5d._71pn.system-fonts--body.segoe > div.sponsorPost
-facebook.com##html#facebook._9dls.__fb-light-mode > body._6s5d._71pn.system-fonts--body.segoe > div.widgetSponsors
-facebook.com###stream_pagelet > #pagelet_megaphone
-facebook.com##body > .AdBox.Ad.advert:style(display:block!important;)
-facebook.com##a[aria-label="Advertiser link"]
-facebook.com##div[id^="mount_"] div[data-pagelet="RightRail"] > div:not([data-vc-ignore-dynamic]) > div:not([class])
-fbtag.net##.Flagrow-Ads-fake-poststream-item
 fidlarmusic.com###div-ub-fidlarmusic
 fidlarmusic.com,kiemlua.com,publicananker.com##.KTBue
 fidlarmusic.com,kiemlua.com,publicananker.com###ubvideo-frame
 fidlarmusic.com,kiemlua.com,publicananker.com##.ub-loaded.pcFrame
-fimfast.com##BODY > .ff-banner
 findip-address.com##.banner
 findip-address.com##.header
 findip-address.com##.topbanner
@@ -378,9 +360,9 @@ getlink.tienichmaytinh.net##.banner-inner
 getlink.tienichmaytinh.net##div.banner-captcha.banner
 ghacks.net##.block
 ghacks.net##.ghacks-ad
-hanoicomputer.vn###highstreet
+hacom.vn###backgroundPopup
+hacom.vn###corner-banner
 hdvietnam.com###youtube.secondaryContent
-hdvip.tv##.rightleftads
 icongnghe.com##.td_block_template_1.tdi_1.td-g-rec-id-header.td-g-rec
 icongnghe.com##.td_block_template_1.tdi_26.td-g-rec-id-footer_top.td-g-rec
 iconmonstr.com##.adblock-notification
@@ -2072,6 +2054,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||koochaud.net
 ||korgiejoinyou.com
 ||ks96.vip
+||ktien.vn
 ||ktokto.mobi
 ||ktoviet.com
 ||ku-video.xyz
