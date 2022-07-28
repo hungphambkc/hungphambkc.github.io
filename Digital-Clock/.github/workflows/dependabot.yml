@@ -10,3 +10,5 @@ updates:
     schedule:
       interval: "daily"
       time: "02:00"
+    labels:
+      - "codeql update"
