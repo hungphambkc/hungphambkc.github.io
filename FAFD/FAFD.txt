@@ -1348,6 +1348,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||choirikvip.net
 ||chovinh.com/data/*.gif|
 ||chuthapdohatinh.org.vn/upload/tailieu/*.htm
+||civicscience.com
 ||cl69721.com
 ||clarity.ms
 ||cleardexchange.com
@@ -1688,6 +1689,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||gq.eu.y.atwola.com
 ||gq.us.y.atwola.com
 ||grannypatty.tv
+||graph.instagram.com
 ||greenupload.com/images/*.gif$domain=thiendia.com
 ||gregfeingoldmusic.com
 ||grootcho.com
@@ -1709,6 +1711,8 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||hay88.me
 ||hayhaytv.com/js/atracking.js
 ||hayhaytv.vn/static/*.gif|
+||haysex.net
+||haysex.pro
 ||hdcredit88.com
 ||hetapus.com
 ||hdo.tv/file/*.jpg
@@ -2011,6 +2015,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||js.wpadmngr.com
 ||js.wpnsrv.com
 ||js.wpushsdk.com
+||js7k.com
 ||jsapi.html5.qq.com
 ||jsapi.lightboxcdn.com
 ||jsauth.mymovies.net
@@ -2362,6 +2367,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||otnolatrnup.com
 ||ouo.io/images/download-ad.
 ||ouo.io/js/pop.
+||outbrain.com
 ||oxbet.net
 ||ozobsaib.com
 ||p-ussy.com
@@ -2812,6 +2818,7 @@ ytstv.me,yts.do,yts.mx,yts.movie,yts.rs##+js(aopr, atob)
 ||subjav.cc
 ||subjav.live
 ||subjav.me
+||subjav.org
 ||subjav.pro
 ||subjav.tv
 ||subjavhd.com
@@ -5406,12 +5413,14 @@ answers.yahoo.com##[id$="textads"]
 ||c2shb.pubgw.yahoo.com
 ||c2shb.ssp.yahoo.com
 ||cdn.ssp.yahoo.com
+||cerebro.edna.yahoo.net
 ||comet.yahoo.com
 ||consent.yahoo.com
 ||conversions.v.ssp.yahoo.com
 ||cookiex.ngd.yahoo.com
 ||csp.yahoo.com
 ||edge-mcdn-beacon.secure.yahoo.com
+||edgecast-vod.yahoo.net
 ||eu-central-1.onemobile.yahoo.com
 ||exceptions.mobile.yahoo.com
 ||ganon.yahoo.com
@@ -5458,6 +5467,7 @@ answers.yahoo.com##[id$="textads"]
 ||udcm.yahoo.com
 ||yahoo.com/beacon/
 ||yahoo.com/sync/casale/
+||yahoovod.hs.llnwd.net
 ||ybp.yahoo.com
 ||yimg.com/aaq/vzm/$script,domain=news.yahoo.com
 ||yimg.com/cx/vzm/cs.js
