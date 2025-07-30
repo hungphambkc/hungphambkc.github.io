@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Hung Pham
+title: Home
 ---
 
 Welcome to my personal website!
